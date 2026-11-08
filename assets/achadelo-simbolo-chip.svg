@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Achadelo">
+  <title>Achadelo — símbolo no chip</title>
+  <rect x="0" y="0" width="512" height="512" rx="104" fill="#12100c"/>
+  <g transform="translate(36 36) scale(0.86)"><path d="M0 208h150l52-118l70 236l52-118h124" fill="none" stroke="#ffc24b" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

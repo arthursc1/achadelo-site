@@ -1,0 +1,123 @@
+/* Achadelo — site. Tokens da marca (direção E3 · âmbar), modo noturno. */
+
+:root {
+  --fundo: #12100c;
+  --tinta: #f5f0e6;
+  --acento: #ffc24b;
+  --alerta: #ff5a3c;
+  --apoio: #1e1a12;
+  --linha: #2e2820;
+  --titulo: "Archivo Black", "Arial Black", system-ui, sans-serif;
+  --texto: "Inter", system-ui, -apple-system, sans-serif;
+  --raio: 14px;
+  --max: 1100px;
+}
+
+*, *::before, *::after { box-sizing: border-box; touch-action: manipulation; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--fundo); color: var(--tinta);
+  font-family: var(--texto); font-size: 17px; line-height: 1.5;
+}
+img { display: block; max-width: 100%; }
+a { color: var(--acento); }
+
+.container { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
+
+/* ---------- cabeçalho ---------- */
+.topo { border-bottom: 1px solid var(--linha); background: var(--fundo); position: sticky; top: 0; z-index: 10; }
+.topo .container { display: flex; align-items: center; gap: 12px; padding-top: 12px; padding-bottom: 12px; }
+.topo img { width: 40px; height: 40px; }
+.topo .nome { font-family: var(--titulo); font-size: 1.4rem; text-transform: uppercase; letter-spacing: .01em; }
+.topo .versao {
+  font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  border: 1px solid var(--linha); color: #a49a86; border-radius: 999px; padding: 3px 9px;
+}
+.topo .tag { display: block; font-size: .82rem; color: #b6ab94; margin-top: 2px; }
+.topo nav { margin-left: auto; display: flex; gap: 14px; font-size: .9rem; }
+.topo nav a { color: var(--tinta); text-decoration: none; opacity: .75; }
+.topo nav a:hover { opacity: 1; }
+
+/* ---------- destaque ---------- */
+.chamada { padding-block: 26px 6px; }
+.chamada h1 { font-family: var(--titulo); font-size: clamp(1.7rem, 6vw, 2.6rem); line-height: 1.1; margin: 0 0 8px; }
+.chamada h1 em { color: var(--acento); font-style: normal; }
+.chamada p { color: #b6ab94; max-width: 52ch; margin: 0; }
+
+/* ---------- filtros ---------- */
+.filtros { display: flex; gap: 8px; overflow-x: auto; padding: 18px 0 6px; scrollbar-width: none; }
+.filtros::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; font: inherit; font-size: .92rem; cursor: pointer;
+  background: transparent; color: var(--tinta); border: 1px solid var(--linha);
+  border-radius: 999px; padding: 8px 14px;
+}
+.chip[aria-pressed="true"] { background: var(--acento); border-color: var(--acento); color: #12100c; font-weight: 700; }
+
+/* ---------- grade de ofertas ---------- */
+.grade { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); padding: 14px 0 34px; }
+@media (max-width: 560px) { .grade { grid-template-columns: repeat(2, 1fr); gap: 12px; } }
+
+.card {
+  background: var(--apoio); border: 1px solid var(--linha); border-radius: var(--raio);
+  overflow: hidden; display: flex; flex-direction: column; text-decoration: none; color: inherit;
+}
+.card .foto { position: relative; aspect-ratio: 1 / 1; overflow: hidden; background: #241f16; }
+.card .foto img { width: 100%; height: 100%; object-fit: cover; }
+.card .selo {
+  position: absolute; right: 10px; bottom: 10px; background: var(--acento); color: #12100c;
+  border-radius: 10px; padding: 6px 10px; font-family: var(--titulo); font-size: 1rem; line-height: 1;
+}
+.card .texto { padding: 12px 12px 14px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.card .titulo { font-weight: 700; font-size: 1rem; }
+.card .preco { font-family: var(--titulo); font-size: 1.4rem; margin-top: auto; }
+.card .de { font-size: .92rem; color: #c4b9a5; text-decoration: line-through; }
+.card .tag { font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; color: var(--acento); }
+.card:focus-visible, .chip:focus-visible, .botao:focus-visible { outline: 3px solid var(--acento); outline-offset: 2px; }
+
+.vazio { border: 1px dashed var(--linha); border-radius: var(--raio); padding: 26px 18px; color: #b6ab94; text-align: center; }
+
+/* ---------- página da oferta ---------- */
+/* padding só na vertical: quem dá a margem lateral é o .container, e sobrescrever
+   aqui faria o texto encostar na borda da tela no celular */
+.oferta { display: grid; gap: 22px; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); padding-block: 24px 40px; }
+@media (max-width: 760px) { .oferta { grid-template-columns: 1fr; } }
+.oferta .foto { position: relative; border: 1px solid var(--linha); border-radius: var(--raio); overflow: hidden; background: #241f16; }
+.oferta .foto img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; }
+.oferta .selo {
+  position: absolute; right: 16px; bottom: 16px; background: var(--acento); color: #12100c;
+  border-radius: 12px; padding: 10px 14px; font-family: var(--titulo); font-size: 1.4rem; line-height: 1;
+}
+.oferta h1 { font-family: var(--titulo); font-size: clamp(1.5rem, 5vw, 2.1rem); line-height: 1.15; margin: 0 0 10px; }
+.oferta .de { color: #c4b9a5; font-size: 1.05rem; text-decoration: line-through; }
+.oferta .preco { font-family: var(--titulo); font-size: clamp(2rem, 8vw, 3rem); margin: 6px 0 18px; }
+.oferta .nota { font-size: .95rem; color: #c4b9a5; line-height: 1.5; }
+
+.botao {
+  display: inline-block; text-align: center; text-decoration: none; cursor: pointer;
+  background: var(--acento); color: #12100c; font-family: var(--titulo);
+  font-size: 1.1rem; padding: 16px 22px; border-radius: 12px; border: none; width: 100%;
+}
+.botao.secundario { background: transparent; color: var(--tinta); border: 1px solid var(--linha); font-family: var(--texto); font-weight: 600; }
+.botao[disabled], .botao:disabled {
+  background: transparent; color: #c4b9a5; border: 1px dashed #4a4234;
+  font-family: var(--texto); font-weight: 600; font-size: 1rem; cursor: not-allowed;
+}
+
+.aviso-publicidade {
+  margin-top: 14px; font-size: .92rem; letter-spacing: .04em; text-transform: uppercase; color: #c4b9a5;
+}
+.tarja-exemplo {
+  margin: 18px 0 0; border: 1px solid var(--alerta); color: #ffb3a4;
+  background: rgb(255 90 60 / .1); border-radius: var(--raio); padding: 12px 14px; font-size: .95rem;
+}
+
+/* ---------- rodapé ---------- */
+.rodape { border-top: 1px solid var(--linha); margin-top: 20px; padding: 22px 0 40px; font-size: .95rem; color: #c4b9a5; }
+.rodape a { color: var(--tinta); }
+.rodape p { margin: 0 0 8px; max-width: 70ch; }
+
+/* ---------- utilidades ---------- */
+.migalha { padding-top: 18px; font-size: .9rem; }
+.migalha a { color: #b6ab94; text-decoration: none; }
+.carregando { padding: 40px 0; color: #b6ab94; }

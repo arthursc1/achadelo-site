@@ -1,0 +1,72 @@
+{
+  "atualizado": "2026-11-08",
+  "aviso": "Todas as ofertas deste arquivo são de exemplo, para avaliação do site. Preços não foram conferidos em nenhum anúncio. O campo 'exemplo: true' faz o site mostrar a tarja de dados de exemplo.",
+  "categorias": [
+    { "id": "casa", "nome": "Casa" },
+    { "id": "cozinha", "nome": "Cozinha" },
+    { "id": "eletronicos", "nome": "Eletrônicos" },
+    { "id": "ferramentas", "nome": "Ferramentas" }
+  ],
+  "ofertas": [
+    {
+      "id": "air-fryer-45l",
+      "titulo": "Air fryer 4,5 L antiaderente",
+      "categoria": "cozinha",
+      "preco": 299.9,
+      "preco_antigo": 499.9,
+      "desconto": 40,
+      "foto": "assets/air-fryer-1.jpg",
+      "loja": "Mercado Livre",
+      "link": "",
+      "visto_em": "2026-11-08",
+      "destaque": true,
+      "exemplo": true,
+      "observacao": "Cabe 4,5 L — serve família de 4 pessoas."
+    },
+    {
+      "id": "cafeteira-espresso",
+      "titulo": "Cafeteira espresso compacta",
+      "categoria": "cozinha",
+      "preco": 899.0,
+      "preco_antigo": 1329.0,
+      "desconto": 32,
+      "foto": "assets/espresso-machine-2.jpg",
+      "loja": "Mercado Livre",
+      "link": "",
+      "visto_em": "2026-11-07",
+      "destaque": true,
+      "exemplo": true,
+      "observacao": "Ocupa 20 cm de bancada e já vem com filtro duplo."
+    },
+    {
+      "id": "panela-ferro-24",
+      "titulo": "Panela de ferro fundido 24 cm",
+      "categoria": "cozinha",
+      "preco": 189.0,
+      "preco_antigo": 289.0,
+      "desconto": 35,
+      "foto": "assets/cookware-pots-3.jpg",
+      "loja": "Mercado Livre",
+      "link": "",
+      "visto_em": "2026-11-06",
+      "destaque": false,
+      "exemplo": true,
+      "observacao": "Serve para fogão, forno e até fogueira."
+    },
+    {
+      "id": "frigideira-ferro-26",
+      "titulo": "Frigideira de ferro fundido 26 cm",
+      "categoria": "casa",
+      "preco": 219.0,
+      "preco_antigo": 292.0,
+      "desconto": 25,
+      "foto": "assets/cast-iron-skillet-2.jpg",
+      "loja": "Mercado Livre",
+      "link": "",
+      "visto_em": "2026-11-05",
+      "destaque": false,
+      "exemplo": true,
+      "observacao": "Já vem temperada de fábrica."
+    }
+  ]
+}

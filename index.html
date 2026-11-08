@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Achadelo — achadinhos de casa e cozinha. Ofertas garimpadas uma por uma, com link direto para o anúncio.">
+<meta name="theme-color" content="#12100c">
+<title>Achadelo — achadinhos de casa e cozinha</title>
+<link rel="icon" href="assets/achadelo-simbolo-chip.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<header class="topo">
+  <div class="container">
+    <img src="assets/achadelo-simbolo-chip.svg" alt="">
+    <div>
+      <span class="nome">Achadelo</span> <span class="versao">v0.1</span>
+      <span class="tag">achadinhos de casa e cozinha</span>
+    </div>
+    <nav>
+      <a href="aviso.html">link de afiliado</a>
+    </nav>
+  </div>
+</header>
+
+<section class="container chamada">
+  <h1>Achadinhos de <em>casa e cozinha</em>, garimpados um por um.</h1>
+  <p>Ofertas de cair o cabelo, com o preço conferido na data que está em cada peça. A gente não vende: o link leva direto para o anúncio.</p>
+</section>
+
+<div class="container">
+  <p class="tarja-exemplo" id="tarja-exemplo" hidden>Dados de exemplo, para avaliação do site. Nenhum preço foi conferido em anúncio.</p>
+  <div class="filtros" id="filtros" role="group" aria-label="Filtrar por categoria"></div>
+</div>
+
+<div class="container">
+  <div class="grade" id="grade">
+    <p class="carregando">carregando ofertas…</p>
+  </div>
+  <div class="vazio" id="vazio" hidden></div>
+</div>
+
+<footer class="rodape">
+  <div class="container">
+    <p><strong>Este site contém links de afiliado.</strong> Se você comprar pelo link, o Achadelo recebe uma comissão da loja — você paga o mesmo preço. <a href="aviso.html">entenda aqui</a>.</p>
+    <p>Achadelo é uma marca independente: não é loja, não é canal oficial e não tem vínculo com as lojas citadas. Preços e disponibilidade mudam sem aviso.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
