@@ -2,10 +2,22 @@
   "atualizado": "2026-11-09",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
-    { "id": "casa", "nome": "Casa" },
-    { "id": "cozinha", "nome": "Cozinha" },
-    { "id": "eletronicos", "nome": "Eletrônicos" },
-    { "id": "ferramentas", "nome": "Ferramentas" }
+    {
+      "id": "casa",
+      "nome": "Casa"
+    },
+    {
+      "id": "cozinha",
+      "nome": "Cozinha"
+    },
+    {
+      "id": "eletronicos",
+      "nome": "Eletrônicos"
+    },
+    {
+      "id": "ferramentas",
+      "nome": "Ferramentas"
+    }
   ],
   "ofertas": [
     {
@@ -21,6 +33,62 @@
       "visto_em": "2026-11-09",
       "destaque": true,
       "observacao": "R$ 92,05 no Pix; R$ 96,90 em outros meios. Frete grátis."
+    },
+    {
+      "id": "sofa-retratil-reclinavel-2-50m-nivus-cinza",
+      "titulo": "Sofá Retrátil Reclinável 2,50m Nivus Cinza Molas Ensacadas - King House",
+      "categoria": "casa",
+      "preco": 1799.0,
+      "preco_antigo": 3343.0,
+      "desconto": 46,
+      "foto": "assets/sofa-retratil-reclinavel-2-50m-nivus-cinza.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2wZo1U8",
+      "visto_em": "2026-11-09",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "sofa-retratil-reclinavel-atenas-2-30m-sued",
+      "titulo": "Sofá Retrátil Reclinável Atenas 2,30m Suede Velut Cinza",
+      "categoria": "casa",
+      "preco": 1519.0,
+      "preco_antigo": 2331.0,
+      "desconto": 34,
+      "foto": "assets/sofa-retratil-reclinavel-atenas-2-30m-sued.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1RGEqRB",
+      "visto_em": "2026-11-09",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "sofa-retratil-reclinavel-zurique-2-50m-sue",
+      "titulo": "Sofá Retrátil Reclinável Zurique 2,50m Suede Velut Cinza Molas no Assento - King House",
+      "categoria": "casa",
+      "preco": 1891.0,
+      "preco_antigo": 2859.0,
+      "desconto": 33,
+      "foto": "assets/sofa-retratil-reclinavel-zurique-2-50m-sue.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1nN2Go9",
+      "visto_em": "2026-11-09",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "colibri-rack-bancada-fortaleza-4-portas-tv",
+      "titulo": "Colibri Rack Bancada Fortaleza 4 Portas TV até 75 Polegadas",
+      "categoria": "casa",
+      "preco": 577.75,
+      "preco_antigo": 842.8,
+      "desconto": 31,
+      "foto": "assets/colibri-rack-bancada-fortaleza-4-portas-tv.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1EEMybe",
+      "visto_em": "2026-11-09",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     }
   ]
 }
