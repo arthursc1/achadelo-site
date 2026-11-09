@@ -1,4 +1,4 @@
-// Achadelo — site. Sem framework: lê dados/ofertas.json e monta as telas.
+// Achadelo — site. Sem framework: lê dados/ofertas.json (+ dados/mascotes.json) e monta as telas.
 // Formato do dinheiro em pt-BR; nenhum estado fica no servidor.
 
 const brl = (valor) => valor.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
@@ -7,6 +7,28 @@ async function carregarOfertas() {
   const resposta = await fetch("dados/ofertas.json", { cache: "no-store" });
   if (!resposta.ok) throw new Error("não consegui ler dados/ofertas.json");
   return resposta.json();
+}
+
+// O mascote é enfeite: se mascotes.json faltar ou vier quebrado, o site segue sem ele.
+async function carregarMascotes() {
+  try {
+    const resposta = await fetch("dados/mascotes.json", { cache: "no-store" });
+    if (!resposta.ok) return null;
+    return await resposta.json();
+  } catch {
+    return null;
+  }
+}
+
+function mascoteDaCategoria(mascotes, categoria) {
+  return mascotes?.categorias?.[categoria] ?? null;
+}
+
+// A arte já tem o carvão da marca no fundo: alt vazio mantém a imagem decorativa
+// (o nome acessível do chip continua sendo só o nome da categoria).
+function imagemMascote(info, classe) {
+  if (!info) return "";
+  return `<img class="${classe}" src="${info.arquivo}" alt="" loading="lazy" width="512" height="512">`;
 }
 
 function cardOferta(oferta) {
@@ -27,19 +49,23 @@ function cardOferta(oferta) {
   return artigo;
 }
 
-function montarVitrine(dados) {
+function montarVitrine(dados, mascotes) {
   const grade = document.getElementById("grade");
   const filtros = document.getElementById("filtros");
   const vazio = document.getElementById("vazio");
   const exemplo = dados.ofertas.some((o) => o.exemplo);
   if (exemplo) document.getElementById("tarja-exemplo").hidden = false;
 
+  // o mascote só entra no filtro quando a categoria já tem oferta de verdade
+  const temOferta = (id) => dados.ofertas.some((o) => o.categoria === id);
+
   const categorias = [{ id: "tudo", nome: "Tudo" }, ...dados.categorias];
   categorias.forEach((categoria, indice) => {
     const botao = document.createElement("button");
     botao.className = "chip";
     botao.type = "button";
-    botao.textContent = categoria.nome;
+    const info = temOferta(categoria.id) ? mascoteDaCategoria(mascotes, categoria.id) : null;
+    botao.innerHTML = `${imagemMascote(info, "mascote-chip")}<span>${categoria.nome}</span>`;
     botao.setAttribute("aria-pressed", indice === 0 ? "true" : "false");
     botao.addEventListener("click", () => {
       filtros.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", "false"));
@@ -57,8 +83,13 @@ function montarVitrine(dados) {
     vazio.hidden = lista.length > 0;
     if (lista.length) return;
 
+    const info = mascoteDaCategoria(mascotes, categoria) ?? mascotes?.geral ?? null;
+    const mascote = info
+      ? `<div class="vazio-mascote">${imagemMascote(info, "")}<p><strong>${info.nome}</strong> — ${info.frase}</p></div>`
+      : "";
+
     if (!dados.ofertas.length) {
-      vazio.innerHTML = `
+      vazio.innerHTML = `${mascote}
         <strong>As primeiras ofertas estão sendo garimpadas.</strong><br>
         A marca começa por casa e cozinha: cada oferta é conferida antes de entrar aqui,
         e a data da conferência vai em toda peça.<br><br>
@@ -66,13 +97,14 @@ function montarVitrine(dados) {
       return;
     }
     const nome = categorias.find((c) => c.id === categoria)?.nome ?? categoria;
-    vazio.textContent = `Nada em ${nome} ainda — a marca começa por casa e cozinha e amplia depois.`;
+    vazio.innerHTML = `${mascote}
+      <span>Nada em ${nome} ainda — a marca começa por casa e cozinha e amplia depois.</span>`;
   }
 
   desenhar("tudo");
 }
 
-function montarOferta(dados) {
+function montarOferta(dados, mascotes) {
   const id = new URLSearchParams(location.search).get("id");
   const oferta = dados.ofertas.find((o) => o.id === id);
   const alvo = document.getElementById("conteudo");
@@ -87,6 +119,10 @@ function montarOferta(dados) {
 
   document.title = `${oferta.titulo} — Achadelo`;
   const semLink = !oferta.link;
+  const info = mascoteDaCategoria(mascotes, oferta.categoria);
+  const garimpado = info
+    ? `<p class="garimpado">${imagemMascote(info, "")}<span>${info.frase}</span></p>`
+    : "";
   alvo.innerHTML = `
     <div class="foto">
       <img src="${oferta.foto}" alt="${oferta.titulo}">
@@ -98,6 +134,7 @@ function montarOferta(dados) {
       <p class="de">${brl(oferta.preco_antigo)}</p>
       <p class="preco">${brl(oferta.preco)}</p>
       ${oferta.observacao ? `<p class="nota">${oferta.observacao}</p>` : ""}
+      ${garimpado}
       <p style="margin:18px 0 10px">
         ${semLink
           ? `<button class="botao" type="button" disabled>link de afiliado ainda não cadastrado</button>`
@@ -114,9 +151,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     || document.getElementById("grade")
     || document.body;
   try {
-    const dados = await carregarOfertas();
-    if (document.getElementById("grade")) montarVitrine(dados);
-    else montarOferta(dados);
+    const [dados, mascotes] = await Promise.all([carregarOfertas(), carregarMascotes()]);
+    if (document.getElementById("grade")) montarVitrine(dados, mascotes);
+    else montarOferta(dados, mascotes);
   } catch (erro) {
     destino.innerHTML = `<p class="carregando">Não consegui carregar as ofertas: ${erro.message}</p>`;
   }

@@ -51,8 +51,12 @@ a { color: var(--acento); }
   flex: none; font: inherit; font-size: .92rem; cursor: pointer;
   background: transparent; color: var(--tinta); border: 1px solid var(--linha);
   border-radius: 999px; padding: 8px 14px;
+  display: inline-flex; align-items: center; gap: 7px;
 }
 .chip[aria-pressed="true"] { background: var(--acento); border-color: var(--acento); color: #12100c; font-weight: 700; }
+/* mascote do filtro: só aparece na categoria que já tem oferta (ver app.js) */
+.mascote-chip { width: 22px; height: 22px; border-radius: 50%; background: var(--fundo); border: 1px solid var(--linha); }
+.chip[aria-pressed="true"] .mascote-chip { border-color: #12100c; }
 
 /* ---------- grade de ofertas ---------- */
 .grade { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); padding: 14px 0 34px; }
@@ -76,6 +80,10 @@ a { color: var(--acento); }
 .card:focus-visible, .chip:focus-visible, .botao:focus-visible { outline: 3px solid var(--acento); outline-offset: 2px; }
 
 .vazio { border: 1px dashed var(--linha); border-radius: var(--raio); padding: 26px 18px; color: #b6ab94; text-align: center; }
+.vazio-mascote { display: flex; flex-direction: column; align-items: center; gap: 10px; margin-bottom: 18px; }
+.vazio-mascote img { width: 118px; height: 118px; border-radius: 50%; background: var(--fundo); border: 1px solid var(--linha); }
+.vazio-mascote p { margin: 0; max-width: 34ch; color: #c4b9a5; font-size: .95rem; }
+.vazio-mascote strong { color: var(--tinta); }
 
 /* ---------- página da oferta ---------- */
 /* padding só na vertical: quem dá a margem lateral é o .container, e sobrescrever
@@ -92,6 +100,10 @@ a { color: var(--acento); }
 .oferta .de { color: #c4b9a5; font-size: 1.05rem; text-decoration: line-through; }
 .oferta .preco { font-family: var(--titulo); font-size: clamp(2rem, 8vw, 3rem); margin: 6px 0 18px; }
 .oferta .nota { font-size: .95rem; color: #c4b9a5; line-height: 1.5; }
+/* quem garimpou: mascote da categoria da oferta (ver dados/mascotes.json) */
+.oferta .garimpado { display: flex; align-items: center; gap: 11px; margin: 16px 0 0; }
+.oferta .garimpado img { width: 58px; height: 58px; flex: none; border-radius: 50%; background: var(--fundo); border: 1px solid var(--linha); }
+.oferta .garimpado span { font-size: .93rem; color: #c4b9a5; line-height: 1.45; }
 
 .botao {
   display: inline-block; text-align: center; text-decoration: none; cursor: pointer;

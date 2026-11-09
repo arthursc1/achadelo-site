@@ -1,0 +1,43 @@
+{
+ "gerado_de": "brand/direcoes/mascote — rodada 1 (x470, Qwen-Image-2.1)",
+ "nota": "Um mascote por CATEGORIA de oferta. Quando aparece a primeira oferta de uma categoria, o mascote dela passa a aparecer no filtro e na página da oferta. Arquivo sem categoria associada fica de fora até ser escolhido.",
+ "categorias": {
+  "cozinha": {
+   "arquivo": "assets/mascotes/cozinha.png",
+   "nome": "Panelinha",
+   "frase": "Panelinha garimpa a cozinha: pote, panela, utensílio."
+  },
+  "casa": {
+   "arquivo": "assets/mascotes/casa.png",
+   "nome": "Abajur",
+   "frase": "Abajur fica de plantão no que é de casa."
+  },
+  "eletronicos": {
+   "arquivo": "assets/mascotes/eletronicos.png",
+   "nome": "Capivara",
+   "frase": "Capivara procura eletrônico — celular na mão."
+  },
+  "ferramentas": {
+   "arquivo": "assets/mascotes/ferramentas.png",
+   "nome": "Formiga",
+   "frase": "Formiga carrega ferramenta e acha o que resolve."
+  }
+ },
+ "geral": {
+  "arquivo": "assets/mascotes/elenco-geral.png",
+  "nome": "Cão caramelo",
+  "frase": "Cão caramelo é quem garimpa quando ainda não tem oferta na categoria."
+ },
+ "reserva": {
+  "alertas": {
+   "arquivo": "assets/mascotes/elenco-alertas.png",
+   "nome": "Coruja",
+   "frase": "Coruja fica para os avisos de preço caindo."
+  },
+  "cozinha-2": {
+   "arquivo": "assets/mascotes/elenco-cozinha-2.png",
+   "nome": "Gato",
+   "frase": "Reserva de cozinha, se a Panelinha cansar."
+  }
+ }
+}

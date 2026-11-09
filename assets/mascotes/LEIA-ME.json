@@ -1,0 +1,56 @@
+{
+ "gerado_de": "brand/direcoes/mascote (rodada 1)",
+ "lado": 512,
+ "categorias": {
+  "cozinha": {
+   "arquivo": "assets/mascotes/cozinha.png",
+   "nome": "Panelinha",
+   "frase": "Panelinha garimpa a cozinha: pote, panela, utensílio.",
+   "origem": "05-panelinha.png"
+  },
+  "casa": {
+   "arquivo": "assets/mascotes/casa.png",
+   "nome": "Abajur",
+   "frase": "Abajur fica de plantão no que é de casa.",
+   "origem": "06-abajur.png"
+  },
+  "eletronicos": {
+   "arquivo": "assets/mascotes/eletronicos.png",
+   "nome": "Capivara",
+   "frase": "Capivara é quem procura eletrônico — celular na mão.",
+   "origem": "01-capivara.png"
+  },
+  "ferramentas": {
+   "arquivo": "assets/mascotes/ferramentas.png",
+   "nome": "Formiga",
+   "frase": "Formiga carrega ferramenta e acha o que resolve.",
+   "origem": "07-formiga.png"
+  }
+ },
+ "elenco": {
+  "geral": {
+   "arquivo": "assets/mascotes/elenco-geral.png",
+   "nome": "Cão caramelo",
+   "papel": "o rosto da marca quando não há categoria na frente",
+   "origem": "02-cao-caramelo.png"
+  },
+  "alertas": {
+   "arquivo": "assets/mascotes/elenco-alertas.png",
+   "nome": "Coruja",
+   "papel": "avisos de preço caindo e conteúdo de plantão",
+   "origem": "04-coruja.png"
+  },
+  "cozinha-2": {
+   "arquivo": "assets/mascotes/elenco-cozinha-2.png",
+   "nome": "Gato",
+   "papel": "reserva de cozinha, quando a Panelinha cansar",
+   "origem": "03-gato-avental.png"
+  },
+  "descartado": {
+   "arquivo": "assets/mascotes/elenco-descartado.png",
+   "nome": "Raposa",
+   "papel": "a lupa colou no focinho; não usar sem refazer",
+   "origem": "08-raposa.png"
+  }
+ }
+}
