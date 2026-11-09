@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+# pasta de mídia usada para hospedar a imagem que a API do Instagram baixa
+# (arquivos de post, sem valor de busca) — mantenha fora do índice
+Disallow: /midia/
