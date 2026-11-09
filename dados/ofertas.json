@@ -355,6 +355,21 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "alleanza-conjunto-c-6-prato-raso-29cm-barbecue",
+      "titulo": "Alleanza Conjunto C/6 Prato Raso 29cm Barbecue",
+      "categoria": "cozinha",
+      "preco": 176.0,
+      "preco_antigo": 219.89,
+      "desconto": 20,
+      "foto": "assets/alleanza-conjunto-c-6-prato-raso-29cm-barbecue.jpg",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/Conjunto-Alleanza-Pratos-Raso-Barbecue/dp/B08624PJT7?tag=achadelo-20&linkCode=as4&ref_=onb_gen_lnk",
+      "produto_url": "https://www.amazon.com.br/Conjunto-Alleanza-Pratos-Raso-Barbecue/dp/B08624PJT7",
+      "visto_em": "2026-11-09",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     }
   ]
 }
