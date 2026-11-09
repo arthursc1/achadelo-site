@@ -1,11 +1,26 @@
 {
   "atualizado": "2026-11-09",
-  "aviso": "As ofertas de exemplo foram removidas em 2026-11-09. Cada oferta publicada aqui precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido.",
+  "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     { "id": "casa", "nome": "Casa" },
     { "id": "cozinha", "nome": "Cozinha" },
     { "id": "eletronicos", "nome": "Eletrônicos" },
     { "id": "ferramentas", "nome": "Ferramentas" }
   ],
-  "ofertas": []
+  "ofertas": [
+    {
+      "id": "kit-potes-vidro-10",
+      "titulo": "Kit 10 potes de vidro herméticos 640 ml, livres para freezer",
+      "categoria": "cozinha",
+      "preco": 92.05,
+      "preco_antigo": 188.1,
+      "desconto": 51,
+      "foto": "assets/kit-potes-vidro-10.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1wMEeRg",
+      "visto_em": "2026-11-09",
+      "destaque": true,
+      "observacao": "R$ 92,05 no Pix; R$ 96,90 em outros meios. Frete grátis."
+    }
+  ]
 }
