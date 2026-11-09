@@ -55,10 +55,18 @@ function montarVitrine(dados) {
       .sort((a, b) => Number(b.destaque) - Number(a.destaque) || b.desconto - a.desconto);
     grade.replaceChildren(...lista.map(cardOferta));
     vazio.hidden = lista.length > 0;
-    if (!lista.length) {
-      const nome = categorias.find((c) => c.id === categoria)?.nome ?? categoria;
-      vazio.textContent = `Nada em ${nome} ainda — a marca começa por casa e cozinha e amplia depois.`;
+    if (lista.length) return;
+
+    if (!dados.ofertas.length) {
+      vazio.innerHTML = `
+        <strong>As primeiras ofertas estão sendo garimpadas.</strong><br>
+        A marca começa por casa e cozinha: cada oferta é conferida antes de entrar aqui,
+        e a data da conferência vai em toda peça.<br><br>
+        Enquanto isso, me segue no Instagram: <a href="https://instagram.com/achadelo" target="_blank" rel="noopener">@achadelo</a>`;
+      return;
     }
+    const nome = categorias.find((c) => c.id === categoria)?.nome ?? categoria;
+    vazio.textContent = `Nada em ${nome} ainda — a marca começa por casa e cozinha e amplia depois.`;
   }
 
   desenhar("tudo");
