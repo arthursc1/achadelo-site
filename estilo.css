@@ -27,6 +27,10 @@ a { color: var(--acento); }
 /* ---------- cabeçalho ---------- */
 .topo { border-bottom: 1px solid var(--linha); background: var(--fundo); position: sticky; top: 0; z-index: 10; }
 .topo .container { display: flex; align-items: center; gap: 12px; padding-top: 12px; padding-bottom: 12px; }
+.topo .marca { display: flex; align-items: center; gap: 12px; text-decoration: none; color: inherit; }
+.topo .marca:hover .nome, .topo .marca:focus-visible .nome { color: var(--acento); }
+.topo .marca:focus-visible { outline: 3px solid var(--acento); outline-offset: 4px; border-radius: 10px; }
+.marca-texto { display: inline-block; }
 .topo img { width: 40px; height: 40px; }
 .topo .nome { font-family: var(--titulo); font-size: 1.4rem; text-transform: uppercase; letter-spacing: .01em; }
 .topo .versao {
