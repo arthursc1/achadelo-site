@@ -67,6 +67,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
+      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
+      "categoria": "eletronicos",
+      "preco": 198.9,
+      "preco_antigo": 549.0,
+      "desconto": 64,
+      "produto_url": "https://www.amazon.com.br/dp/B0CVCG6S9C",
+      "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-pra.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "panela-de-pressao-brinox-pressure-4-2l-20",
       "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
       "categoria": "cozinha",
@@ -92,6 +108,22 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/electrolux-air-fryer-forno-5-x-1-12l-1700w-dig.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
+      "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
+      "categoria": "ferramentas",
+      "preco": 69.63,
+      "preco_antigo": 165.0,
+      "desconto": 58,
+      "produto_url": "https://www.amazon.com.br/dp/B0BBJPCMQM",
+      "link": "https://www.amazon.com.br/dp/B0BBJPCMQM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/sparta-maleta-de-ferramentas-kit-com-165-pecas.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -355,6 +387,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "philips-walita-fritadeira-airfryer-serie-2000-",
+      "titulo": "Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 220V",
+      "categoria": "cozinha",
+      "preco": 393.29,
+      "preco_antigo": 699.9,
+      "desconto": 44,
+      "produto_url": "https://www.amazon.com.br/dp/B0D98WR6YM",
+      "link": "https://www.amazon.com.br/dp/B0D98WR6YM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-serie-2000-.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "sofa-cama-servia-2-00m-cinza-linho-rustico",
       "titulo": "Sofá Cama Sérvia 2,00m Cinza Linho Rústico - King House",
       "categoria": "casa",
@@ -451,6 +499,22 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "organizador-para-armario-grande-branco",
+      "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
+      "categoria": "casa",
+      "preco": 29.9,
+      "preco_antigo": 49.9,
+      "desconto": 40,
+      "produto_url": "https://www.amazon.com.br/dp/B07F49DR35",
+      "link": "https://www.amazon.com.br/dp/B07F49DR35?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/organizador-para-armario-grande-branco.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "sofa-retratil-reclinavel-king-house-verona",
