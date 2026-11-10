@@ -125,6 +125,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "rishon-pote-hermetico-para-marmita-vidro-boros",
+      "titulo": "Rishon Pote Hermético para Marmita Vidro Borossilicato 640ml Kit 10un",
+      "categoria": "cozinha",
+      "preco": 88.8,
+      "preco_antigo": 189.4,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B0HFYSMG3W",
+      "link": "https://www.amazon.com.br/dp/B0HFYSMG3W?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit potes de vidro",
+      "foto": "assets/rishon-pote-hermetico-para-marmita-vidro-boros.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "jogo-de-panelas-inducao-antiaderente-ceram",
       "titulo": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Grafite",
       "categoria": "cozinha",
@@ -171,6 +187,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "kit-com-5-potes-de-vidro-gato-panda-640-ml-ret",
+      "titulo": "Kit com 5 Potes de Vidro Gato Panda, 640 ml, Retangular, com Tampa Hermética, Azul",
+      "categoria": "cozinha",
+      "preco": 47.28,
+      "preco_antigo": 99.0,
+      "desconto": 52,
+      "produto_url": "https://www.amazon.com.br/dp/B08CPW5BR2",
+      "link": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit potes de vidro",
+      "foto": "assets/kit-com-5-potes-de-vidro-gato-panda-640-ml-ret.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
       "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
       "categoria": "cozinha",
@@ -183,6 +215,22 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "brinox-jogo-de-panelas-antiaderente-ceramic-li",
+      "titulo": "Brinox - Jogo de Panelas Antiaderente Ceramic Life Smart Plus 6 Peças - Vanilla",
+      "categoria": "cozinha",
+      "preco": 341.9,
+      "preco_antigo": 699.9,
+      "desconto": 51,
+      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
+      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/brinox-jogo-de-panelas-antiaderente-ceramic-li.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
