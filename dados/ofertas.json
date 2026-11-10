@@ -37,20 +37,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "colchao-casal-luuna-original-espuma-24cm-c",
-      "titulo": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de Garantia",
-      "categoria": "casa",
-      "preco": 2089.0,
-      "preco_antigo": 6000.0,
-      "desconto": 65,
-      "foto": "assets/colchao-casal-luuna-original-espuma-24cm-c.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/26eypQE",
-      "visto_em": "2026-11-09",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-gra",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
       "categoria": "eletronicos",
@@ -67,6 +53,20 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "colchao-casal-luuna-original-espuma-24cm-c",
+      "titulo": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de Garantia",
+      "categoria": "casa",
+      "preco": 2089.0,
+      "preco_antigo": 6000.0,
+      "desconto": 65,
+      "foto": "assets/colchao-casal-luuna-original-espuma-24cm-c.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/26eypQE",
+      "visto_em": "2026-11-09",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
       "categoria": "eletronicos",
@@ -78,6 +78,22 @@
       "loja": "Amazon",
       "origem": "busca: smartwatch",
       "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-pra.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-ros",
+      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
+      "categoria": "eletronicos",
+      "preco": 201.34,
+      "preco_antigo": 549.0,
+      "desconto": 63,
+      "produto_url": "https://www.amazon.com.br/dp/B0CVCF2J9Q",
+      "link": "https://www.amazon.com.br/dp/B0CVCF2J9Q?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-ros.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -161,6 +177,38 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
+      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
+      "categoria": "casa",
+      "preco": 56.71,
+      "preco_antigo": 129.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
+      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "jogo-de-ferramentas-com-163-pecas-vonder",
+      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
+      "categoria": "ferramentas",
+      "preco": 269.9,
+      "preco_antigo": 617.38,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C9TZPX5J",
+      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/jogo-de-ferramentas-com-163-pecas-vonder.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "espelho-decorativo-grande-corpo-inteiro-mo",
       "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
       "categoria": "casa",
@@ -170,20 +218,6 @@
       "foto": "assets/espelho-decorativo-grande-corpo-inteiro-mo.jpg",
       "loja": "Mercado Livre",
       "link": "https://meli.la/2vQcWpZ",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "panela-de-pressao-ceramic-life-pressure-4",
-      "titulo": "Panela De Pressão Ceramic Life Pressure 4,2l Areia Brinox",
-      "categoria": "cozinha",
-      "preco": 219.9,
-      "preco_antigo": 477.69,
-      "desconto": 53,
-      "foto": "assets/panela-de-pressao-ceramic-life-pressure-4.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2FM8PQ9",
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
@@ -221,15 +255,15 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "jogo-de-panelas-inducao-antiaderente-ceram",
-      "titulo": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Grafite",
+      "id": "panela-de-pressao-ceramic-life-pressure-4",
+      "titulo": "Panela De Pressão Ceramic Life Pressure 4,2l Areia Brinox",
       "categoria": "cozinha",
-      "preco": 322.05,
-      "preco_antigo": 683.88,
-      "desconto": 52,
-      "foto": "assets/jogo-de-panelas-inducao-antiaderente-ceram.jpg",
+      "preco": 219.9,
+      "preco_antigo": 477.69,
+      "desconto": 53,
+      "foto": "assets/panela-de-pressao-ceramic-life-pressure-4.jpg",
       "loja": "Mercado Livre",
-      "link": "https://meli.la/1NUsRD7",
+      "link": "https://meli.la/2FM8PQ9",
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
@@ -283,15 +317,15 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
-      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
+      "id": "jogo-de-panelas-inducao-antiaderente-ceram",
+      "titulo": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Grafite",
       "categoria": "cozinha",
-      "preco": 92.05,
-      "preco_antigo": 188.1,
-      "desconto": 51,
-      "foto": "assets/kit-10-pote-de-vidro-marmita-hermetico-640.jpg",
+      "preco": 322.05,
+      "preco_antigo": 683.88,
+      "desconto": 52,
+      "foto": "assets/jogo-de-panelas-inducao-antiaderente-ceram.jpg",
       "loja": "Mercado Livre",
-      "link": "https://meli.la/1gae3uN",
+      "link": "https://meli.la/1NUsRD7",
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
@@ -311,6 +345,20 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
+      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
+      "categoria": "cozinha",
+      "preco": 92.05,
+      "preco_antigo": 188.1,
+      "desconto": 51,
+      "foto": "assets/kit-10-pote-de-vidro-marmita-hermetico-640.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1gae3uN",
+      "visto_em": "2026-11-09",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
@@ -341,20 +389,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
-      "id": "colchao-casal-d33-ortopedico-de-espuma-dup",
-      "titulo": "Colchão Casal D33 Ortopédico de Espuma Dupla face a Vácuo 138x188cm BF Colchões",
-      "categoria": "casa",
-      "preco": 969.0,
-      "preco_antigo": 1792.0,
-      "desconto": 45,
-      "foto": "assets/colchao-casal-d33-ortopedico-de-espuma-dup.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2GmaMK1",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
       "id": "philips-walita-fritadeira-airfryer-forno-serie",
       "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
       "categoria": "cozinha",
@@ -369,6 +403,20 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "colchao-casal-d33-ortopedico-de-espuma-dup",
+      "titulo": "Colchão Casal D33 Ortopédico de Espuma Dupla face a Vácuo 138x188cm BF Colchões",
+      "categoria": "casa",
+      "preco": 969.0,
+      "preco_antigo": 1792.0,
+      "desconto": 45,
+      "foto": "assets/colchao-casal-d33-ortopedico-de-espuma-dup.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2GmaMK1",
+      "visto_em": "2026-11-09",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
       "id": "philips-walita-fritadeira-airfryer-serie-1000-",
@@ -431,6 +479,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "tramontina-jogo-de-panelas-sicilia-em-aluminio",
+      "titulo": "Tramontina Jogo de Panelas Sicília em Alumínio com Revestimento Interno e Externo Antiaderente Starflon Excellent Avelã ",
+      "categoria": "cozinha",
+      "preco": 416.96,
+      "preco_antigo": 722.0,
+      "desconto": 42,
+      "produto_url": "https://www.amazon.com.br/dp/B086YK7M5Y",
+      "link": "https://www.amazon.com.br/dp/B086YK7M5Y?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/tramontina-jogo-de-panelas-sicilia-em-aluminio.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "sala-de-jantar-4-cadeiras-charlotte-carrar",
       "titulo": "Sala De Jantar 4 Cadeiras Charlotte Carraro Nogal cor preto",
       "categoria": "casa",
@@ -473,18 +537,20 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
-      "id": "sofa-retratil-reclinavel-2-50m-nivus-cinza",
-      "titulo": "Sofá Retrátil Reclinável 2,50m Nivus Cinza Molas Ensacadas - King House",
+      "id": "organizador-para-armario-grande-branco",
+      "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
       "categoria": "casa",
-      "preco": 1999.0,
-      "preco_antigo": 3343.0,
+      "preco": 29.9,
+      "preco_antigo": 49.9,
       "desconto": 40,
-      "foto": "assets/sofa-retratil-reclinavel-2-50m-nivus-cinza.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2wZo1U8",
-      "visto_em": "2026-11-09",
+      "produto_url": "https://www.amazon.com.br/dp/B07F49DR35",
+      "link": "https://www.amazon.com.br/dp/B07F49DR35?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/organizador-para-armario-grande-branco.jpg",
+      "visto_em": "2026-11-10",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "jogo-de-panelas-ceramico-antiaderente-8-pe",
@@ -501,20 +567,18 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
-      "id": "organizador-para-armario-grande-branco",
-      "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
+      "id": "sofa-retratil-reclinavel-2-50m-nivus-cinza",
+      "titulo": "Sofá Retrátil Reclinável 2,50m Nivus Cinza Molas Ensacadas - King House",
       "categoria": "casa",
-      "preco": 29.9,
-      "preco_antigo": 49.9,
+      "preco": 1999.0,
+      "preco_antigo": 3343.0,
       "desconto": 40,
-      "produto_url": "https://www.amazon.com.br/dp/B07F49DR35",
-      "link": "https://www.amazon.com.br/dp/B07F49DR35?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/organizador-para-armario-grande-branco.jpg",
-      "visto_em": "2026-11-10",
+      "foto": "assets/sofa-retratil-reclinavel-2-50m-nivus-cinza.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2wZo1U8",
+      "visto_em": "2026-11-09",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
       "id": "sofa-retratil-reclinavel-king-house-verona",
@@ -610,20 +674,6 @@
       "foto": "assets/berco-3-em-1-com-colchao-d18-incluso-vira.jpg",
       "loja": "Mercado Livre",
       "link": "https://meli.la/1CMPH17",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "colibri-rack-bancada-fortaleza-4-portas-tv",
-      "titulo": "Colibri Rack Bancada Fortaleza 4 Portas TV até 75 Polegadas",
-      "categoria": "casa",
-      "preco": 577.75,
-      "preco_antigo": 842.8,
-      "desconto": 31,
-      "foto": "assets/colibri-rack-bancada-fortaleza-4-portas-tv.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1EEMybe",
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
