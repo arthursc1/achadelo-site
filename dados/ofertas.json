@@ -51,6 +51,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-gra",
+      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+      "categoria": "eletronicos",
+      "preco": 191.9,
+      "preco_antigo": 549.0,
+      "desconto": 65,
+      "produto_url": "https://www.amazon.com.br/dp/B0CVCLGV1W",
+      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-gra.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "panela-de-pressao-brinox-pressure-4-2l-20",
       "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
       "categoria": "cozinha",
@@ -97,6 +113,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
+      "categoria": "casa",
+      "preco": 35.99,
+      "preco_antigo": 82.62,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
+      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "espelho-decorativo-grande-corpo-inteiro-mo",
       "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
       "categoria": "casa",
@@ -136,6 +168,22 @@
       "loja": "Amazon",
       "origem": "busca: kit potes de vidro",
       "foto": "assets/rishon-pote-hermetico-para-marmita-vidro-boros.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "kit-46-chave-catraca-jogo-de-soquetes-allen-to",
+      "titulo": "Kit 46 Chave Catraca Jogo De Soquetes Allen Torx Ferramentas catraca soquete de 1/4 barra de extensão",
+      "categoria": "ferramentas",
+      "preco": 24.9,
+      "preco_antigo": 52.99,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B0CBGGBJJ2",
+      "link": "https://www.amazon.com.br/dp/B0CBGGBJJ2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/kit-46-chave-catraca-jogo-de-soquetes-allen-to.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -286,6 +334,22 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/philips-walita-fritadeira-airfryer-forno-serie.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "philips-walita-fritadeira-airfryer-serie-1000-",
+      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V",
+      "categoria": "cozinha",
+      "preco": 309.0,
+      "preco_antigo": 549.9,
+      "desconto": 44,
+      "produto_url": "https://www.amazon.com.br/dp/B0D98VK8PP",
+      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-serie-1000-.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
