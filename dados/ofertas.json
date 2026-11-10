@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-09",
+  "atualizado": "2026-11-10",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -20,6 +20,22 @@
     }
   ],
   "ofertas": [
+    {
+      "id": "philco-fritadeira-air-fryer-12l-pt-pfr2200p-22",
+      "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "categoria": "cozinha",
+      "preco": 399.0,
+      "preco_antigo": 1199.9,
+      "desconto": 67,
+      "produto_url": "https://www.amazon.com.br/dp/B08R91NTHY",
+      "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philco-fritadeira-air-fryer-12l-pt-pfr2200p-22.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
     {
       "id": "colchao-casal-luuna-original-espuma-24cm-c",
       "titulo": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de Garantia",
@@ -47,6 +63,38 @@
       "visto_em": "2026-11-09",
       "destaque": true,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
+      "titulo": "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso",
+      "categoria": "cozinha",
+      "preco": 540.81,
+      "preco_antigo": 1299.0,
+      "desconto": 58,
+      "produto_url": "https://www.amazon.com.br/dp/B0BYK2VCP7",
+      "link": "https://www.amazon.com.br/dp/B0BYK2VCP7?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/electrolux-air-fryer-forno-5-x-1-12l-1700w-dig.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
+      "categoria": "cozinha",
+      "preco": 174.83,
+      "preco_antigo": 399.99,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
+      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "espelho-decorativo-grande-corpo-inteiro-mo",
@@ -89,6 +137,38 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "jogo-de-panelas-tramontina-antiaderente-paris-",
+      "titulo": "Jogo de Panelas Tramontina Antiaderente Paris 10 Pç Vermelho",
+      "categoria": "cozinha",
+      "preco": 402.48,
+      "preco_antigo": 839.54,
+      "desconto": 52,
+      "produto_url": "https://www.amazon.com.br/dp/B0BBSDS4BT",
+      "link": "https://www.amazon.com.br/dp/B0BBSDS4BT?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-tramontina-antiaderente-paris-.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "air-fryer-oven-philco-11l-8-funcoes-visor-1800",
+      "titulo": "Air Fryer Oven Philco 11L 8 Funções Visor 1800W PAF11B 127V",
+      "categoria": "cozinha",
+      "preco": 332.4,
+      "preco_antigo": 699.0,
+      "desconto": 52,
+      "produto_url": "https://www.amazon.com.br/dp/B0GHZ827S2",
+      "link": "https://www.amazon.com.br/dp/B0GHZ827S2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/air-fryer-oven-philco-11l-8-funcoes-visor-1800.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
