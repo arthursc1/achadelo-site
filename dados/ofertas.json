@@ -275,6 +275,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "philips-walita-fritadeira-airfryer-forno-serie",
+      "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
+      "categoria": "cozinha",
+      "preco": 549.0,
+      "preco_antigo": 999.9,
+      "desconto": 45,
+      "produto_url": "https://www.amazon.com.br/dp/B0DD1M9WJT",
+      "link": "https://www.amazon.com.br/dp/B0DD1M9WJT?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-forno-serie.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "sofa-cama-servia-2-00m-cinza-linho-rustico",
       "titulo": "Sofá Cama Sérvia 2,00m Cinza Linho Rústico - King House",
       "categoria": "casa",
