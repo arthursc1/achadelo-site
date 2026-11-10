@@ -24,6 +24,27 @@ a { color: var(--acento); }
 
 .container { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
 
+/* ---------- publicidade (AdSense) ----------
+   Nada aparece enquanto ads.json estiver com "ativo": false. Quando ligar, o
+   banner entra logo abaixo do cabeçalho e as colunas laterais só em tela larga
+   (onde sobra espaço de verdade ao lado do conteúdo). */
+.anuncio { display: none; }
+body.tem-anuncios .anuncio-topo {
+  display: block; padding: 12px 0; min-height: 106px; text-align: center;
+  border-bottom: 1px solid var(--linha);
+}
+body.tem-anuncios .anuncio-topo.sem-anuncio { display: none; }
+body.tem-anuncios .anuncio-topo ins { margin: 0 auto; }
+@media (min-width: 1360px) {
+  body.tem-anuncios .anuncio-lateral {
+    display: block; position: fixed; top: 50%; transform: translateY(-50%);
+    width: 160px; min-height: 600px; z-index: 5;
+  }
+  body.tem-anuncios .anuncio-esq { left: max(12px, calc((100vw - 1100px) / 2 - 176px)); }
+  body.tem-anuncios .anuncio-dir { right: max(12px, calc((100vw - 1100px) / 2 - 176px)); }
+  body.tem-anuncios .anuncio-lateral.sem-anuncio { display: none; }
+}
+
 /* ---------- cabeçalho ---------- */
 .topo { border-bottom: 1px solid var(--linha); background: var(--fundo); position: sticky; top: 0; z-index: 10; }
 .topo .container { display: flex; align-items: center; gap: 12px; padding-top: 12px; padding-bottom: 12px; }

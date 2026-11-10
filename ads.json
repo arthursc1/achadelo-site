@@ -1,0 +1,14 @@
+{
+  "ativo": false,
+  "cliente": "ca-pub-2050827529175339",
+  "nota": "Enquanto 'ativo' for false, nenhum script do AdSense é carregado e nenhum espaço aparece — a página fica exatamente como hoje. Para ligar: crie as unidades no painel do AdSense, cole os IDs em 'slots' e mude 'ativo' para true.",
+  "slots": {
+    "topo": "",
+    "lateral-esquerda": "",
+    "lateral-direita": ""
+  },
+  "tamanhos": {
+    "topo": "banner responsivo (728x90 no desktop, 320x100 no celular)",
+    "lateral": "160x600, só em telas largas (a partir de 1360px)"
+  }
+}
