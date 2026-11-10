@@ -1,0 +1,16 @@
+{
+  "name": "Achadelo — achadinhos de casa e cozinha",
+  "short_name": "Achadelo",
+  "description": "Ofertas de casa e cozinha garimpadas uma por uma, com o preço conferido na data.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#12100c",
+  "theme_color": "#12100c",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
