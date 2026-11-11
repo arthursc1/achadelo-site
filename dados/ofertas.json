@@ -473,6 +473,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "samsung-galaxy-buds-core-fone-de-ouvido-sem-fi",
+      "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
+      "categoria": "eletronicos",
+      "preco": 208.05,
+      "preco_antigo": 399.0,
+      "desconto": 48,
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8T2RDC",
+      "link": "https://www.amazon.com.br/dp/B0FP8T2RDC?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/samsung-galaxy-buds-core-fone-de-ouvido-sem-fi.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
       "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
       "categoria": "casa",
@@ -817,18 +833,20 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "sofa-retratil-reclinavel-atenas-2-30m-sued",
-      "titulo": "Sofá Retrátil Reclinável Atenas 2,30m Suede Velut Cinza",
+      "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
+      "titulo": "Jogo de Cama Casal Padrão Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Não faz bolinha Toque Extra Macio – Azul",
       "categoria": "casa",
-      "preco": 1519.0,
-      "preco_antigo": 2331.0,
+      "preco": 72.05,
+      "preco_antigo": 108.99,
       "desconto": 34,
-      "foto": "assets/sofa-retratil-reclinavel-atenas-2-30m-sued.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1RGEqRB",
-      "visto_em": "2026-11-09",
+      "produto_url": "https://www.amazon.com.br/dp/B0CL7SHVZ7",
+      "link": "https://www.amazon.com.br/dp/B0CL7SHVZ7?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-de-cama-casal-padrao-percal-400-fios-pont.jpg",
+      "visto_em": "2026-11-10",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "eda-chave-de-fenda-jogo-com-5-pecas-excellent",
@@ -842,6 +860,22 @@
       "loja": "Amazon",
       "origem": "busca: kit de chaves e ferramentas",
       "foto": "assets/eda-chave-de-fenda-jogo-com-5-pecas-excellent.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "stanley-kit-de-ferramentas-110-pecas-stmt81243",
+      "titulo": "STANLEY Kit de Ferramentas 110 Peças STMT81243 Chave Combinada, Catraca, Alicates",
+      "categoria": "ferramentas",
+      "preco": 468.99,
+      "preco_antigo": 589.9,
+      "desconto": 20,
+      "produto_url": "https://www.amazon.com.br/dp/B079NCC2LQ",
+      "link": "https://www.amazon.com.br/dp/B079NCC2LQ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/stanley-kit-de-ferramentas-110-pecas-stmt81243.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
