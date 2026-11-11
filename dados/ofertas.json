@@ -239,6 +239,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
+      "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
+      "categoria": "cozinha",
+      "preco": 288.0,
+      "preco_antigo": 629.99,
+      "desconto": 54,
+      "produto_url": "https://www.amazon.com.br/dp/B0DKG6MCGF",
+      "link": "https://www.amazon.com.br/dp/B0DKG6MCGF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
       "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Ivory)",
       "categoria": "cozinha",
@@ -581,6 +597,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "jbl-fone-de-ouvido-bluetooth-over-ear-tune-530",
+      "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+      "categoria": "eletronicos",
+      "preco": 163.8,
+      "preco_antigo": 299.0,
+      "desconto": 45,
+      "produto_url": "https://www.amazon.com.br/dp/B0GM1LSHQF",
+      "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/jbl-fone-de-ouvido-bluetooth-over-ear-tune-530.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "philips-walita-fritadeira-airfryer-forno-serie",
       "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
       "categoria": "cozinha",
@@ -682,22 +714,6 @@
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/tramontina-jogo-de-panelas-sicilia-em-aluminio.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "fritadeira-sem-oleo-oster-127v-ofrt520-preto",
-      "titulo": "Fritadeira Sem Óleo Oster 127V - OFRT520, PRETO",
-      "categoria": "cozinha",
-      "preco": 259.89,
-      "preco_antigo": 449.9,
-      "desconto": 42,
-      "produto_url": "https://www.amazon.com.br/dp/B0B72QZXCC",
-      "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/fritadeira-sem-oleo-oster-127v-ofrt520-preto.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
