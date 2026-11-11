@@ -521,6 +521,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
+      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
+      "categoria": "eletronicos",
+      "preco": 131.1,
+      "preco_antigo": 249.0,
+      "desconto": 47,
+      "produto_url": "https://www.amazon.com.br/dp/B0BTYCRJSS",
+      "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
       "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
       "categoria": "casa",
@@ -895,6 +911,22 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "kit-jogo-de-ferramentas-com-maleta-kit-chave-c",
+      "titulo": "Kit jogo de Ferramentas com Maleta + Kit chave catraca reversível Caixa de Ferramentas Completa",
+      "categoria": "ferramentas",
+      "preco": 121.43,
+      "preco_antigo": 160.0,
+      "desconto": 24,
+      "produto_url": "https://www.amazon.com.br/dp/B0DC5KCBGM",
+      "link": "https://www.amazon.com.br/dp/B0DC5KCBGM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/kit-jogo-de-ferramentas-com-maleta-kit-chave-c.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "stanley-kit-de-ferramentas-110-pecas-stmt81243",
