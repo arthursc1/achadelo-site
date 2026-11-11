@@ -961,6 +961,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "filamento-pla-1-75mm-preto",
+      "titulo": "Filamento PLA 1,75mm, Preto",
+      "categoria": "insumos-3d",
+      "preco": 93.34,
+      "preco_antigo": 137.28,
+      "desconto": 32,
+      "foto": "assets/filamento-pla-1-75mm-preto.jpg",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B08MQQD45L?th=1&tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B08MQQD45L",
+      "visto_em": "2026-11-11",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p",
       "titulo": "MTX Jogo de Chave Allen Longa 1,5–10 mm com 9 Peças – Aço Cromo-Vanádio e Acabamento Fosfatizado",
       "categoria": "ferramentas",
@@ -975,6 +990,21 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
+      "id": "filamento-impressora-3d-creality-ultra-pla-1kg",
+      "titulo": "Filamento Impressora 3d Creality Ultra Pla 1kg 1.75mm Cor Cinza 3301010606",
+      "categoria": "insumos-3d",
+      "preco": 87.4,
+      "preco_antigo": 124.9,
+      "desconto": 30,
+      "foto": "assets/filamento-impressora-3d-creality-ultra-pla-1kg.jpg",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0FLZY9VTH?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0FLZY9VTH",
+      "visto_em": "2026-11-11",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "eda-chave-de-fenda-jogo-com-5-pecas-excellent",
@@ -1007,6 +1037,36 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
+      "id": "filamento-impressora-masterprint-petg-3d-preto",
+      "titulo": "Filamento Impressora, Masterprint, PETG, 3D, Preto, 1,75 mm, Rolo de 1 kg",
+      "categoria": "insumos-3d",
+      "preco": 56.9,
+      "preco_antigo": 74.99,
+      "desconto": 24,
+      "foto": "assets/filamento-impressora-masterprint-petg-3d-preto.jpg",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B09WY3MSXN?th=1&tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B09WY3MSXN",
+      "visto_em": "2026-11-11",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
+      "id": "filamento-pla-premium-1kg-lilas-alta-resistenc",
+      "titulo": "Filamento PLA Premium 1Kg, Lilás, Alta Resistência ao Impacto, Temperatura de Impressão 205-230°C",
+      "categoria": "insumos-3d",
+      "preco": 76.93,
+      "preco_antigo": 99.99,
+      "desconto": 23,
+      "foto": "assets/filamento-pla-premium-1kg-lilas-alta-resistenc.jpg",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0F9XP8CSQ?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0F9XP8CSQ",
+      "visto_em": "2026-11-11",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "stanley-kit-de-ferramentas-110-pecas-stmt81243",
