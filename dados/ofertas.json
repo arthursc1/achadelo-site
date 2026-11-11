@@ -675,6 +675,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag",
+      "titulo": "Fone de Ouvido Bluetooth 5.4, IPX5 à Prova D'Água, 45h de Bateria, Com Microfone Embutido. Design Esportivo Ergonômico I",
+      "categoria": "eletronicos",
+      "preco": 62.6,
+      "preco_antigo": 109.9,
+      "desconto": 43,
+      "produto_url": "https://www.amazon.com.br/dp/B0FDB9Z96L",
+      "link": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "sofa-cama-servia-2-00m-cinza-linho-rustico",
       "titulo": "Sofá Cama Sérvia 2,00m Cinza Linho Rústico - King House",
       "categoria": "casa",
@@ -703,20 +719,20 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
-      "id": "tramontina-jogo-de-panelas-sicilia-em-aluminio",
-      "titulo": "Tramontina Jogo de Panelas Sicília em Alumínio com Revestimento Interno e Externo Antiaderente Starflon Excellent Avelã ",
+      "id": "fritadeira-sem-oleo-oster-127v-ofrt520-preto",
+      "titulo": "Fritadeira Sem Óleo Oster 127V - OFRT520, PRETO",
       "categoria": "cozinha",
-      "preco": 416.96,
-      "preco_antigo": 722.0,
+      "preco": 259.89,
+      "preco_antigo": 449.9,
       "desconto": 42,
-      "produto_url": "https://www.amazon.com.br/dp/B086YK7M5Y",
-      "link": "https://www.amazon.com.br/dp/B086YK7M5Y?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0B72QZXCC",
+      "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=achadelo-20",
       "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/tramontina-jogo-de-panelas-sicilia-em-aluminio.jpg",
-      "visto_em": "2026-11-10",
+      "origem": "busca: air fryer",
+      "foto": "assets/fritadeira-sem-oleo-oster-127v-ofrt520-preto.jpg",
+      "visto_em": "2026-11-11",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "sala-de-jantar-4-cadeiras-charlotte-carrar",
