@@ -993,6 +993,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
+      "id": "fones-bluetooth-5-3-com-42h-de-bateria-graves-",
+      "titulo": "Fones Bluetooth 5.3 com 42H de Bateria, Graves Profundos e IPX5 Preto",
+      "categoria": "eletronicos",
+      "preco": 46.54,
+      "preco_antigo": 69.0,
+      "desconto": 33,
+      "produto_url": "https://www.amazon.com.br/dp/B0DQP41H2M",
+      "link": "https://www.amazon.com.br/dp/B0DQP41H2M?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fones-bluetooth-5-3-com-42h-de-bateria-graves-.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "filamento-pla-1-75mm-preto",
       "titulo": "Filamento PLA 1,75mm, Preto",
       "categoria": "insumos-3d",
