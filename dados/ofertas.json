@@ -473,6 +473,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "organizador-aramado-de-armario-ou-bancada-bran",
+      "titulo": "Organizador Aramado de Armário ou Bancada Branco",
+      "categoria": "casa",
+      "preco": 24.99,
+      "preco_antigo": 49.97,
+      "desconto": 50,
+      "produto_url": "https://www.amazon.com.br/dp/B0HDGHNQZP",
+      "link": "https://www.amazon.com.br/dp/B0HDGHNQZP?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/organizador-aramado-de-armario-ou-bancada-bran.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
       "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
       "categoria": "eletronicos",
@@ -809,6 +825,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "smartwatch-relogio-inteligente-2-01-full-touch",
+      "titulo": "Smartwatch Relógio Inteligente 2,01\" Full Touch com Bluetooth e 2 Pulseiras",
+      "categoria": "eletronicos",
+      "preco": 113.03,
+      "preco_antigo": 189.0,
+      "desconto": 40,
+      "produto_url": "https://www.amazon.com.br/dp/B0H9DDT14C",
+      "link": "https://www.amazon.com.br/dp/B0H9DDT14C?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-relogio-inteligente-2-01-full-touch.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "organizador-para-armario-grande-branco",
       "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
       "categoria": "casa",
@@ -940,22 +972,6 @@
       "loja": "Amazon",
       "origem": "busca: organizador de armario",
       "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
-      "titulo": "Jogo de Cama Casal Padrão Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Não faz bolinha Toque Extra Macio – Azul",
-      "categoria": "casa",
-      "preco": 72.05,
-      "preco_antigo": 108.99,
-      "desconto": 34,
-      "produto_url": "https://www.amazon.com.br/dp/B0CL7SHVZ7",
-      "link": "https://www.amazon.com.br/dp/B0CL7SHVZ7?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-de-cama-casal-padrao-percal-400-fios-pont.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
