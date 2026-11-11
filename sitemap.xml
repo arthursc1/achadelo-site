@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mapa do site para os buscadores. Gerado à mão: são poucas páginas estáticas.
+     /ir fica de fora de propósito (é redirecionamento, com noindex).
+     As ofertas individuais ainda não entram porque o conteúdo delas é montado
+     por JavaScript — quando virarem páginas estáticas, entram aqui. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://achadelo.com.br/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://achadelo.com.br/aviso.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
