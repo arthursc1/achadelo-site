@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-10",
+  "atualizado": "2026-11-11",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -239,6 +239,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Ivory)",
+      "categoria": "cozinha",
+      "preco": 188.09,
+      "preco_antigo": 399.99,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B0FZ13M2R2",
+      "link": "https://www.amazon.com.br/dp/B0FZ13M2R2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "rishon-pote-hermetico-para-marmita-vidro-boros",
       "titulo": "Rishon Pote Hermético para Marmita Vidro Borossilicato 640ml Kit 10un",
       "categoria": "cozinha",
@@ -455,6 +471,22 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
+      "titulo": "Smartwatch, HUAWEI Band 10, Caixa de Polímeros Duráveis, Análise do Sono em Nível Profissional, Assistente de Bem-estar ",
+      "categoria": "eletronicos",
+      "preco": 188.1,
+      "preco_antigo": 359.0,
+      "desconto": 48,
+      "produto_url": "https://www.amazon.com.br/dp/B0DWFQCY3V",
+      "link": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-huawei-band-10-caixa-de-polimeros-d.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
@@ -697,22 +729,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
-      "id": "tramontina-jogo-de-panelas-turim-em-aluminio-c",
-      "titulo": "Tramontina Jogo de Panelas Turim em Alumínio com Revestimento em Antiaderente Starflon Max Preto 10 Peças",
-      "categoria": "cozinha",
-      "preco": 348.99,
-      "preco_antigo": 581.27,
-      "desconto": 40,
-      "produto_url": "https://www.amazon.com.br/dp/B0CDR1SKHR",
-      "link": "https://www.amazon.com.br/dp/B0CDR1SKHR?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/tramontina-jogo-de-panelas-turim-em-aluminio-c.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "organizador-para-armario-grande-branco",
       "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
       "categoria": "casa",
@@ -847,6 +863,22 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p",
+      "titulo": "MTX Jogo de Chave Allen Longa 1,5–10 mm com 9 Peças – Aço Cromo-Vanádio e Acabamento Fosfatizado",
+      "categoria": "ferramentas",
+      "preco": 13.89,
+      "preco_antigo": 19.81,
+      "desconto": 30,
+      "produto_url": "https://www.amazon.com.br/dp/B07791B3XM",
+      "link": "https://www.amazon.com.br/dp/B07791B3XM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "eda-chave-de-fenda-jogo-com-5-pecas-excellent",
