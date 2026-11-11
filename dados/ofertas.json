@@ -629,6 +629,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "air-fryer-philco-4l-revestimento-redstone-1500",
+      "titulo": "Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 127V",
+      "categoria": "cozinha",
+      "preco": 197.1,
+      "preco_antigo": 357.0,
+      "desconto": 45,
+      "produto_url": "https://www.amazon.com.br/dp/B0DY2FPRJD",
+      "link": "https://www.amazon.com.br/dp/B0DY2FPRJD?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/air-fryer-philco-4l-revestimento-redstone-1500.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "jbl-fone-de-ouvido-bluetooth-over-ear-tune-530",
       "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
       "categoria": "eletronicos",
@@ -686,22 +702,6 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/philips-walita-fritadeira-airfryer-serie-1000-.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "philips-walita-fritadeira-airfryer-serie-2000-",
-      "titulo": "Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 220V",
-      "categoria": "cozinha",
-      "preco": 393.29,
-      "preco_antigo": 699.9,
-      "desconto": 44,
-      "produto_url": "https://www.amazon.com.br/dp/B0D98WR6YM",
-      "link": "https://www.amazon.com.br/dp/B0D98WR6YM?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-fritadeira-airfryer-serie-2000-.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -869,6 +869,22 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "philips-fone-de-ouvido-sem-fio-tws-tat1109bk-0",
+      "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+      "categoria": "eletronicos",
+      "preco": 94.02,
+      "preco_antigo": 144.0,
+      "desconto": 35,
+      "produto_url": "https://www.amazon.com.br/dp/B0DVMQVVDY",
+      "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/philips-fone-de-ouvido-sem-fio-tws-tat1109bk-0.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "sofa-retratil-reclinavel-king-house-verona",
