@@ -457,6 +457,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
+      "titulo": "Fone Bluetooth Redmi Buds 6 Play Xiaomi, Preto (XM812PRE)",
+      "categoria": "eletronicos",
+      "preco": 82.65,
+      "preco_antigo": 159.99,
+      "desconto": 48,
+      "produto_url": "https://www.amazon.com.br/dp/B0DXS78MFF",
+      "link": "https://www.amazon.com.br/dp/B0DXS78MFF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-bluetooth-redmi-buds-6-play-xiaomi-preto-.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
       "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
       "categoria": "casa",
@@ -813,6 +829,22 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "eda-chave-de-fenda-jogo-com-5-pecas-excellent",
+      "titulo": "EDA Chave De Fenda Jogo Com 5 Peças Excellent",
+      "categoria": "ferramentas",
+      "preco": 12.3,
+      "preco_antigo": 16.48,
+      "desconto": 25,
+      "produto_url": "https://www.amazon.com.br/dp/B07QZSKWR4",
+      "link": "https://www.amazon.com.br/dp/B07QZSKWR4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/eda-chave-de-fenda-jogo-com-5-pecas-excellent.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     }
   ]
 }
