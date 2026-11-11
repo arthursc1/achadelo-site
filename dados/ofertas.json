@@ -209,6 +209,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
+      "categoria": "cozinha",
+      "preco": 180.47,
+      "preco_antigo": 399.99,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "fone-de-ouvido-sem-fio-jbl-bluetooth-wave-buds",
       "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
       "categoria": "eletronicos",
@@ -409,6 +425,22 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+    },
+    {
+      "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
+      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
+      "categoria": "eletronicos",
+      "preco": 122.55,
+      "preco_antigo": 249.0,
+      "desconto": 51,
+      "produto_url": "https://www.amazon.com.br/dp/B0BTYDLTM3",
+      "link": "https://www.amazon.com.br/dp/B0BTYDLTM3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "brinox-jogo-de-panelas-antiaderente-ceramic-li",
@@ -717,22 +749,6 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "fritadeira-sem-oleo-oster-127v-ofrt520-preto",
-      "titulo": "Fritadeira Sem Óleo Oster 127V - OFRT520, PRETO",
-      "categoria": "cozinha",
-      "preco": 259.89,
-      "preco_antigo": 449.9,
-      "desconto": 42,
-      "produto_url": "https://www.amazon.com.br/dp/B0B72QZXCC",
-      "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/fritadeira-sem-oleo-oster-127v-ofrt520-preto.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "sala-de-jantar-4-cadeiras-charlotte-carrar",
