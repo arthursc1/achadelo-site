@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-11",
+  "atualizado": "2026-11-12",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -961,6 +961,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 7 Potes",
+      "categoria": "casa",
+      "preco": 29.49,
+      "preco_antigo": 44.99,
+      "desconto": 34,
+      "produto_url": "https://www.amazon.com.br/dp/B07FTKKBM3",
+      "link": "https://www.amazon.com.br/dp/B07FTKKBM3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "smartwatch-huawei-watch-fit-5-amoled-de-1-82-d",
       "titulo": "Smartwatch, HUAWEI WATCH FIT 5, AMOLED de 1,82\" Design Leve, Mini Treino, Bateria com Até 10 Dias, 64 GB, Gerenciamento ",
       "categoria": "eletronicos",
@@ -972,22 +988,6 @@
       "loja": "Amazon",
       "origem": "busca: smartwatch",
       "foto": "assets/smartwatch-huawei-watch-fit-5-amoled-de-1-82-d.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
-      "titulo": "Jogo de Cama Casal Padrão Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Não faz bolinha Toque Extra Macio – Azul",
-      "categoria": "casa",
-      "preco": 72.05,
-      "preco_antigo": 108.99,
-      "desconto": 34,
-      "produto_url": "https://www.amazon.com.br/dp/B0CL7SHVZ7",
-      "link": "https://www.amazon.com.br/dp/B0CL7SHVZ7?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-de-cama-casal-padrao-percal-400-fios-pont.jpg",
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
@@ -1038,6 +1038,22 @@
       "visto_em": "2026-11-11",
       "destaque": true,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
+      "id": "relogio-smartwatch-amazfit-bip-max-amoled-2-07",
+      "titulo": "Relógio Smartwatch Amazfit Bip Max Amoled 2,07, bateria de 20 dias,mais de 150 esportes,resistência de 5 ATM, Android e ",
+      "categoria": "eletronicos",
+      "preco": 483.55,
+      "preco_antigo": 699.0,
+      "desconto": 31,
+      "produto_url": "https://www.amazon.com.br/dp/B0H98RHRR4",
+      "link": "https://www.amazon.com.br/dp/B0H98RHRR4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/relogio-smartwatch-amazfit-bip-max-amoled-2-07.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p",
