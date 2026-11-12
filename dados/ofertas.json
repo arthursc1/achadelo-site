@@ -615,6 +615,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "philips-walita-fritadeira-airfryer-serie-2000-",
+      "titulo": "Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 220V",
+      "categoria": "cozinha",
+      "preco": 379.0,
+      "preco_antigo": 699.9,
+      "desconto": 46,
+      "produto_url": "https://www.amazon.com.br/dp/B0D98WR6YM",
+      "link": "https://www.amazon.com.br/dp/B0D98WR6YM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-serie-2000-.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
       "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
       "titulo": "Stels Jogo de Ferramentas 57 Peças 1/4\" - Aço Cromo Vanádio - Catraca 72 Dentes + Acessórios - Caixa Plástica Resistente",
       "categoria": "ferramentas",
@@ -705,22 +721,6 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "philips-walita-fritadeira-airfryer-serie-1000-",
-      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V",
-      "categoria": "cozinha",
-      "preco": 309.0,
-      "preco_antigo": 549.9,
-      "desconto": 44,
-      "produto_url": "https://www.amazon.com.br/dp/B0D98VK8PP",
-      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-fritadeira-airfryer-serie-1000-.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag",
@@ -1004,6 +1004,22 @@
       "loja": "Amazon",
       "origem": "busca: fone de ouvido bluetooth",
       "foto": "assets/fones-bluetooth-5-3-com-42h-de-bateria-graves-.jpg",
+      "visto_em": "2026-11-11",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
+      "id": "fone-de-ouvido-sem-fio-jbl-bluetooth-wave-beam",
+      "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Beam 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
+      "categoria": "eletronicos",
+      "preco": 246.9,
+      "preco_antigo": 369.0,
+      "desconto": 33,
+      "produto_url": "https://www.amazon.com.br/dp/B0DHL93XCN",
+      "link": "https://www.amazon.com.br/dp/B0DHL93XCN?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-de-ouvido-sem-fio-jbl-bluetooth-wave-beam.jpg",
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
