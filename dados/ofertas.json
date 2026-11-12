@@ -305,6 +305,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "brinox-jogo-de-panelas-antiaderente-ceramic-li",
+      "titulo": "Brinox - Jogo de Panelas Antiaderente Ceramic Life Smart Plus 6 Peças - Vanilla",
+      "categoria": "cozinha",
+      "preco": 312.54,
+      "preco_antigo": 699.9,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
+      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/brinox-jogo-de-panelas-antiaderente-ceramic-li.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
       "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
       "categoria": "cozinha",
@@ -381,22 +397,6 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "rishon-pote-hermetico-para-marmita-vidro-boros",
-      "titulo": "Rishon Pote Hermético para Marmita Vidro Borossilicato 640ml Kit 10un",
-      "categoria": "cozinha",
-      "preco": 88.8,
-      "preco_antigo": 189.4,
-      "desconto": 53,
-      "produto_url": "https://www.amazon.com.br/dp/B0HFYSMG3W",
-      "link": "https://www.amazon.com.br/dp/B0HFYSMG3W?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit potes de vidro",
-      "foto": "assets/rishon-pote-hermetico-para-marmita-vidro-boros.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "kit-46-chave-catraca-jogo-de-soquetes-allen-to",
