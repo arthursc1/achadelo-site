@@ -161,6 +161,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "kit-com-5-potes-de-vidro-gato-panda-640-ml-ret",
+      "titulo": "Kit com 5 Potes de Vidro Gato Panda, 640 ml, Retangular, com Tampa Hermética, Azul",
+      "categoria": "cozinha",
+      "preco": 42.3,
+      "preco_antigo": 99.0,
+      "desconto": 57,
+      "produto_url": "https://www.amazon.com.br/dp/B08CPW5BR2",
+      "link": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit potes de vidro",
+      "foto": "assets/kit-com-5-potes-de-vidro-gato-panda-640-ml-ret.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "philips-walita-preta-fritadeira-airfryer-essen",
       "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
       "categoria": "cozinha",
@@ -395,22 +411,6 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "jogo-de-panelas-tramontina-antiaderente-paris-",
-      "titulo": "Jogo de Panelas Tramontina Antiaderente Paris 10 Pç Vermelho",
-      "categoria": "cozinha",
-      "preco": 402.48,
-      "preco_antigo": 839.54,
-      "desconto": 52,
-      "produto_url": "https://www.amazon.com.br/dp/B0BBSDS4BT",
-      "link": "https://www.amazon.com.br/dp/B0BBSDS4BT?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-tramontina-antiaderente-paris-.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "sparta-maleta-de-ferramentas-kit-com-129-pecas",
