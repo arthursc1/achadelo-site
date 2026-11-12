@@ -615,6 +615,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "philips-walita-fritadeira-airfryer-serie-1000-",
+      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V",
+      "categoria": "cozinha",
+      "preco": 298.99,
+      "preco_antigo": 549.9,
+      "desconto": 46,
+      "produto_url": "https://www.amazon.com.br/dp/B0D98VK8PP",
+      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-serie-1000-.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "philips-walita-fritadeira-airfryer-serie-2000-",
       "titulo": "Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 220V",
       "categoria": "cozinha",
@@ -691,22 +707,6 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "philips-walita-fritadeira-airfryer-forno-serie",
-      "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
-      "categoria": "cozinha",
-      "preco": 549.0,
-      "preco_antigo": 999.9,
-      "desconto": 45,
-      "produto_url": "https://www.amazon.com.br/dp/B0DD1M9WJT",
-      "link": "https://www.amazon.com.br/dp/B0DD1M9WJT?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-fritadeira-airfryer-forno-serie.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "colchao-casal-d33-ortopedico-de-espuma-dup",
