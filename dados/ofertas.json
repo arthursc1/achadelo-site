@@ -570,7 +570,7 @@
       "link": "https://www.amazon.com.br/dp/B08MQQD45L?th=1&tag=achadelo-20",
       "produto_url": "https://www.amazon.com.br/dp/B08MQQD45L",
       "visto_em": "2026-11-11",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
@@ -601,7 +601,7 @@
       "link": "https://www.amazon.com.br/dp/B0FLZY9VTH?tag=achadelo-20",
       "produto_url": "https://www.amazon.com.br/dp/B0FLZY9VTH",
       "visto_em": "2026-11-11",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
@@ -664,7 +664,7 @@
       "link": "https://www.amazon.com.br/dp/B09WY3MSXN?th=1&tag=achadelo-20",
       "produto_url": "https://www.amazon.com.br/dp/B09WY3MSXN",
       "visto_em": "2026-11-11",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
@@ -679,7 +679,7 @@
       "link": "https://www.amazon.com.br/dp/B0F9XP8CSQ?tag=achadelo-20",
       "produto_url": "https://www.amazon.com.br/dp/B0F9XP8CSQ",
       "visto_em": "2026-11-11",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     }
   ]
