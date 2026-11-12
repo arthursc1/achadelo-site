@@ -158,3 +158,32 @@ body.tem-anuncios .anuncio-topo ins { margin: 0 auto; }
 .migalha { padding-top: 18px; font-size: .9rem; }
 .migalha a { color: #b6ab94; text-decoration: none; }
 .carregando { padding: 40px 0; color: #b6ab94; }
+
+/* ---------- oferta com cupom ----------
+   O cupom é condicional: o preço cheio continua sendo o número principal. O brilho
+   na borda só chama atenção para a linha de aviso — não promete desconto garantido. */
+.card.com-cupom {
+  position: relative;
+  border-color: var(--acento);
+  animation: brilho-cupom 2.6s ease-in-out infinite;
+}
+@keyframes brilho-cupom {
+  0%, 100% { box-shadow: 0 0 0 1px rgb(255 194 75 / .35), 0 0 12px rgb(255 194 75 / .18); }
+  50%      { box-shadow: 0 0 0 2px rgb(255 194 75 / .75), 0 0 26px rgb(255 194 75 / .42); }
+}
+/* quem pediu menos animação no sistema não recebe pulsação (só a borda marcada) */
+@media (prefers-reduced-motion: reduce) {
+  .card.com-cupom { animation: none; box-shadow: 0 0 0 2px rgb(255 194 75 / .6); }
+}
+
+.selo-cupom {
+  position: absolute; left: 10px; bottom: 10px;
+  background: var(--acento); color: #12100c;
+  font-family: var(--titulo); font-size: .72rem; letter-spacing: .04em;
+  text-transform: uppercase; padding: 5px 9px; border-radius: 8px;
+}
+
+.aviso-cupom {
+  display: block; margin-top: 6px; font-size: .82rem; line-height: 1.3;
+  color: var(--acento); font-weight: 600;
+}

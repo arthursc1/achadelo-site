@@ -69,22 +69,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
-      "categoria": "eletronicos",
-      "preco": 198.9,
-      "preco_antigo": 549.0,
-      "desconto": 64,
-      "produto_url": "https://www.amazon.com.br/dp/B0CVCG6S9C",
-      "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-pra.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "jogo-de-cama-casal-percal-400-fios-ponto-palit",
       "titulo": "Jogo de Cama Casal Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Anti-pilling com Toque Macio - Cinza",
       "categoria": "casa",
@@ -99,22 +83,6 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
-      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-ros",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
-      "categoria": "eletronicos",
-      "preco": 201.34,
-      "preco_antigo": 549.0,
-      "desconto": 63,
-      "produto_url": "https://www.amazon.com.br/dp/B0CVCF2J9Q",
-      "link": "https://www.amazon.com.br/dp/B0CVCF2J9Q?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-ros.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "panela-de-pressao-brinox-pressure-4-2l-20",
@@ -371,22 +339,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "sparta-maleta-de-ferramentas-kit-com-129-pecas",
-      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
-      "categoria": "ferramentas",
-      "preco": 67.16,
-      "preco_antigo": 140.45,
-      "desconto": 52,
-      "produto_url": "https://www.amazon.com.br/dp/B076N2S8FV",
-      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/sparta-maleta-de-ferramentas-kit-com-129-pecas.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
       "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
       "categoria": "eletronicos",
@@ -419,22 +371,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
-      "id": "mtx-jogo-de-chaves-torx-hexagonais-longas-com-",
-      "titulo": "MTX Jogo de Chaves Torx Hexagonais Longas com Acabamento Acetinado, Kit de Chaves Torx de Alta Precisão",
-      "categoria": "ferramentas",
-      "preco": 11.76,
-      "preco_antigo": 23.37,
-      "desconto": 50,
-      "produto_url": "https://www.amazon.com.br/dp/B07F181K6B",
-      "link": "https://www.amazon.com.br/dp/B07F181K6B?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/mtx-jogo-de-chaves-torx-hexagonais-longas-com-.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
       "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
       "categoria": "eletronicos",
@@ -446,6 +382,22 @@
       "loja": "Amazon",
       "origem": "busca: fone de ouvido bluetooth",
       "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "mtx-jogo-de-chaves-torx-hexagonais-longas-com-",
+      "titulo": "MTX Jogo de Chaves Torx Hexagonais Longas com Acabamento Acetinado, Kit de Chaves Torx de Alta Precisão",
+      "categoria": "ferramentas",
+      "preco": 11.76,
+      "preco_antigo": 23.37,
+      "desconto": 50,
+      "produto_url": "https://www.amazon.com.br/dp/B07F181K6B",
+      "link": "https://www.amazon.com.br/dp/B07F181K6B?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/mtx-jogo-de-chaves-torx-hexagonais-longas-com-.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."

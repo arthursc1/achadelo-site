@@ -33,18 +33,24 @@ function imagemMascote(info, classe) {
 
 function cardOferta(oferta) {
   const artigo = document.createElement("a");
-  artigo.className = "card";
+  // oferta com cupom ganha brilho na borda e o aviso: o preço cheio continua sendo
+  // o principal, porque o cupom é condicional (pode não estar mais disponível)
+  artigo.className = oferta.preco_cupom ? "card com-cupom" : "card";
   artigo.href = `oferta.html?id=${encodeURIComponent(oferta.id)}`;
   artigo.innerHTML = `
     <div class="foto">
       <img src="${oferta.foto}" alt="${oferta.titulo}" loading="lazy">
       <span class="selo">-${oferta.desconto}%</span>
+      ${oferta.preco_cupom ? '<span class="selo-cupom">possível cupom</span>' : ""}
     </div>
     <div class="texto">
       <span class="tag">${oferta.loja}</span>
       <span class="titulo">${oferta.titulo}</span>
       <span class="de">${brl(oferta.preco_antigo)}</span>
       <span class="preco">${brl(oferta.preco)}</span>
+      ${oferta.preco_cupom
+        ? `<span class="aviso-cupom">possível cupom disponível: ${brl(oferta.preco_cupom)}</span>`
+        : ""}
     </div>`;
   return artigo;
 }
@@ -124,15 +130,19 @@ function montarOferta(dados, mascotes) {
     ? `<p class="garimpado">${imagemMascote(info, "")}<span>${info.frase}</span></p>`
     : "";
   alvo.innerHTML = `
-    <div class="foto">
+    <div class="foto${oferta.preco_cupom ? " com-cupom" : ""}">
       <img src="${oferta.foto}" alt="${oferta.titulo}">
       <span class="selo">-${oferta.desconto}%</span>
+      ${oferta.preco_cupom ? '<span class="selo-cupom">possível cupom</span>' : ""}
     </div>
     <div>
       <span class="tag" style="color:var(--acento);font-size:.72rem;letter-spacing:.06em;text-transform:uppercase">${oferta.loja}</span>
       <h1>${oferta.titulo}</h1>
       <p class="de">${brl(oferta.preco_antigo)}</p>
       <p class="preco">${brl(oferta.preco)}</p>
+      ${oferta.preco_cupom
+        ? `<p class="aviso-cupom">Possível cupom disponível: sai por ${brl(oferta.preco_cupom)} se o cupom ainda estiver ativo na loja. Confira na página do anúncio antes de fechar.</p>`
+        : ""}
       ${oferta.observacao ? `<p class="nota">${oferta.observacao}</p>` : ""}
       ${garimpado}
       <p style="margin:18px 0 10px">
