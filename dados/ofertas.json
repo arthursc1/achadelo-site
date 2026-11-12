@@ -83,20 +83,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "colchao-casal-luuna-original-espuma-24cm-c",
-      "titulo": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de Garantia",
-      "categoria": "casa",
-      "preco": 2089.0,
-      "preco_antigo": 6000.0,
-      "desconto": 65,
-      "foto": "assets/colchao-casal-luuna-original-espuma-24cm-c.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/26eypQE",
-      "visto_em": "2026-11-09",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
       "categoria": "eletronicos",
@@ -124,7 +110,7 @@
       "link": "https://meli.la/2f6E9dH",
       "produto_url": "https://www.mercadolivre.com.br/panela-de-pressao-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
       "visto_em": "2026-11-12",
-      "destaque": false,
+      "destaque": true,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
@@ -158,20 +144,6 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "panela-de-pressao-brinox-pressure-4-2l-20",
-      "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
-      "categoria": "cozinha",
-      "preco": 174.9,
-      "preco_antigo": 477.69,
-      "desconto": 63,
-      "foto": "assets/panela-de-pressao-brinox-pressure-4-2l-20.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2f6E9dH",
-      "visto_em": "2026-11-09",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
       "id": "fritadeira-eletrica-sem-oleo-forno-oven-airfry",
@@ -270,22 +242,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
-      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
-      "categoria": "cozinha",
-      "preco": 174.83,
-      "preco_antigo": 399.99,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "acrimet-organizador-modular-de-gavetas-transpa",
       "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
       "categoria": "casa",
@@ -297,22 +253,6 @@
       "loja": "Amazon",
       "origem": "busca: organizador de armario",
       "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
-      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
-      "categoria": "casa",
-      "preco": 56.71,
-      "preco_antigo": 129.0,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
-      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -413,20 +353,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "espelho-decorativo-grande-corpo-inteiro-mo",
-      "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
-      "categoria": "casa",
-      "preco": 309.9,
-      "preco_antigo": 690.8,
-      "desconto": 55,
-      "foto": "assets/espelho-decorativo-grande-corpo-inteiro-mo.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2vQcWpZ",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
       "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
       "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
       "categoria": "cozinha",
@@ -507,38 +433,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
-      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
-      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
-      "categoria": "eletronicos",
-      "preco": 184.24,
-      "preco_antigo": 369.0,
-      "desconto": 50,
-      "produto_url": "https://www.amazon.com.br/dp/B0CRTR3PMF",
-      "link": "https://www.amazon.com.br/dp/B0CRTR3PMF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
-      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
-      "categoria": "eletronicos",
-      "preco": 184.24,
-      "preco_antigo": 369.0,
-      "desconto": 50,
-      "produto_url": "https://www.amazon.com.br/dp/B0CRTYZG5C",
-      "link": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "mtx-jogo-de-chaves-torx-hexagonais-longas-com-",
       "titulo": "MTX Jogo de Chaves Torx Hexagonais Longas com Acabamento Acetinado, Kit de Chaves Torx de Alta Precisão",
       "categoria": "ferramentas",
@@ -550,6 +444,22 @@
       "loja": "Amazon",
       "origem": "busca: kit de chaves e ferramentas",
       "foto": "assets/mtx-jogo-de-chaves-torx-hexagonais-longas-com-.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
+      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
+      "categoria": "eletronicos",
+      "preco": 184.24,
+      "preco_antigo": 369.0,
+      "desconto": 50,
+      "produto_url": "https://www.amazon.com.br/dp/B0CRTR3PMF",
+      "link": "https://www.amazon.com.br/dp/B0CRTR3PMF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -603,21 +513,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "kit-com-2-cameras-de-seguranca-ip-wifi-a8",
-      "titulo": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular",
-      "categoria": "eletronicos",
-      "preco": 156.51,
-      "preco_antigo": 299.9,
-      "desconto": 47,
-      "foto": "assets/kit-com-2-cameras-de-seguranca-ip-wifi-a8.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2nV5XYi",
-      "produto_url": "https://www.mercadolivre.com.br/kit-com-2-cameras-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327436",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
       "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
       "categoria": "casa",
@@ -633,34 +528,19 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
-      "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
-      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
+      "id": "kit-com-2-cameras-de-seguranca-ip-wifi-a8",
+      "titulo": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular",
       "categoria": "eletronicos",
-      "preco": 131.1,
-      "preco_antigo": 249.0,
+      "preco": 156.51,
+      "preco_antigo": 299.9,
       "desconto": 47,
-      "produto_url": "https://www.amazon.com.br/dp/B0BTYCRJSS",
-      "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
-      "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
-      "categoria": "casa",
-      "preco": 859.99,
-      "preco_antigo": 1631.0,
-      "desconto": 47,
-      "foto": "assets/conjunto-sala-jantar-4-cadeiras-charlotte.jpg",
+      "foto": "assets/kit-com-2-cameras-de-seguranca-ip-wifi-a8.jpg",
       "loja": "Mercado Livre",
-      "link": "https://meli.la/1X3S2z1",
-      "visto_em": "2026-11-09",
+      "link": "https://meli.la/2nV5XYi",
+      "produto_url": "https://www.mercadolivre.com.br/kit-com-2-cameras-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327436",
+      "visto_em": "2026-11-12",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
