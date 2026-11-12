@@ -161,6 +161,38 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "philips-walita-preta-fritadeira-airfryer-essen",
+      "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
+      "categoria": "cozinha",
+      "preco": 398.99,
+      "preco_antigo": 899.9,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0BRL93TYM",
+      "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
+      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Bege)",
+      "categoria": "casa",
+      "preco": 56.8,
+      "preco_antigo": 129.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C1LL2LYW",
+      "link": "https://www.amazon.com.br/dp/B0C1LL2LYW?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
       "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
       "categoria": "cozinha",
@@ -695,20 +727,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "panela-de-pressao-inducao-e-gas-de-aco-ino",
-      "titulo": "Panela De Pressão Indução E Gás De Aço Inoxidável 4 Litros",
-      "categoria": "cozinha",
-      "preco": 269.0,
-      "preco_antigo": 500.0,
-      "desconto": 46,
-      "foto": "assets/panela-de-pressao-inducao-e-gas-de-aco-ino.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2bJffGk",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
       "id": "jbl-fone-de-ouvido-bluetooth-over-ear-tune-530",
       "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
       "categoria": "eletronicos",
@@ -963,20 +981,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
-      "id": "arvore-de-natal-pinheiro-canadense-luxo-1",
-      "titulo": "Árvore De Natal Pinheiro Canadense Luxo 1,50m 450 Galhos Tradicional Verde Imperial Premium Grande Cheia LuvinCo",
-      "categoria": "casa",
-      "preco": 128.71,
-      "preco_antigo": 199.88,
-      "desconto": 35,
-      "foto": "assets/arvore-de-natal-pinheiro-canadense-luxo-1.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1j8PZyG",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
       "id": "smartwatch-huawei-watch-fit-5-amoled-de-1-82-d",
       "titulo": "Smartwatch, HUAWEI WATCH FIT 5, AMOLED de 1,82\" Design Leve, Mini Treino, Bateria com Até 10 Dias, 64 GB, Gerenciamento ",
       "categoria": "eletronicos",
@@ -1101,6 +1105,22 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "kit-jogo-de-ferramentas-fasterr-142-pecas-comp",
+      "titulo": "Kit Jogo de Ferramentas Fasterr 142 Peças Completo com Maleta Organizadora - Essencial para Reparos Domésticos e Profiss",
+      "categoria": "ferramentas",
+      "preco": 53.46,
+      "preco_antigo": 69.9,
+      "desconto": 24,
+      "produto_url": "https://www.amazon.com.br/dp/B0FCZLMGDH",
+      "link": "https://www.amazon.com.br/dp/B0FCZLMGDH?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/kit-jogo-de-ferramentas-fasterr-142-pecas-comp.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "kit-jogo-de-ferramentas-com-maleta-kit-chave-c",
