@@ -49,22 +49,8 @@
       "produto_url": "https://www.mercadolivre.com.br/colchao-casal-luuna-original-espuma-24cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB26697821",
       "visto_em": "2026-11-12",
       "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
-      "id": "motosserra-eletrica-brushless-16-polegadas",
-      "titulo": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
-      "categoria": "ferramentas",
-      "preco": 312.55,
-      "preco_antigo": 900.0,
-      "desconto": 65,
-      "foto": "assets/motosserra-eletrica-brushless-16-polegadas.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2ntFC5a",
-      "produto_url": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
-      "visto_em": "2026-11-12",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026.",
+      "preco_cupom": 1989.0
     },
     {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-gra",
@@ -99,21 +85,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "panela-de-pressao-brinox-pressure-4-2l-20",
-      "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
-      "categoria": "cozinha",
-      "preco": 174.9,
-      "preco_antigo": 477.69,
-      "desconto": 63,
-      "foto": "assets/panela-de-pressao-brinox-pressure-4-2l-20.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2f6E9dH",
-      "produto_url": "https://www.mercadolivre.com.br/panela-de-pressao-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
-      "visto_em": "2026-11-12",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
       "id": "jogo-de-cama-casal-percal-400-fios-ponto-palit",
       "titulo": "Jogo de Cama Casal Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Anti-pilling com Toque Macio - Cinza",
       "categoria": "casa",
@@ -144,6 +115,21 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "panela-de-pressao-brinox-pressure-4-2l-20",
+      "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
+      "categoria": "cozinha",
+      "preco": 193.08,
+      "preco_antigo": 477.69,
+      "desconto": 60,
+      "foto": "assets/panela-de-pressao-brinox-pressure-4-2l-20.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2f6E9dH",
+      "produto_url": "https://www.mercadolivre.com.br/panela-de-pressao-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
+      "visto_em": "2026-11-12",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "fritadeira-eletrica-sem-oleo-forno-oven-airfry",
@@ -463,6 +449,21 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "motosserra-eletrica-brushless-16-polegadas",
+      "titulo": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
+      "categoria": "ferramentas",
+      "preco": 384.5,
+      "preco_antigo": 759.0,
+      "desconto": 49,
+      "foto": "assets/motosserra-eletrica-brushless-16-polegadas.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2ntFC5a",
+      "produto_url": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
+      "visto_em": "2026-11-12",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
