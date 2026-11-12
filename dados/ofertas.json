@@ -83,6 +83,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "jogo-de-cama-casal-percal-400-fios-ponto-palit",
+      "titulo": "Jogo de Cama Casal Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Anti-pilling com Toque Macio - Cinza",
+      "categoria": "casa",
+      "preco": 71.19,
+      "preco_antigo": 194.9,
+      "desconto": 63,
+      "produto_url": "https://www.amazon.com.br/dp/B08JJ8VSNQ",
+      "link": "https://www.amazon.com.br/dp/B08JJ8VSNQ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-de-cama-casal-percal-400-fios-ponto-palit.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-ros",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
       "categoria": "eletronicos",
@@ -473,6 +489,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "philips-walita-fritadeira-airfryer-forno-serie",
+      "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
+      "categoria": "cozinha",
+      "preco": 499.0,
+      "preco_antigo": 999.9,
+      "desconto": 50,
+      "produto_url": "https://www.amazon.com.br/dp/B0DD1M9WJT",
+      "link": "https://www.amazon.com.br/dp/B0DD1M9WJT?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-forno-serie.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "organizador-aramado-de-armario-ou-bancada-bran",
       "titulo": "Organizador Aramado de Armário ou Bancada Branco",
       "categoria": "casa",
@@ -675,22 +707,6 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "air-fryer-philco-4l-revestimento-redstone-1500",
-      "titulo": "Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 127V",
-      "categoria": "cozinha",
-      "preco": 197.1,
-      "preco_antigo": 357.0,
-      "desconto": 45,
-      "produto_url": "https://www.amazon.com.br/dp/B0DY2FPRJD",
-      "link": "https://www.amazon.com.br/dp/B0DY2FPRJD?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/air-fryer-philco-4l-revestimento-redstone-1500.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "jbl-fone-de-ouvido-bluetooth-over-ear-tune-530",
@@ -959,22 +975,6 @@
       "visto_em": "2026-11-09",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
-    },
-    {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 7 Potes",
-      "categoria": "casa",
-      "preco": 29.49,
-      "preco_antigo": 44.99,
-      "desconto": 34,
-      "produto_url": "https://www.amazon.com.br/dp/B07FTKKBM3",
-      "link": "https://www.amazon.com.br/dp/B07FTKKBM3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "smartwatch-huawei-watch-fit-5-amoled-de-1-82-d",
