@@ -129,6 +129,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
+      "id": "fritadeira-eletrica-sem-oleo-forno-oven-airfry",
+      "titulo": "Fritadeira Elétrica sem oleo Forno Oven Airfryer 12L digital receita programada 2 bandejas espeto giratório 1700W Electr",
+      "categoria": "cozinha",
+      "preco": 540.81,
+      "preco_antigo": 1299.0,
+      "desconto": 58,
+      "produto_url": "https://www.amazon.com.br/dp/B0BYK9KP3W",
+      "link": "https://www.amazon.com.br/dp/B0BYK9KP3W?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/fritadeira-eletrica-sem-oleo-forno-oven-airfry.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
       "titulo": "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso",
       "categoria": "cozinha",
@@ -378,22 +394,6 @@
       "loja": "Amazon",
       "origem": "busca: kit potes de vidro",
       "foto": "assets/rishon-pote-hermetico-para-marmita-vidro-boros.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "jogo-de-panelas-rochedo-stone-pro-5-pecas-pret",
-      "titulo": "Jogo de Panelas Rochedo Stone Pro 5 peças, Preto com Efeito Pedra e Antiaderente Minerium, Cabos Ergonômicos, Base de Li",
-      "categoria": "cozinha",
-      "preco": 234.88,
-      "preco_antigo": 499.99,
-      "desconto": 53,
-      "produto_url": "https://www.amazon.com.br/dp/B0DLJFB7F7",
-      "link": "https://www.amazon.com.br/dp/B0DLJFB7F7?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-rochedo-stone-pro-5-pecas-pret.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -709,6 +709,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
+      "id": "mtx-jogo-de-chave-combinada-fosco-6-x-22-mm-12",
+      "titulo": "MTX Jogo De Chave Combinada Fosco 6 X 22 Mm 12 Peças Aço Vanádio Revestimento Níquel-Cromo Alta Durabilidade Precisão Pr",
+      "categoria": "ferramentas",
+      "preco": 67.0,
+      "preco_antigo": 94.6,
+      "desconto": 29,
+      "produto_url": "https://www.amazon.com.br/dp/B0777NRVS9",
+      "link": "https://www.amazon.com.br/dp/B0777NRVS9?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/mtx-jogo-de-chave-combinada-fosco-6-x-22-mm-12.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "eda-chave-de-fenda-jogo-com-5-pecas-excellent",
       "titulo": "EDA Chave De Fenda Jogo Com 5 Peças Excellent",
       "categoria": "ferramentas",
@@ -785,22 +801,6 @@
       "visto_em": "2026-11-11",
       "destaque": true,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "stanley-kit-de-ferramentas-110-pecas-stmt81243",
-      "titulo": "STANLEY Kit de Ferramentas 110 Peças STMT81243 Chave Combinada, Catraca, Alicates",
-      "categoria": "ferramentas",
-      "preco": 468.99,
-      "preco_antigo": 589.9,
-      "desconto": 20,
-      "produto_url": "https://www.amazon.com.br/dp/B079NCC2LQ",
-      "link": "https://www.amazon.com.br/dp/B079NCC2LQ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/stanley-kit-de-ferramentas-110-pecas-stmt81243.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     }
   ]
 }
