@@ -273,6 +273,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
+      "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
+      "categoria": "cozinha",
+      "preco": 183.9,
+      "preco_antigo": 405.82,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0CQKKRWMQ",
+      "link": "https://www.amazon.com.br/dp/B0CQKKRWMQ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/britania-fritadeira-air-fryer-bfr37-revestimen.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
       "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
       "categoria": "cozinha",
@@ -397,20 +413,6 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "panela-de-pressao-ceramic-life-pressure-4",
-      "titulo": "Panela De Pressão Ceramic Life Pressure 4,2l Areia Brinox",
-      "categoria": "cozinha",
-      "preco": 219.9,
-      "preco_antigo": 477.69,
-      "desconto": 53,
-      "foto": "assets/panela-de-pressao-ceramic-life-pressure-4.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2FM8PQ9",
-      "visto_em": "2026-11-09",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 09/11/2026."
     },
     {
       "id": "sparta-maleta-de-ferramentas-kit-com-129-pecas",
