@@ -194,6 +194,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "refletor-led-200w-holofote-bivolt-prova-d",
+      "titulo": "Refletor Led 200w Holofote Bivolt Prova D'água Cor Branco Frio 6500k",
+      "categoria": "casa",
+      "preco": 30.0,
+      "preco_antigo": 79.98,
+      "desconto": 62,
+      "foto": "assets/refletor-led-200w-holofote-bivolt-prova-d.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1RHWJAf",
+      "produto_url": "https://www.mercadolivre.com.br/refletor-led-200w-holofote-bivolt-prova-dagua-cor-branco-frio-6500k/p/MLB53880377",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "motosserra-eletrica-brushless-16-polegadas",
       "titulo": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
       "categoria": "ferramentas",
@@ -633,21 +648,6 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "kit-2-cameras-seguranca-ip-interna-externa",
-      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
-      "categoria": "casa",
-      "preco": 185.99,
-      "preco_antigo": 349.0,
-      "desconto": 47,
-      "foto": "assets/kit-2-cameras-seguranca-ip-interna-externa.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1U21V7k",
-      "produto_url": "https://www.mercadolivre.com.br/kit-2-cameras-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
