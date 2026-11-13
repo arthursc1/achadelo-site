@@ -69,6 +69,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
+      "id": "kit-2-luminaria-solar-externa-com-sensor-r",
+      "titulo": "Kit 2 Luminaria Solar Externa Com Sensor Refletor E Led 3800W",
+      "categoria": "casa",
+      "preco": 188.0,
+      "preco_antigo": 599.0,
+      "desconto": 68,
+      "foto": "assets/kit-2-luminaria-solar-externa-com-sensor-r.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/15WUbZ8",
+      "produto_url": "https://www.mercadolivre.com.br/kit-2-luminaria-solar-externa-com-sensor-refletor-e-led-3800w/p/MLB81796505",
+      "visto_em": "2026-11-13",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
       "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
       "categoria": "ferramentas",
@@ -148,6 +163,21 @@
       "preco_cupom": 1989.0
     },
     {
+      "id": "mini-localizador-rastreador-smart-tag-gps",
+      "titulo": "Mini Localizador Rastreador Smart Tag Gps Com Cordão Chaveiro Cor Preto Compatível Com Android Samsung Motorola Xiaomi Chrome Technology",
+      "categoria": "casa",
+      "preco": 27.99,
+      "preco_antigo": 78.99,
+      "desconto": 64,
+      "foto": "assets/mini-localizador-rastreador-smart-tag-gps.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2UEN2vb",
+      "produto_url": "https://www.mercadolivre.com.br/mini-localizador-rastreador-smart-tag-gps-com-cordao-chaveiro-cor-preto-compativel-com-android-samsung-motorola-xiaomi-chrome-technology/p/MLB64186498",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "jogo-de-cama-casal-percal-400-fios-ponto-palit",
       "titulo": "Jogo de Cama Casal Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Anti-pilling com Toque Macio - Cinza",
       "categoria": "casa",
@@ -206,7 +236,7 @@
       "link": "https://meli.la/2f6E9dH",
       "produto_url": "https://www.mercadolivre.com.br/panela-de-pressao-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
       "visto_em": "2026-11-12",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
@@ -384,6 +414,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
+      "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
+      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
+      "categoria": "cozinha",
+      "preco": 88.56,
+      "preco_antigo": 198.87,
+      "desconto": 55,
+      "foto": "assets/kit-10-pote-de-vidro-marmita-hermetico-640.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1gae3uN",
+      "produto_url": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-640ml-freezer-fitness-vitrex/p/MLB65269789",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
       "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
       "categoria": "cozinha",
@@ -445,22 +490,6 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
-      "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
-      "categoria": "cozinha",
-      "preco": 288.0,
-      "preco_antigo": 629.99,
-      "desconto": 54,
-      "produto_url": "https://www.amazon.com.br/dp/B0DKG6MCGF",
-      "link": "https://www.amazon.com.br/dp/B0DKG6MCGF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "kit-46-chave-catraca-jogo-de-soquetes-allen-to",
@@ -616,36 +645,6 @@
       "loja": "Mercado Livre",
       "link": "https://meli.la/1U21V7k",
       "produto_url": "https://www.mercadolivre.com.br/kit-2-cameras-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
-      "id": "colchao-casal-ortopedico-espuma-d45-138x18",
-      "titulo": "Colchão Casal Ortopédico Espuma D45 138x188x24cm BF Colchões",
-      "categoria": "casa",
-      "preco": 974.0,
-      "preco_antigo": 1857.0,
-      "desconto": 47,
-      "foto": "assets/colchao-casal-ortopedico-espuma-d45-138x18.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/18vPtph",
-      "produto_url": "https://www.mercadolivre.com.br/colchao-casal-ortopedico-espuma-d45-138x188x24cm-bf-colchoes/p/MLB23545332",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
-      "id": "jogo-de-toalhas-banho-village-com-4-pecas",
-      "titulo": "Jogo De Toalhas Banho Village Com 4 Peças Buddemeyer",
-      "categoria": "casa",
-      "preco": 167.2,
-      "preco_antigo": 309.9,
-      "desconto": 46,
-      "foto": "assets/jogo-de-toalhas-banho-village-com-4-pecas.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2TJ6EQZ",
-      "produto_url": "https://www.mercadolivre.com.br/jogo-de-toalhas-banho-village-com-4-pecas-buddemeyer/p/MLB50178106",
       "visto_em": "2026-11-13",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
