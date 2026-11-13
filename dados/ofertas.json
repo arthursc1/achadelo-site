@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-12",
+  "atualizado": "2026-11-13",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -35,6 +35,22 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "wap-parafusadeira-e-furadeira-de-impacto-wf-12",
+      "titulo": "WAP Parafusadeira e Furadeira de Impacto WF 12K4.2 3/8\" 12V",
+      "categoria": "ferramentas",
+      "preco": 140.9,
+      "preco_antigo": 449.9,
+      "desconto": 69,
+      "produto_url": "https://www.amazon.com.br/dp/B0F2JMYPQ9",
+      "link": "https://www.amazon.com.br/dp/B0F2JMYPQ9?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/wap-parafusadeira-e-furadeira-de-impacto-wf-12.jpg",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
@@ -260,20 +276,20 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
-      "categoria": "casa",
-      "preco": 35.99,
-      "preco_antigo": 82.62,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
-      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
+      "categoria": "cozinha",
+      "preco": 180.47,
+      "preco_antigo": 399.99,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
       "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-10",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-13",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
@@ -303,22 +319,6 @@
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/brinox-jogo-de-panelas-antiaderente-ceramic-li.jpg",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
-      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
-      "categoria": "cozinha",
-      "preco": 178.59,
-      "preco_antigo": 399.99,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
@@ -574,6 +574,22 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 7 Potes",
+      "categoria": "casa",
+      "preco": 29.49,
+      "preco_antigo": 44.99,
+      "desconto": 34,
+      "produto_url": "https://www.amazon.com.br/dp/B07FTKKBM3",
+      "link": "https://www.amazon.com.br/dp/B07FTKKBM3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "filamento-pla-1-75mm-preto",
