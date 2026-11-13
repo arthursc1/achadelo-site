@@ -164,6 +164,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "motosserra-eletrica-brushless-16-polegadas",
+      "titulo": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
+      "categoria": "ferramentas",
+      "preco": 349.0,
+      "preco_antigo": 900.0,
+      "desconto": 61,
+      "foto": "assets/motosserra-eletrica-brushless-16-polegadas.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2ntFC5a",
+      "produto_url": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
       "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
       "categoria": "cozinha",
@@ -289,22 +304,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
-      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
-      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
-      "categoria": "casa",
-      "preco": 56.71,
-      "preco_antigo": 129.0,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
-      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
       "id": "philips-walita-preta-fritadeira-airfryer-essen",
       "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
       "categoria": "cozinha",
@@ -316,6 +315,22 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
+      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
+      "categoria": "casa",
+      "preco": 56.71,
+      "preco_antigo": 129.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
+      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
@@ -353,21 +368,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
-      "id": "espelho-decorativo-grande-corpo-inteiro-mo",
-      "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
-      "categoria": "casa",
-      "preco": 309.9,
-      "preco_antigo": 690.8,
-      "desconto": 55,
-      "foto": "assets/espelho-decorativo-grande-corpo-inteiro-mo.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2vQcWpZ",
-      "produto_url": "https://produto.mercadolivre.com.br/MLB-3300609899-espelho-decorativo-grande-corpo-inteiro-moldura-couro-170x70-_JM",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
       "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
       "categoria": "cozinha",
@@ -398,6 +398,21 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "espelho-decorativo-grande-corpo-inteiro-mo",
+      "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
+      "categoria": "casa",
+      "preco": 309.9,
+      "preco_antigo": 690.8,
+      "desconto": 55,
+      "foto": "assets/espelho-decorativo-grande-corpo-inteiro-mo.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2vQcWpZ",
+      "produto_url": "https://produto.mercadolivre.com.br/MLB-3300609899-espelho-decorativo-grande-corpo-inteiro-moldura-couro-170x70-_JM",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "fone-de-ouvido-sem-fio-jbl-bluetooth-wave-buds",
@@ -464,6 +479,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
+      "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
+      "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
+      "categoria": "casa",
+      "preco": 816.99,
+      "preco_antigo": 1631.0,
+      "desconto": 50,
+      "foto": "assets/conjunto-sala-jantar-4-cadeiras-charlotte.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1X3S2z1",
+      "produto_url": "https://www.mercadolivre.com.br/conjunto-sala-jantar-4-cadeiras-charlotte-carraro-nogal-rose/p/MLB47791833",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "organizador-aramado-de-armario-ou-bancada-bran",
       "titulo": "Organizador Aramado de Armário ou Bancada Branco",
       "categoria": "casa",
@@ -510,36 +540,6 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "kit-2-cameras-seguranca-ip-interna-externa",
-      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
-      "categoria": "casa",
-      "preco": 176.69,
-      "preco_antigo": 349.0,
-      "desconto": 49,
-      "foto": "assets/kit-2-cameras-seguranca-ip-interna-externa.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1U21V7k",
-      "produto_url": "https://www.mercadolivre.com.br/kit-2-cameras-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
-      "id": "motosserra-eletrica-brushless-16-polegadas",
-      "titulo": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
-      "categoria": "ferramentas",
-      "preco": 384.5,
-      "preco_antigo": 759.0,
-      "desconto": 49,
-      "foto": "assets/motosserra-eletrica-brushless-16-polegadas.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2ntFC5a",
-      "produto_url": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
@@ -590,19 +590,19 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
-      "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
+      "id": "kit-2-cameras-seguranca-ip-interna-externa",
+      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
       "categoria": "casa",
-      "preco": 859.99,
-      "preco_antigo": 1631.0,
+      "preco": 185.99,
+      "preco_antigo": 349.0,
       "desconto": 47,
-      "foto": "assets/conjunto-sala-jantar-4-cadeiras-charlotte.jpg",
+      "foto": "assets/kit-2-cameras-seguranca-ip-interna-externa.jpg",
       "loja": "Mercado Livre",
-      "link": "https://meli.la/1X3S2z1",
-      "produto_url": "https://www.mercadolivre.com.br/conjunto-sala-jantar-4-cadeiras-charlotte-carraro-nogal-rose/p/MLB47791833",
-      "visto_em": "2026-11-12",
+      "link": "https://meli.la/1U21V7k",
+      "produto_url": "https://www.mercadolivre.com.br/kit-2-cameras-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439",
+      "visto_em": "2026-11-13",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
@@ -621,21 +621,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "colchao-casal-d33-ortopedico-de-espuma-dup",
-      "titulo": "Colchão Casal D33 Ortopédico de Espuma Dupla face a Vácuo 138x188cm BF Colchões",
-      "categoria": "casa",
-      "preco": 979.0,
-      "preco_antigo": 1792.0,
-      "desconto": 45,
-      "foto": "assets/colchao-casal-d33-ortopedico-de-espuma-dup.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2GmaMK1",
-      "produto_url": "https://www.mercadolivre.com.br/colchao-casal-d33-ortopedico-de-espuma-dupla-face-a-vacuo-138x188cm-bf-colchoes/p/MLB26782488",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
       "id": "kit-com-2-cameras-de-seguranca-ip-wifi-a8",
       "titulo": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular",
       "categoria": "eletronicos",
@@ -646,6 +631,21 @@
       "loja": "Mercado Livre",
       "link": "https://meli.la/2nV5XYi",
       "produto_url": "https://www.mercadolivre.com.br/kit-com-2-cameras-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327436",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
+      "id": "colchao-casal-d33-ortopedico-de-espuma-dup",
+      "titulo": "Colchão Casal D33 Ortopédico de Espuma Dupla face a Vácuo 138x188cm BF Colchões",
+      "categoria": "casa",
+      "preco": 979.0,
+      "preco_antigo": 1792.0,
+      "desconto": 45,
+      "foto": "assets/colchao-casal-d33-ortopedico-de-espuma-dup.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2GmaMK1",
+      "produto_url": "https://www.mercadolivre.com.br/colchao-casal-d33-ortopedico-de-espuma-dupla-face-a-vacuo-138x188cm-bf-colchoes/p/MLB26782488",
       "visto_em": "2026-11-13",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
