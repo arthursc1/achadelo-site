@@ -127,9 +127,9 @@
       "loja": "Mercado Livre",
       "link": "https://meli.la/26eypQE",
       "produto_url": "https://www.mercadolivre.com.br/colchao-casal-luuna-original-espuma-24cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB26697821",
-      "visto_em": "2026-11-12",
+      "visto_em": "2026-11-13",
       "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026.",
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026.",
       "preco_cupom": 1989.0
     },
     {
@@ -530,21 +530,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "kit-com-2-cameras-de-seguranca-ip-wifi-a8",
-      "titulo": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular",
-      "categoria": "eletronicos",
-      "preco": 156.51,
-      "preco_antigo": 299.9,
-      "desconto": 47,
-      "foto": "assets/kit-com-2-cameras-de-seguranca-ip-wifi-a8.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2nV5XYi",
-      "produto_url": "https://www.mercadolivre.com.br/kit-com-2-cameras-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327436",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
       "id": "conjunto-sala-jantar-4-cadeiras-charlotte",
       "titulo": "Conjunto Sala Jantar 4 Cadeiras Charlotte Carraro Nogal Rose",
       "categoria": "casa",
@@ -574,6 +559,21 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "kit-com-2-cameras-de-seguranca-ip-wifi-a8",
+      "titulo": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular",
+      "categoria": "eletronicos",
+      "preco": 166.41,
+      "preco_antigo": 299.9,
+      "desconto": 45,
+      "foto": "assets/kit-com-2-cameras-de-seguranca-ip-wifi-a8.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2nV5XYi",
+      "produto_url": "https://www.mercadolivre.com.br/kit-com-2-cameras-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327436",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
