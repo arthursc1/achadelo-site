@@ -21,6 +21,21 @@
   ],
   "ofertas": [
     {
+      "id": "pulverizador-eletrico-snow-foam-profission",
+      "titulo": "Pulverizador Elétrico Snow Foam Profissional p/ Limpeza Automotiva e Casa",
+      "categoria": "casa",
+      "preco": 52.5,
+      "preco_antigo": 199.98,
+      "desconto": 73,
+      "foto": "assets/pulverizador-eletrico-snow-foam-profission.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2Y4aVU4",
+      "produto_url": "https://www.mercadolivre.com.br/pulverizador-eletrico-snow-foam-profissional-p-limpeza-automotiva-e-casa/p/MLB78627716",
+      "visto_em": "2026-11-13",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
       "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
       "categoria": "ferramentas",
@@ -180,6 +195,21 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "camera-de-seguranca-ip-wifi-a8-full-hd-ics",
+      "titulo": "Câmera De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular Android E ",
+      "categoria": "eletronicos",
+      "preco": 75.19,
+      "preco_antigo": 179.9,
+      "desconto": 58,
+      "foto": "assets/camera-de-seguranca-ip-wifi-a8-full-hd-ics.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1C1tQg9",
+      "produto_url": "https://www.mercadolivre.com.br/camera-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327437",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "fritadeira-eletrica-sem-oleo-forno-oven-airfry",
       "titulo": "Fritadeira Elétrica sem oleo Forno Oven Airfryer 12L digital receita programada 2 bandejas espeto giratório 1700W Electr",
       "categoria": "cozinha",
@@ -244,20 +274,19 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
-      "id": "philips-walita-preta-fritadeira-airfryer-essen",
-      "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
-      "categoria": "cozinha",
-      "preco": 398.99,
-      "preco_antigo": 899.9,
+      "id": "kit-4-refletores-led-400w-blackone-bivolt",
+      "titulo": "Kit 4 Refletores LED 400W Blackone Bivolt IP67 Branco Frio 6500K Externo",
+      "categoria": "casa",
+      "preco": 69.0,
+      "preco_antigo": 157.98,
       "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0BRL93TYM",
-      "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
-      "visto_em": "2026-11-12",
+      "foto": "assets/kit-4-refletores-led-400w-blackone-bivolt.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/16GqH8Z",
+      "produto_url": "https://www.mercadolivre.com.br/kit-4-refletores-led-400w-blackone-bivolt-ip67-branco-frio-6500k-externo/p/MLB61669854",
+      "visto_em": "2026-11-13",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
@@ -271,6 +300,22 @@
       "loja": "Amazon",
       "origem": "busca: jogo de lençol casal",
       "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "philips-walita-preta-fritadeira-airfryer-essen",
+      "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
+      "categoria": "cozinha",
+      "preco": 398.99,
+      "preco_antigo": 899.9,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0BRL93TYM",
+      "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
@@ -308,6 +353,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
+      "id": "espelho-decorativo-grande-corpo-inteiro-mo",
+      "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
+      "categoria": "casa",
+      "preco": 309.9,
+      "preco_antigo": 690.8,
+      "desconto": 55,
+      "foto": "assets/espelho-decorativo-grande-corpo-inteiro-mo.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2vQcWpZ",
+      "produto_url": "https://produto.mercadolivre.com.br/MLB-3300609899-espelho-decorativo-grande-corpo-inteiro-moldura-couro-170x70-_JM",
+      "visto_em": "2026-11-12",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
       "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
       "categoria": "cozinha",
@@ -338,21 +398,6 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
-      "id": "espelho-decorativo-grande-corpo-inteiro-mo",
-      "titulo": "Espelho Decorativo Grande Corpo Inteiro Moldura Couro 170x70",
-      "categoria": "casa",
-      "preco": 309.9,
-      "preco_antigo": 690.8,
-      "desconto": 55,
-      "foto": "assets/espelho-decorativo-grande-corpo-inteiro-mo.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2vQcWpZ",
-      "produto_url": "https://produto.mercadolivre.com.br/MLB-3300609899-espelho-decorativo-grande-corpo-inteiro-moldura-couro-170x70-_JM",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "fone-de-ouvido-sem-fio-jbl-bluetooth-wave-buds",
@@ -467,6 +512,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "kit-2-cameras-seguranca-ip-interna-externa",
+      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+      "categoria": "casa",
+      "preco": 176.69,
+      "preco_antigo": 349.0,
+      "desconto": 49,
+      "foto": "assets/kit-2-cameras-seguranca-ip-interna-externa.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1U21V7k",
+      "produto_url": "https://www.mercadolivre.com.br/kit-2-cameras-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "motosserra-eletrica-brushless-16-polegadas",
       "titulo": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
       "categoria": "ferramentas",
@@ -478,7 +538,7 @@
       "link": "https://meli.la/2ntFC5a",
       "produto_url": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
       "visto_em": "2026-11-12",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
@@ -559,6 +619,21 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "colchao-casal-d33-ortopedico-de-espuma-dup",
+      "titulo": "Colchão Casal D33 Ortopédico de Espuma Dupla face a Vácuo 138x188cm BF Colchões",
+      "categoria": "casa",
+      "preco": 979.0,
+      "preco_antigo": 1792.0,
+      "desconto": 45,
+      "foto": "assets/colchao-casal-d33-ortopedico-de-espuma-dup.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2GmaMK1",
+      "produto_url": "https://www.mercadolivre.com.br/colchao-casal-d33-ortopedico-de-espuma-dupla-face-a-vacuo-138x188cm-bf-colchoes/p/MLB26782488",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "kit-com-2-cameras-de-seguranca-ip-wifi-a8",
