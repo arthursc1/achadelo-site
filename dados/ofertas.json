@@ -21,21 +21,6 @@
   ],
   "ofertas": [
     {
-      "id": "pulverizador-eletrico-snow-foam-profission",
-      "titulo": "Pulverizador Elétrico Snow Foam Profissional p/ Limpeza Automotiva e Casa",
-      "categoria": "casa",
-      "preco": 52.5,
-      "preco_antigo": 199.98,
-      "desconto": 73,
-      "foto": "assets/pulverizador-eletrico-snow-foam-profission.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2Y4aVU4",
-      "produto_url": "https://www.mercadolivre.com.br/pulverizador-eletrico-snow-foam-profissional-p-limpeza-automotiva-e-casa/p/MLB78627716",
-      "visto_em": "2026-11-13",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
       "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
       "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
       "categoria": "ferramentas",
@@ -130,6 +115,21 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "pulverizador-eletrico-snow-foam-profission",
+      "titulo": "Pulverizador Elétrico Snow Foam Profissional p/ Limpeza Automotiva e Casa",
+      "categoria": "casa",
+      "preco": 70.0,
+      "preco_antigo": 199.98,
+      "desconto": 65,
+      "foto": "assets/pulverizador-eletrico-snow-foam-profission.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2Y4aVU4",
+      "produto_url": "https://www.mercadolivre.com.br/pulverizador-eletrico-snow-foam-profissional-p-limpeza-automotiva-e-casa/p/MLB78627716",
+      "visto_em": "2026-11-13",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "colchao-casal-luuna-original-espuma-24cm-c",
