@@ -53,6 +53,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
+      "id": "fritadeira-oven-fryer-12l-oster-3-em-1-127v",
+      "titulo": "Fritadeira Oven Fryer 12L Oster 3 em 1-127V",
+      "categoria": "cozinha",
+      "preco": 498.99,
+      "preco_antigo": 1549.0,
+      "desconto": 68,
+      "produto_url": "https://www.amazon.com.br/dp/B0B726S9S3",
+      "link": "https://www.amazon.com.br/dp/B0B726S9S3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/fritadeira-oven-fryer-12l-oster-3-em-1-127v.jpg",
+      "visto_em": "2026-11-13",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
+    },
+    {
       "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
       "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
       "categoria": "ferramentas",
