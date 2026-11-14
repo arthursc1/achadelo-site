@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-13",
+  "atualizado": "2026-11-14",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
