@@ -215,14 +215,14 @@
       "categoria": "casa",
       "preco": 70.0,
       "preco_antigo": 199.98,
-      "desconto": 65,
+      "desconto": 64,
       "foto": "assets/pulverizador-eletrico-snow-foam-profission.jpg",
       "loja": "Mercado Livre",
       "link": "https://meli.la/2Y4aVU4",
       "produto_url": "https://www.mercadolivre.com.br/pulverizador-eletrico-snow-foam-profissional-p-limpeza-automotiva-e-casa/p/MLB78627716",
-      "visto_em": "2026-11-13",
+      "visto_em": "2026-11-14",
       "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 14/11/2026."
     },
     {
       "id": "mini-localizador-rastreador-smart-tag-gps",
@@ -428,6 +428,21 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 14/11/2026."
     },
     {
+      "id": "conj-de-panelas-8-pecas-ceramic-life-smart",
+      "titulo": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
+      "categoria": "cozinha",
+      "preco": 479.99,
+      "preco_antigo": 1099.0,
+      "desconto": 56,
+      "foto": "assets/conj-de-panelas-8-pecas-ceramic-life-smart.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/28uzKSo",
+      "produto_url": "https://www.mercadolivre.com.br/conj-de-panelas-8-pecas-ceramic-life-smart-plus-vanilla-brinox/p/MLB32717965",
+      "visto_em": "2026-11-14",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 14/11/2026."
+    },
+    {
       "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
       "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Branco)",
       "categoria": "casa",
@@ -533,22 +548,6 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/britania-fritadeira-air-fryer-bfr37-revestimen.jpg",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
-      "id": "brinox-jogo-de-panelas-antiaderente-ceramic-li",
-      "titulo": "Brinox - Jogo de Panelas Antiaderente Ceramic Life Smart Plus 6 Peças - Vanilla",
-      "categoria": "cozinha",
-      "preco": 312.54,
-      "preco_antigo": 699.9,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
-      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/brinox-jogo-de-panelas-antiaderente-ceramic-li.jpg",
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
