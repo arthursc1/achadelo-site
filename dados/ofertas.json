@@ -116,6 +116,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
+      "categoria": "ferramentas",
+      "preco": 177.0,
+      "preco_antigo": 543.78,
+      "desconto": 67,
+      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
+      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-15",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
+    },
+    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-ros",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
       "categoria": "eletronicos",
@@ -521,22 +537,6 @@
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto à Bateria 12V Lítio 3/8",
-      "categoria": "ferramentas",
-      "preco": 233.22,
-      "preco_antigo": 504.18,
-      "desconto": 54,
-      "produto_url": "https://www.amazon.com.br/dp/B07G2MJJYQ",
-      "link": "https://www.amazon.com.br/dp/B07G2MJJYQ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-15",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
     },
     {
       "id": "panela-de-pressao-brinox-pressure-4-2l-20",
