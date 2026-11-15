@@ -477,6 +477,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
     },
     {
+      "id": "philips-walita-fritadeira-airfryer-forno-serie",
+      "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
+      "categoria": "cozinha",
+      "preco": 449.1,
+      "preco_antigo": 999.9,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0DD1M9WJT",
+      "link": "https://www.amazon.com.br/dp/B0DD1M9WJT?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philips-walita-fritadeira-airfryer-forno-serie.jpg",
+      "visto_em": "2026-11-15",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
+    },
+    {
       "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
       "titulo": "Jogo de Panelas Ceramic Life Smart Plus 6 Peças Vanilla Brinox",
       "categoria": "cozinha",
@@ -539,19 +555,20 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
-      "id": "panela-de-pressao-brinox-pressure-4-2l-20",
-      "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
-      "categoria": "cozinha",
-      "preco": 219.9,
-      "preco_antigo": 477.69,
-      "desconto": 54,
-      "foto": "assets/panela-de-pressao-brinox-pressure-4-2l-20.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2f6E9dH",
-      "produto_url": "https://www.mercadolivre.com.br/panela-de-pressao-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
+      "id": "wap-parafusadeira-e-furadeira-com-impacto-a-ba",
+      "titulo": "WAP Parafusadeira e Furadeira com Impacto à Bateria 3/8\" 21V K21-ID01, com Maleta Organizadora, Torque 21 Níveis, Bivolt",
+      "categoria": "ferramentas",
+      "preco": 212.46,
+      "preco_antigo": 449.9,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B0CLF2RGNL",
+      "link": "https://www.amazon.com.br/dp/B0CLF2RGNL?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/wap-parafusadeira-e-furadeira-com-impacto-a-ba.jpg",
       "visto_em": "2026-11-15",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 15/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
     },
     {
       "id": "kit-4-refletores-led-400w-blackone-bivolt",
@@ -740,22 +757,6 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p",
-      "titulo": "MTX Jogo de Chave Allen Longa 1,5–10 mm com 9 Peças – Aço Cromo-Vanádio e Acabamento Fosfatizado",
-      "categoria": "ferramentas",
-      "preco": 13.89,
-      "preco_antigo": 19.81,
-      "desconto": 30,
-      "produto_url": "https://www.amazon.com.br/dp/B07791B3XM",
-      "link": "https://www.amazon.com.br/dp/B07791B3XM?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "filamento-impressora-3d-creality-ultra-pla-1kg",
