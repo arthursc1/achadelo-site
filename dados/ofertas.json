@@ -281,9 +281,9 @@
       "loja": "Mercado Livre",
       "link": "https://meli.la/1YakrFK",
       "produto_url": "https://produto.mercadolivre.com.br/MLB-4002919471-capa-protetora-colcho-box-casal-padro-matelado-impermeavel-_JM",
-      "visto_em": "2026-11-13",
+      "visto_em": "2026-11-16",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
@@ -382,6 +382,21 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
+      "id": "panela-de-pressao-brinox-pressure-4-2l-20",
+      "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
+      "categoria": "cozinha",
+      "preco": 202.31,
+      "preco_antigo": 477.69,
+      "desconto": 57,
+      "foto": "assets/panela-de-pressao-brinox-pressure-4-2l-20.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2f6E9dH",
+      "produto_url": "https://www.mercadolivre.com.br/panela-de-pressao-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
       "id": "kit-com-5-potes-de-vidro-gato-panda-640-ml-ret",
       "titulo": "Kit com 5 Potes de Vidro Gato Panda, 640 ml, Retangular, com Tampa Hermética, Azul",
       "categoria": "cozinha",
@@ -396,6 +411,21 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+    },
+    {
+      "id": "escorredor-de-loucas-2-andares-zelvi-aco-c",
+      "titulo": "Escorredor de Louças 2 Andares Zelvi Aço Carbono Preto para Pratos Copos Talheres Organizador Pia Cozinha",
+      "categoria": "cozinha",
+      "preco": 99.0,
+      "preco_antigo": 229.9,
+      "desconto": 56,
+      "foto": "assets/escorredor-de-loucas-2-andares-zelvi-aco-c.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1bFS4fh",
+      "produto_url": "https://www.mercadolivre.com.br/escorredor-de-loucas-2-andares-zelvi-aco-carbono-preto-para-pratos-copos-talheres-organizador-pia-cozinha/p/MLB55261164",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "conj-de-panelas-8-pecas-ceramic-life-smart",
@@ -491,37 +521,6 @@
       "visto_em": "2026-11-15",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
-    },
-    {
-      "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
-      "titulo": "Jogo de Panelas Ceramic Life Smart Plus 6 Peças Vanilla Brinox",
-      "categoria": "cozinha",
-      "preco": 312.54,
-      "preco_antigo": 699.9,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
-      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-ceramic-life-smart-plus-6-peca.jpg",
-      "visto_em": "2026-11-14",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 14/11/2026."
-    },
-    {
-      "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
-      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
-      "categoria": "cozinha",
-      "preco": 88.56,
-      "preco_antigo": 198.87,
-      "desconto": 55,
-      "foto": "assets/kit-10-pote-de-vidro-marmita-hermetico-640.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1gae3uN",
-      "produto_url": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-640ml-freezer-fitness-vitrex/p/MLB65269789",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
       "id": "espelho-decorativo-grande-corpo-inteiro-mo",
