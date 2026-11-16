@@ -21,38 +21,6 @@
   ],
   "ofertas": [
     {
-      "id": "smartwatch-feminino-redondo-amoled-1-39-ip68-a",
-      "titulo": "Smartwatch feminino Redondo AMOLED 1.39\" IP68 à Prova d‘Água Relógio",
-      "categoria": "eletronicos",
-      "preco": 34.53,
-      "preco_antigo": 369.99,
-      "desconto": 91,
-      "produto_url": "https://www.amazon.com.br/dp/B0HP21TXBY",
-      "link": "https://www.amazon.com.br/dp/B0HP21TXBY?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-feminino-redondo-amoled-1-39-ip68-a.jpg",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
-      "id": "parafusadeira-e-furadeira-de-impacto-48v-sem-f",
-      "titulo": "Parafusadeira E Furadeira De Impacto 48V Sem Fio, Mandril 10mm, Torque 32Nm, 2 Baterias Recarregáveis, Velocidade Variáv",
-      "categoria": "ferramentas",
-      "preco": 9.79,
-      "preco_antigo": 104.9,
-      "desconto": 91,
-      "produto_url": "https://www.amazon.com.br/dp/B0HMDNBWFP",
-      "link": "https://www.amazon.com.br/dp/B0HMDNBWFP?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/parafusadeira-e-furadeira-de-impacto-48v-sem-f.jpg",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
       "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
       "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
       "categoria": "ferramentas",
@@ -801,6 +769,38 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
+    },
+    {
+      "id": "smartwatch-feminino-redondo-amoled-1-39-ip68-a",
+      "titulo": "Smartwatch feminino Redondo AMOLED 1.39\" IP68 à Prova d‘Água Relógio",
+      "categoria": "eletronicos",
+      "preco": 329.99,
+      "preco_antigo": 369.99,
+      "desconto": 11,
+      "produto_url": "https://www.amazon.com.br/dp/B0HP21TXBY",
+      "link": "https://www.amazon.com.br/dp/B0HP21TXBY?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-feminino-redondo-amoled-1-39-ip68-a.jpg",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "parafusadeira-e-furadeira-de-impacto-48v-sem-f",
+      "titulo": "Parafusadeira E Furadeira De Impacto 48V Sem Fio, Mandril 10mm, Torque 32Nm, 2 Baterias Recarregáveis, Velocidade Variáv",
+      "categoria": "ferramentas",
+      "preco": 106.9,
+      "preco_antigo": null,
+      "desconto": 0,
+      "produto_url": "https://www.amazon.com.br/dp/B0HMDNBWFP",
+      "link": "https://www.amazon.com.br/dp/B0HMDNBWFP?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/parafusadeira-e-furadeira-de-impacto-48v-sem-f.jpg",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     }
   ]
 }
