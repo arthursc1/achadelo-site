@@ -21,6 +21,22 @@
   ],
   "ofertas": [
     {
+      "id": "relogio-redmi-watch-5-active",
+      "titulo": "RELÓGIO REDMI WATCH 5 ACTIVE",
+      "categoria": "eletronicos",
+      "preco": 23.23,
+      "preco_antigo": 248.9,
+      "desconto": 91,
+      "produto_url": "https://www.amazon.com.br/dp/B0DFZPR9Z4",
+      "link": "https://www.amazon.com.br/dp/B0DFZPR9Z4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/relogio-redmi-watch-5-active.jpg",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
       "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
       "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
       "categoria": "ferramentas",
@@ -536,6 +552,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
+      "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
+      "titulo": "Fone Bluetooth Redmi Buds 6 Play Xiaomi, Preto (XM812PRE)",
+      "categoria": "eletronicos",
+      "preco": 78.3,
+      "preco_antigo": 159.99,
+      "desconto": 51,
+      "produto_url": "https://www.amazon.com.br/dp/B0DXS78MFF",
+      "link": "https://www.amazon.com.br/dp/B0DXS78MFF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-bluetooth-redmi-buds-6-play-xiaomi-preto-.jpg",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
       "id": "jogo-de-ferramentas-com-163-pecas-vonder",
       "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
       "categoria": "ferramentas",
@@ -563,22 +595,6 @@
       "loja": "Amazon",
       "origem": "busca: kit de chaves e ferramentas",
       "foto": "assets/kit-46-chave-catraca-jogo-de-soquetes-allen-to.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
-      "titulo": "Fone Bluetooth Redmi Buds 6 Play Xiaomi, Preto (XM812PRE)",
-      "categoria": "eletronicos",
-      "preco": 78.3,
-      "preco_antigo": 159.99,
-      "desconto": 51,
-      "produto_url": "https://www.amazon.com.br/dp/B0DXS78MFF",
-      "link": "https://www.amazon.com.br/dp/B0DXS78MFF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/fone-bluetooth-redmi-buds-6-play-xiaomi-preto-.jpg",
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
@@ -632,21 +648,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
-      "id": "kit-21-potes-plasticos-com-tampa-tamanhos",
-      "titulo": "Kit 21 Potes Plásticos Com Tampa Tamanhos Variados Livre Bpa",
-      "categoria": "cozinha",
-      "preco": 34.99,
-      "preco_antigo": 65.0,
-      "desconto": 46,
-      "foto": "assets/kit-21-potes-plasticos-com-tampa-tamanhos.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1fG8wHD",
-      "produto_url": "https://produto.mercadolivre.com.br/MLB-6259133924-kit-21-potes-plasticos-com-tampa-tamanhos-variados-livre-bpa-_JM",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
       "id": "camera-de-seguranca-ip-wifi-a8-full-hd-ics",
       "titulo": "Câmera De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular Android E ",
       "categoria": "eletronicos",
@@ -657,6 +658,21 @@
       "loja": "Mercado Livre",
       "link": "https://meli.la/1C1tQg9",
       "produto_url": "https://www.mercadolivre.com.br/camera-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327437",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "kit-21-potes-plasticos-com-tampa-tamanhos",
+      "titulo": "Kit 21 Potes Plásticos Com Tampa Tamanhos Variados Livre Bpa",
+      "categoria": "cozinha",
+      "preco": 34.99,
+      "preco_antigo": 65.0,
+      "desconto": 46,
+      "foto": "assets/kit-21-potes-plasticos-com-tampa-tamanhos.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1fG8wHD",
+      "produto_url": "https://produto.mercadolivre.com.br/MLB-6259133924-kit-21-potes-plasticos-com-tampa-tamanhos-variados-livre-bpa-_JM",
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
@@ -749,22 +765,6 @@
       "loja": "Amazon",
       "link": "https://www.amazon.com.br/dp/B08MQQD45L?th=1&tag=achadelo-20",
       "produto_url": "https://www.amazon.com.br/dp/B08MQQD45L",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
-      "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
-      "categoria": "cozinha",
-      "preco": 463.0,
-      "preco_antigo": 634.03,
-      "desconto": 27,
-      "produto_url": "https://www.amazon.com.br/dp/B0D8MSBKNR",
-      "link": "https://www.amazon.com.br/dp/B0D8MSBKNR?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/mimo-style-conjunto-de-panelas-10-pecas-pratic.jpg",
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
