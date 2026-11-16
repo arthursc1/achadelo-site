@@ -21,6 +21,21 @@
   ],
   "ofertas": [
     {
+      "id": "arvore-de-natal-verde-de-2-10m-com-1000-ga",
+      "titulo": "Árvore de Natal Verde de 2,10m Com 1000 Galhos Para Decoração De Canto Escritório Sala Galhos Volumosos Resistente",
+      "categoria": "casa",
+      "preco": 260.91,
+      "preco_antigo": 678.9,
+      "desconto": 75,
+      "foto": "assets/arvore-de-natal-verde-de-2-10m-com-1000-ga.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1WABJfR",
+      "produto_url": "https://www.mercadolivre.com.br/arvore-de-natal-verde-de-210m-com-1000-galhos-para-decoracao-de-canto-escritorio-sala-galhos-volumosos-resistente/p/MLB80564872",
+      "visto_em": "2026-11-16",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
       "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
       "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
       "categoria": "ferramentas",
@@ -222,21 +237,6 @@
       "visto_em": "2026-11-12",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
-    },
-    {
-      "id": "arvore-de-natal-verde-de-2-10m-com-1000-ga",
-      "titulo": "Árvore de Natal Verde de 2,10m Com 1000 Galhos Para Decoração De Canto Escritório Sala Galhos Volumosos Resistente",
-      "categoria": "casa",
-      "preco": 260.91,
-      "preco_antigo": 678.9,
-      "desconto": 62,
-      "foto": "assets/arvore-de-natal-verde-de-2-10m-com-1000-ga.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1WABJfR",
-      "produto_url": "https://www.mercadolivre.com.br/arvore-de-natal-verde-de-210m-com-1000-galhos-para-decoracao-de-canto-escritorio-sala-galhos-volumosos-resistente/p/MLB80564872",
-      "visto_em": "2026-11-16",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "refletor-led-200w-holofote-bivolt-prova-d",
