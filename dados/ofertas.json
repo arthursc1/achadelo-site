@@ -585,22 +585,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
-      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
-      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
-      "categoria": "eletronicos",
-      "preco": 184.24,
-      "preco_antigo": 369.0,
-      "desconto": 50,
-      "produto_url": "https://www.amazon.com.br/dp/B0CRTR3PMF",
-      "link": "https://www.amazon.com.br/dp/B0CRTR3PMF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
-    },
-    {
       "id": "mtx-jogo-de-chaves-torx-hexagonais-longas-com-",
       "titulo": "MTX Jogo de Chaves Torx Hexagonais Longas com Acabamento Acetinado, Kit de Chaves Torx de Alta Precisão",
       "categoria": "ferramentas",
@@ -612,6 +596,22 @@
       "loja": "Amazon",
       "origem": "busca: kit de chaves e ferramentas",
       "foto": "assets/mtx-jogo-de-chaves-torx-hexagonais-longas-com-.jpg",
+      "visto_em": "2026-11-10",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
+    },
+    {
+      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
+      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
+      "categoria": "eletronicos",
+      "preco": 184.24,
+      "preco_antigo": 369.0,
+      "desconto": 50,
+      "produto_url": "https://www.amazon.com.br/dp/B0CRTR3PMF",
+      "link": "https://www.amazon.com.br/dp/B0CRTR3PMF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
       "visto_em": "2026-11-10",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
@@ -782,22 +782,6 @@
       "loja": "Amazon",
       "origem": "busca: smartwatch",
       "foto": "assets/smartwatch-feminino-redondo-amoled-1-39-ip68-a.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "parafusadeira-e-furadeira-de-impacto-48v-sem-f",
-      "titulo": "Parafusadeira E Furadeira De Impacto 48V Sem Fio, Mandril 10mm, Torque 32Nm, 2 Baterias Recarregáveis, Velocidade Variáv",
-      "categoria": "ferramentas",
-      "preco": 106.9,
-      "preco_antigo": null,
-      "desconto": 0,
-      "produto_url": "https://www.amazon.com.br/dp/B0HMDNBWFP",
-      "link": "https://www.amazon.com.br/dp/B0HMDNBWFP?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/parafusadeira-e-furadeira-de-impacto-48v-sem-f.jpg",
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
