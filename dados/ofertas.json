@@ -299,6 +299,21 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
+      "id": "jr-gold-kit-mesa-plastico-quadrada-preta-c",
+      "titulo": "JR GOLD Kit Mesa Plástico Quadrada Preta com 4 Cadeiras Bistrô 70cm",
+      "categoria": "casa",
+      "preco": 285.9,
+      "preco_antigo": 750.0,
+      "desconto": 61,
+      "foto": "assets/jr-gold-kit-mesa-plastico-quadrada-preta-c.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/21GeecB",
+      "produto_url": "https://www.mercadolivre.com.br/jr-gold-kit-mesa-plastico-quadrada-preta-com-4-cadeiras-bistro-70cm/p/MLB28812908",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
       "id": "capa-protetora-colchao-box-casal-padrao-ma",
       "titulo": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável",
       "categoria": "casa",
@@ -424,22 +439,6 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
-      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
-      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Branco)",
-      "categoria": "casa",
-      "preco": 56.71,
-      "preco_antigo": 129.0,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0C1LG111K",
-      "link": "https://www.amazon.com.br/dp/B0C1LG111K?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
-      "visto_em": "2026-11-17",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
       "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
