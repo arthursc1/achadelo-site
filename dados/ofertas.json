@@ -285,6 +285,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
+      "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
+      "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
+      "categoria": "cozinha",
+      "preco": 249.0,
+      "preco_antigo": 634.03,
+      "desconto": 61,
+      "produto_url": "https://www.amazon.com.br/dp/B0D8MSBKNR",
+      "link": "https://www.amazon.com.br/dp/B0D8MSBKNR?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/mimo-style-conjunto-de-panelas-10-pecas-pratic.jpg",
+      "visto_em": "2026-11-16",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
       "id": "fone-de-ouvido-sem-fio-jbl-bluetooth-wave-buds",
       "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
       "categoria": "eletronicos",
