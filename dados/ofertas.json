@@ -440,6 +440,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
+      "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
+      "categoria": "cozinha",
+      "preco": 179.91,
+      "preco_antigo": 405.82,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0CQKKRWMQ",
+      "link": "https://www.amazon.com.br/dp/B0CQKKRWMQ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/britania-fritadeira-air-fryer-bfr37-revestimen.jpg",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
       "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
       "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
       "categoria": "ferramentas",
@@ -517,21 +533,6 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
-      "id": "kit-10-pote-de-vidro-marmita-hermetico-640",
-      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
-      "categoria": "cozinha",
-      "preco": 88.56,
-      "preco_antigo": 198.87,
-      "desconto": 55,
-      "foto": "assets/kit-10-pote-de-vidro-marmita-hermetico-640.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1gae3uN",
-      "produto_url": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-640ml-freezer-fitness-vitrex/p/MLB65269789",
-      "visto_em": "2026-11-17",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
