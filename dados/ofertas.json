@@ -36,6 +36,21 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "cascata-natal-luz-fixa-400-leds-10-metros",
+      "titulo": "Cascata Natal Luz Fixa 400 Leds 10 Metros 110v Branco Frio Extensível Macho Fêmea A Prova D'agua área interna e externa LARUNO",
+      "categoria": "casa",
+      "preco": 64.9,
+      "preco_antigo": 249.9,
+      "desconto": 74,
+      "foto": "assets/cascata-natal-luz-fixa-400-leds-10-metros.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/17VRtqZ",
+      "produto_url": "https://www.mercadolivre.com.br/cascata-natal-luz-fixa-400-leds-10-metros-110v-branco-frio-extensivel-macho-femea-a-prova-dagua-area-interna-e-externa-laruno/p/MLB78800550",
+      "visto_em": "2026-11-17",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
       "id": "camera-de-seguranca-wi-fi-icsee-yoosee-a28",
       "titulo": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
       "categoria": "casa",
@@ -125,7 +140,7 @@
       "link": "https://meli.la/1WABJfR",
       "produto_url": "https://www.mercadolivre.com.br/arvore-de-natal-verde-de-210m-com-1000-galhos-para-decoracao-de-canto-escritorio-sala-galhos-volumosos-resistente/p/MLB80564872",
       "visto_em": "2026-11-17",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
@@ -377,22 +392,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
-      "categoria": "casa",
-      "preco": 34.18,
-      "preco_antigo": 82.62,
-      "desconto": 59,
-      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
-      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
       "id": "vonder-parafusadeira-furadeira-a-bateria-pfv-1",
       "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 120, 12V, Bivolt, 650 RPM, Amarelo, com Maleta e Acessórios",
       "categoria": "ferramentas",
@@ -518,6 +517,21 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "jogo-de-panelas-inducao-antiaderente-ceram",
+      "titulo": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Baunilha",
+      "categoria": "cozinha",
+      "preco": 320.05,
+      "preco_antigo": 683.96,
+      "desconto": 53,
+      "foto": "assets/jogo-de-panelas-inducao-antiaderente-ceram.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/1w6qMws",
+      "produto_url": "https://www.mercadolivre.com.br/jogo-de-panelas-inducao-antiaderente-ceramica-10-pecas-ppg-pfoa-free-baunilha/p/MLB62276296",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
@@ -752,21 +766,6 @@
       "visto_em": "2026-11-11",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
-      "id": "kit-21-potes-plasticos-com-tampa-tamanhos",
-      "titulo": "Kit 21 Potes Plásticos Com Tampa Tamanhos Variados Livre Bpa",
-      "categoria": "cozinha",
-      "preco": 65.0,
-      "preco_antigo": 78.9,
-      "desconto": 18,
-      "foto": "assets/kit-21-potes-plasticos-com-tampa-tamanhos.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1fG8wHD",
-      "produto_url": "https://produto.mercadolivre.com.br/MLB-6259133924-kit-21-potes-plasticos-com-tampa-tamanhos-variados-livre-bpa-_JM",
-      "visto_em": "2026-11-17",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
       "id": "smartwatch-feminino-redondo-amoled-1-39-ip68-a",
