@@ -396,6 +396,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
+      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Branco)",
+      "categoria": "casa",
+      "preco": 56.71,
+      "preco_antigo": 129.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C1LG111K",
+      "link": "https://www.amazon.com.br/dp/B0C1LG111K?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
       "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
       "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
       "categoria": "ferramentas",
@@ -425,22 +441,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
-      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
-      "categoria": "casa",
-      "preco": 56.71,
-      "preco_antigo": 129.0,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
-      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "conj-de-panelas-8-pecas-ceramic-life-smart",
