@@ -81,6 +81,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "kit-10-potes-de-vidro-retangular-com-tampa-her",
+      "titulo": "KIT 10 Potes de Vidro Retangular com Tampa Hermética 640ml Cor:Vermelho (QH)",
+      "categoria": "cozinha",
+      "preco": 96.68,
+      "preco_antigo": 332.0,
+      "desconto": 71,
+      "produto_url": "https://www.amazon.com.br/dp/B08J5L3458",
+      "link": "https://www.amazon.com.br/dp/B08J5L3458?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit potes de vidro",
+      "foto": "assets/kit-10-potes-de-vidro-retangular-com-tampa-her.jpg",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
       "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
       "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
       "categoria": "ferramentas",
@@ -142,22 +158,6 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
-      "categoria": "ferramentas",
-      "preco": 177.0,
-      "preco_antigo": 543.78,
-      "desconto": 67,
-      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
-      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-15",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
     },
     {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-ros",
@@ -440,6 +440,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
+      "categoria": "ferramentas",
+      "preco": 142.5,
+      "preco_antigo": 325.06,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
+      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
       "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
       "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
       "categoria": "ferramentas",
@@ -516,22 +532,6 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
-      "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
-      "titulo": "Jogo de Panelas Ceramic Life Smart Plus 6 Peças Vanilla Brinox",
-      "categoria": "cozinha",
-      "preco": 312.54,
-      "preco_antigo": 699.9,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
-      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-ceramic-life-smart-plus-6-peca.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
