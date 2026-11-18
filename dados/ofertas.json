@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-17",
+  "atualizado": "2026-11-18",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -520,19 +520,19 @@
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
       "categoria": "cozinha",
-      "preco": 178.59,
+      "preco": 180.47,
       "preco_antigo": 399.99,
       "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-17",
+      "visto_em": "2026-11-18",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
@@ -565,6 +565,22 @@
       "visto_em": "2026-11-15",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 15/11/2026."
+    },
+    {
+      "id": "sparta-maleta-de-ferramentas-kit-com-129-pecas",
+      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+      "categoria": "ferramentas",
+      "preco": 67.16,
+      "preco_antigo": 140.45,
+      "desconto": 52,
+      "produto_url": "https://www.amazon.com.br/dp/B076N2S8FV",
+      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/sparta-maleta-de-ferramentas-kit-com-129-pecas.jpg",
+      "visto_em": "2026-11-18",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
       "id": "jogo-de-ferramentas-com-163-pecas-vonder",
@@ -660,22 +676,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
-      "titulo": "Stels Jogo de Ferramentas 57 Peças 1/4\" - Aço Cromo Vanádio - Catraca 72 Dentes + Acessórios - Caixa Plástica Resistente",
-      "categoria": "ferramentas",
-      "preco": 158.4,
-      "preco_antigo": 292.05,
-      "desconto": 46,
-      "produto_url": "https://www.amazon.com.br/dp/B07V9WV6M2",
-      "link": "https://www.amazon.com.br/dp/B07V9WV6M2?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro.jpg",
-      "visto_em": "2026-11-10",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 10/11/2026."
     },
     {
       "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
