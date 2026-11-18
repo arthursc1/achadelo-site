@@ -345,21 +345,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
     },
     {
-      "id": "jr-gold-kit-mesa-plastico-quadrada-preta-c",
-      "titulo": "JR GOLD Kit Mesa Plástico Quadrada Preta com 4 Cadeiras Bistrô 70cm",
-      "categoria": "casa",
-      "preco": 285.9,
-      "preco_antigo": 750.0,
-      "desconto": 61,
-      "foto": "assets/jr-gold-kit-mesa-plastico-quadrada-preta-c.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/21GeecB",
-      "produto_url": "https://www.mercadolivre.com.br/jr-gold-kit-mesa-plastico-quadrada-preta-com-4-cadeiras-bistro-70cm/p/MLB28812908",
-      "visto_em": "2026-11-17",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
       "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
       "categoria": "cozinha",
@@ -629,6 +614,22 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "stanley-parafusadeira-e-furadeira-13mm-20v-scd",
+      "titulo": "STANLEY Parafusadeira e Furadeira 13mm 20V SCD701D2K 2 Baterias 1 Carregador e Maleta",
+      "categoria": "ferramentas",
+      "preco": 406.0,
+      "preco_antigo": 799.0,
+      "desconto": 49,
+      "produto_url": "https://www.amazon.com.br/dp/B0G1ZYG57R",
+      "link": "https://www.amazon.com.br/dp/B0G1ZYG57R?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/stanley-parafusadeira-e-furadeira-13mm-20v-scd.jpg",
+      "visto_em": "2026-11-18",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
       "id": "kit-46-chave-catraca-jogo-de-soquetes-allen-to",
