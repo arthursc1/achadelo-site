@@ -34,9 +34,16 @@
 <p>Esta página recebe a resposta da TikTok para o app do Achadelo. Ela não guarda nada: o que chega aparece na tela e acaba aqui.</p>
 
 <div class="caixa aviso" id="bloco-print">
-  <div class="rotulo">Faça um print desta tela e mande no chat</div>
-  <p style="margin:0 0 12px">O código abaixo vale poucos minutos e só serve uma vez. Um print basta — não precisa copiar nada.</p>
-  <div class="rotulo" style="margin-top:14px">Código (code)</div>
+  <div class="rotulo">Passo 1 — toque no botão para copiar o código</div>
+  <button id="copiar" type="button"
+          style="display:block;width:100%;padding:16px;margin:4px 0 10px;border:0;border-radius:8px;
+                 background:#ffc24b;color:#12100c;font:700 1.05rem system-ui,sans-serif;cursor:pointer">
+    Copiar código
+  </button>
+  <p id="status-copia" style="margin:0 0 12px;color:#ffc24b;font-weight:600">&nbsp;</p>
+  <div class="rotulo">Passo 2 — cole no chat e envie</div>
+  <p style="margin:0 0 14px">O código vale poucos minutos e serve uma vez só. Se o botão não copiar, mande um print desta tela que eu leio da imagem.</p>
+  <div class="rotulo">Código (code)</div>
   <code id="code">—</code>
   <div class="rotulo" style="margin-top:16px">Confirmação (state)</div>
   <code id="state" style="font-size:1rem">—</code>
@@ -59,6 +66,39 @@
   if (code) {
     document.getElementById("code").textContent = code;
     document.getElementById("state").textContent = state || "(sem state)";
+
+    var botao = document.getElementById("copiar");
+    var status = document.getElementById("status-copia");
+
+    function copiarAntigo(texto) {
+      var area = document.createElement("textarea");
+      area.value = texto;
+      area.setAttribute("readonly", "");
+      area.style.position = "fixed";
+      area.style.top = "-1000px";
+      document.body.appendChild(area);
+      area.select();
+      area.setSelectionRange(0, texto.length);
+      var ok = false;
+      try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    botao.addEventListener("click", function () {
+      var pronto = function () { status.textContent = "✅ copiado — agora cole no chat"; };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(code).then(pronto, function () {
+          status.textContent = copiarAntigo(code)
+            ? "✅ copiado — agora cole no chat"
+            : "não consegui copiar: mande um print desta tela";
+        });
+      } else {
+        status.textContent = copiarAntigo(code)
+          ? "✅ copiado — agora cole no chat"
+          : "não consegui copiar: mande um print desta tela";
+      }
+    });
     return;
   }
 
