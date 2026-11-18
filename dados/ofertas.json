@@ -66,6 +66,21 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
+      "id": "camiseta-tech-light-insider-masculino",
+      "titulo": "Camiseta Tech Light  Insider Masculino",
+      "categoria": "casa",
+      "preco": 53.86,
+      "preco_antigo": 189.0,
+      "desconto": 71,
+      "foto": "assets/camiseta-tech-light-insider-masculino.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/19EmbXh",
+      "produto_url": "https://produto.mercadolivre.com.br/MLB-4232914111-camiseta-tech-light-insider-masculino-_JM",
+      "visto_em": "2026-11-18",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
+    },
+    {
       "id": "kit-10-potes-de-vidro-retangular-com-tampa-her",
       "titulo": "KIT 10 Potes de Vidro Retangular com Tampa Hermética 640ml Cor:Vermelho (QH)",
       "categoria": "cozinha",
@@ -109,7 +124,7 @@
       "link": "https://meli.la/1d62ukR",
       "produto_url": "https://www.mercadolivre.com.br/cascata-natal-com-8-funcoes-colorida-400-leds-10-metros-extensivel-macho-femea-a-prova-dagua-area-interna-e-externa-para-casa-e-apartamento-laruno/p/MLB78894578",
       "visto_em": "2026-11-18",
-      "destaque": true,
+      "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
@@ -315,21 +330,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
-      "id": "refletor-led-200w-holofote-bivolt-prova-d",
-      "titulo": "Refletor Led 200w Holofote Bivolt Prova D'água Cor Branco Frio 6500k",
-      "categoria": "casa",
-      "preco": 30.0,
-      "preco_antigo": 79.98,
-      "desconto": 62,
-      "foto": "assets/refletor-led-200w-holofote-bivolt-prova-d.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1RHWJAf",
-      "produto_url": "https://www.mercadolivre.com.br/refletor-led-200w-holofote-bivolt-prova-dagua-cor-branco-frio-6500k/p/MLB53880377",
-      "visto_em": "2026-11-13",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 13/11/2026."
-    },
-    {
       "id": "panela-de-pressao-brinox-pressure-4-2l-20",
       "titulo": "Panela De Pressão Brinox Pressure 4,2l Ø20 X 14,5 Cm Vanilla Baunilha",
       "categoria": "cozinha",
@@ -375,21 +375,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "tenis-sandrini-aero-spark-corrida-academia",
-      "titulo": "Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve",
-      "categoria": "casa",
-      "preco": 112.85,
-      "preco_antigo": 271.56,
-      "desconto": 58,
-      "foto": "assets/tenis-sandrini-aero-spark-corrida-academia.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2cMii6h",
-      "produto_url": "https://produto.mercadolivre.com.br/MLB-4340888693-tnis-sandrini-aero-spark-corrida-academia-caminhada-leve-_JM",
-      "visto_em": "2026-11-18",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
       "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
@@ -707,6 +692,21 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "lavadora-de-alta-pressao-wap-wl-2610-poten",
+      "titulo": "Lavadora de Alta Pressão Wap WL 2610 Potência de 1500W 60Hz",
+      "categoria": "cozinha",
+      "preco": 455.99,
+      "preco_antigo": 799.0,
+      "desconto": 42,
+      "foto": "assets/lavadora-de-alta-pressao-wap-wl-2610-poten.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/159E4HJ",
+      "produto_url": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-wl-2610-potencia-de-1500w-60hz/p/MLB35789699",
+      "visto_em": "2026-11-18",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
       "id": "filamento-impressora-3d-creality-ultra-pla-1kg",
