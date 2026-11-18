@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#12100c">
+<title>Autorização do TikTok — Achadelo</title>
+<style>
+  :root { --carvao:#12100c; --papel:#f7f3ea; --ambar:#ffc24b; --fumaca:#cfc6b2; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--carvao); color:var(--papel);
+         font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+         padding:7vh 6vw 12vh; }
+  h1 { font-size:1.5rem; line-height:1.2; margin:0 0 6px; }
+  p  { color:var(--fumaca); max-width:60ch; }
+  .caixa { background:#1b1810; border:1px solid #2c2718; border-radius:10px;
+           padding:18px 16px; margin:20px 0; }
+  .rotulo { text-transform:uppercase; letter-spacing:.08em; font-size:.72rem;
+            color:var(--ambar); margin-bottom:8px; }
+  code { display:block; font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+         font-size:clamp(1.05rem,4.6vw,1.6rem); font-weight:600; color:var(--papel);
+         word-break:break-all; letter-spacing:.02em; line-height:1.35; }
+  .aviso { border-color:#4a3a12; background:#1f1a0d; }
+  .aviso strong { color:var(--ambar); }
+  .erro code { color:#ffb4a2; font-size:1rem; font-weight:400; }
+  .sumiu { display:none; }
+  .rodape { color:#8d8574; font-size:.85rem; }
+</style>
+</head>
+<body>
+
+<h1>Autorização do TikTok</h1>
+<p>Esta página recebe a resposta da TikTok para o app do Achadelo. Ela não guarda nada: o que chega aparece na tela e acaba aqui.</p>
+
+<div class="caixa aviso" id="bloco-print">
+  <div class="rotulo">Faça um print desta tela e mande no chat</div>
+  <p style="margin:0 0 12px">O código abaixo vale poucos minutos e só serve uma vez. Um print basta — não precisa copiar nada.</p>
+  <div class="rotulo" style="margin-top:14px">Código (code)</div>
+  <code id="code">—</code>
+  <div class="rotulo" style="margin-top:16px">Confirmação (state)</div>
+  <code id="state" style="font-size:1rem">—</code>
+</div>
+
+<div class="caixa erro sumiu" id="bloco-erro">
+  <div class="rotulo">Sem código na resposta</div>
+  <code id="detalhe" style="font-size:1rem;font-weight:400">—</code>
+</div>
+
+<p class="rodape">Página interna de integração (não indexada, sem anúncio, sem formulário).</p>
+
+<script>
+(function () {
+  var busca = new URLSearchParams(window.location.search);
+  var code = busca.get("code") || "";
+  var state = busca.get("state") || "";
+  var erro = busca.get("error") || busca.get("error_description") || "";
+
+  if (code) {
+    document.getElementById("code").textContent = code;
+    document.getElementById("state").textContent = state || "(sem state)";
+    return;
+  }
+
+  document.getElementById("bloco-print").classList.add("sumiu");
+  document.getElementById("bloco-erro").classList.remove("sumiu");
+  var detalhe = erro
+    ? "error: " + erro
+    : "a resposta não trouxe 'code'";
+  var parametros = window.location.search.replace(/^\?/, "");
+  detalhe += parametros ? "\nparâmetros recebidos: " + parametros : "\nsem parâmetros na URL";
+  document.getElementById("detalhe").textContent = detalhe;
+})();
+</script>
+</body>
+</html>
