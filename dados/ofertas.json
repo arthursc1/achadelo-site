@@ -314,6 +314,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
+      "categoria": "ferramentas",
+      "preco": 205.0,
+      "preco_antigo": 543.78,
+      "desconto": 62,
+      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
+      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-18",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
+    },
+    {
       "id": "refletor-led-200w-holofote-bivolt-prova-d",
       "titulo": "Refletor Led 200w Holofote Bivolt Prova D'água Cor Branco Frio 6500k",
       "categoria": "casa",
@@ -456,22 +472,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
-      "categoria": "ferramentas",
-      "preco": 142.5,
-      "preco_antigo": 325.06,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
-      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-17",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
       "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
       "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
       "categoria": "ferramentas",
@@ -520,13 +520,13 @@
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
       "categoria": "cozinha",
-      "preco": 180.47,
+      "preco": 178.59,
       "preco_antigo": 399.99,
       "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
-      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
+      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
