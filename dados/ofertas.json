@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-18",
+  "atualizado": "2026-11-19",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -314,6 +314,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
+      "categoria": "ferramentas",
+      "preco": 205.0,
+      "preco_antigo": 543.78,
+      "desconto": 62,
+      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
+      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
       "id": "arvore-de-natal-verde-de-2-10m-com-1000-ga",
       "titulo": "Árvore de Natal Verde de 2,10m Com 1000 Galhos Para Decoração De Canto Escritório Sala Galhos Volumosos Resistente",
       "categoria": "casa",
@@ -376,6 +392,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
+      "categoria": "casa",
+      "preco": 34.18,
+      "preco_antigo": 82.62,
+      "desconto": 59,
+      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
+      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
       "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
       "titulo": "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso",
       "categoria": "cozinha",
@@ -406,22 +438,6 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
-      "categoria": "ferramentas",
-      "preco": 142.5,
-      "preco_antigo": 325.06,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
-      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-18",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
       "id": "vonder-parafusadeira-furadeira-a-bateria-pfv-1",
@@ -518,6 +534,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
+      "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
+      "titulo": "Jogo de Panelas Ceramic Life Smart Plus 6 Peças Vanilla Brinox",
+      "categoria": "cozinha",
+      "preco": 312.54,
+      "preco_antigo": 699.9,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
+      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-ceramic-life-smart-plus-6-peca.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
       "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
       "categoria": "cozinha",
@@ -596,22 +628,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
-      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
-      "categoria": "eletronicos",
-      "preco": 122.55,
-      "preco_antigo": 249.0,
-      "desconto": 51,
-      "produto_url": "https://www.amazon.com.br/dp/B0BTYDLTM3",
-      "link": "https://www.amazon.com.br/dp/B0BTYDLTM3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 11/11/2026."
     },
     {
       "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
@@ -739,21 +755,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
-      "id": "filamento-impressora-3d-creality-ultra-pla-1kg",
-      "titulo": "Filamento Impressora 3d Creality Ultra Pla 1kg 1.75mm Cor Cinza 3301010606",
-      "categoria": "insumos-3d",
-      "preco": 87.4,
-      "preco_antigo": 124.9,
-      "desconto": 30,
-      "foto": "assets/filamento-impressora-3d-creality-ultra-pla-1kg.jpg",
-      "loja": "Amazon",
-      "link": "https://www.amazon.com.br/dp/B0FLZY9VTH?tag=achadelo-20",
-      "produto_url": "https://www.amazon.com.br/dp/B0FLZY9VTH",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
-    },
-    {
       "id": "filamento-pla-1-75mm-preto",
       "titulo": "Filamento PLA 1,75mm, Preto",
       "categoria": "insumos-3d",
@@ -782,21 +783,6 @@
       "visto_em": "2026-11-18",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
-    },
-    {
-      "id": "filamento-pla-premium-1kg-lilas-alta-resistenc",
-      "titulo": "Filamento PLA Premium 1Kg, Lilás, Alta Resistência ao Impacto, Temperatura de Impressão 205-230°C",
-      "categoria": "insumos-3d",
-      "preco": 76.93,
-      "preco_antigo": 99.99,
-      "desconto": 23,
-      "foto": "assets/filamento-pla-premium-1kg-lilas-alta-resistenc.jpg",
-      "loja": "Amazon",
-      "link": "https://www.amazon.com.br/dp/B0F9XP8CSQ?tag=achadelo-20",
-      "produto_url": "https://www.amazon.com.br/dp/B0F9XP8CSQ",
-      "visto_em": "2026-11-11",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 11/11/2026."
     }
   ]
 }
