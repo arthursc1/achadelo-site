@@ -551,19 +551,19 @@
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
       "categoria": "cozinha",
-      "preco": 178.59,
+      "preco": 180.47,
       "preco_antigo": 399.99,
       "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-18",
+      "visto_em": "2026-11-19",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
       "id": "wap-parafusadeira-e-furadeira-com-impacto-a-ba",
@@ -692,6 +692,22 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "jogo-de-soquete-kit-com-46-pecas-ferramentas-c",
+      "titulo": "Jogo de Soquete Kit com 46 peças Ferramentas Chave Catraca Conjunto de Soquetes Métricos Sextavadas Chave Allen Torx e B",
+      "categoria": "ferramentas",
+      "preco": 26.9,
+      "preco_antigo": 49.9,
+      "desconto": 46,
+      "produto_url": "https://www.amazon.com.br/dp/B0FKKS1PFG",
+      "link": "https://www.amazon.com.br/dp/B0FKKS1PFG?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: kit de chaves e ferramentas",
+      "foto": "assets/jogo-de-soquete-kit-com-46-pecas-ferramentas-c.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
       "id": "camera-de-seguranca-ip-wifi-a8-full-hd-ics",
