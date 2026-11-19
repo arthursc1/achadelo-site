@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Achadelo — TikTok review: products and scopes</title>
+<link rel="icon" href="assets/achadelo-simbolo-chip.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="estilo.css">
+<style>
+  .caixa { background: var(--apoio); border: 1px solid var(--linha); border-radius: var(--raio); padding: 16px; }
+  pre { white-space: pre-wrap; word-wrap: break-word; font-family: var(--texto); font-size: 16px; line-height: 1.55; margin: 0; }
+  .copiar { position: sticky; top: 0; margin: 0 0 14px; }
+  .dica { font-size: .92rem; color: #c4b9a5; }
+</style>
+</head>
+<body>
+
+<header class="topo">
+  <div class="container">
+    <img src="assets/achadelo-simbolo-chip.svg" alt="">
+    <div>
+      <span class="nome">Achadelo</span> <span class="versao">revisão TikTok</span>
+      <span class="tag">texto para o formulário do app</span>
+    </div>
+    <nav><a href="./">site</a></nav>
+  </div>
+</header>
+
+<main class="container" style="padding-block:22px 40px">
+  <h1 style="font-family:var(--titulo);font-size:clamp(1.4rem,5vw,2rem);line-height:1.15;margin:0 0 8px">
+    “Explain how each product and scope works…”
+  </h1>
+  <p class="dica">É o texto do campo obrigatório do formulário de revisão (Production → Content Posting API).
+  Toque em <strong>copiar</strong> e cole no formulário. Se o botão não funcionar, selecione o texto todo e copie na mão.</p>
+
+  <div class="caixa">
+    <button class="botao copiar" id="copiar" type="button">copiar o texto</button>
+    <pre id="texto">Achadelo is a Brazilian shopping/deals site (https://achadelo.com.br) that publishes its own offers to its own social accounts. The TikTok integration is used exclusively by the site owner's own account, @achadelo — it does not serve other users, and no visitor data is collected or stored by it.
+
+Login Kit — user.info.basic
+Used once, by the owner, to connect the account that will receive the posts. The basic profile returned (username and avatar) is what the internal publishing screen reads back and shows to the owner as "account that will receive this post", so the destination is explicit before anything is sent. No other user's data is requested, used or stored.
+
+Content Posting API (Direct Post) — video.publish
+Used by an internal publishing screen (web page served by our own server, reachable only by the owner) to publish the site's own offer pieces to that same account:
+1. The screen calls /v2/post/publish/creator_info/query/ to read the account's available privacy levels and interaction settings.
+2. The owner explicitly picks a privacy level from that list — nothing is hard-coded and there is no default — and reviews the piece, the title and the description.
+3. The owner taps "Confirm and publish"; the media is sent using PULL_FROM_URL from our own verified domain (https://achadelo.com.br/midia/), in the photo/carousel format, and the result is read back with /v2/post/publish/status/fetch/.
+Nothing is published automatically, on a schedule, or on behalf of any other account: every post requires that explicit confirmation, and the account, the privacy level and the piece are shown on screen before it happens. Every published piece carries the advertising disclosure ("link de afiliado · #publi") rendered inside the artwork itself, in line with Brazilian advertising rules (CONAR).
+
+Data handling: the app stores only the OAuth credential of the account it publishes to, on the owner's own server. It has no end-user accounts, no login for visitors, and does not process personal data of third parties.
+
+This is the first submission of this app, so there are no changes from a previous version to describe.</pre>
+  </div>
+</main>
+
+<footer class="rodape">
+  <div class="container">
+    <p>Página auxiliar do processo de revisão da TikTok — não faz parte do site público (noindex).</p>
+  </div>
+</footer>
+
+<script>
+const botao = document.getElementById('copiar');
+const texto = document.getElementById('texto').textContent;
+botao.addEventListener('click', async () => {
+  try {
+    await navigator.clipboard.writeText(texto);
+    botao.textContent = 'copiado ✓';
+  } catch (e) {
+    const faixa = document.createRange();
+    faixa.selectNodeContents(document.getElementById('texto'));
+    const sel = window.getSelection();
+    sel.removeAllRanges(); sel.addRange(faixa);
+    botao.textContent = 'selecionado — toque em copiar';
+  }
+  setTimeout(() => { botao.textContent = 'copiar o texto'; }, 2500);
+});
+</script>
+</body>
+</html>
