@@ -300,22 +300,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
-      "categoria": "ferramentas",
-      "preco": 205.0,
-      "preco_antigo": 543.78,
-      "desconto": 62,
-      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
-      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-20",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
-    },
-    {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
       "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
       "categoria": "cozinha",
@@ -394,6 +378,22 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
+      "categoria": "ferramentas",
+      "preco": 142.5,
+      "preco_antigo": 325.06,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
+      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-20",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
       "id": "philips-walita-preta-fritadeira-airfryer-essen",
