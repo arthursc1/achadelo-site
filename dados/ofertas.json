@@ -444,22 +444,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
-      "id": "fritadeira-eletrica-sem-oleo-grand-airfryer-5l",
-      "titulo": "Fritadeira Elétrica sem oleo Grand Airfryer 5L mecanica Electrolux EAF50 grafite 1800W 127v (Seminovo)",
-      "categoria": "cozinha",
-      "preco": 285.0,
-      "preco_antigo": 649.0,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0HKK64D62",
-      "link": "https://www.amazon.com.br/dp/B0HKK64D62?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/fritadeira-eletrica-sem-oleo-grand-airfryer-5l.jpg",
-      "visto_em": "2026-11-19",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
-    },
-    {
       "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
       "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
       "categoria": "ferramentas",
@@ -471,6 +455,22 @@
       "loja": "Amazon",
       "origem": "busca: furadeira sem fio",
       "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
+      "id": "fritadeira-eletrica-sem-oleo-grand-airfryer-5l",
+      "titulo": "Fritadeira Elétrica sem oleo Grand Airfryer 5L mecanica Electrolux EAF50 grafite 1800W 127v (Seminovo)",
+      "categoria": "cozinha",
+      "preco": 285.0,
+      "preco_antigo": 649.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0HKK64D62",
+      "link": "https://www.amazon.com.br/dp/B0HKK64D62?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/fritadeira-eletrica-sem-oleo-grand-airfryer-5l.jpg",
       "visto_em": "2026-11-19",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
@@ -491,22 +491,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
-      "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
-      "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
-      "categoria": "cozinha",
-      "preco": 179.91,
-      "preco_antigo": 405.82,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0CQKKRWMQ",
-      "link": "https://www.amazon.com.br/dp/B0CQKKRWMQ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/britania-fritadeira-air-fryer-bfr37-revestimen.jpg",
-      "visto_em": "2026-11-17",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
-    },
-    {
       "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
       "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
       "categoria": "ferramentas",
@@ -521,6 +505,22 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
+      "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
+      "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
+      "categoria": "cozinha",
+      "preco": 179.91,
+      "preco_antigo": 405.82,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0CQKKRWMQ",
+      "link": "https://www.amazon.com.br/dp/B0CQKKRWMQ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/britania-fritadeira-air-fryer-bfr37-revestimen.jpg",
+      "visto_em": "2026-11-17",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
       "id": "conj-de-panelas-8-pecas-ceramic-life-smart",
@@ -650,6 +650,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
+      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
+      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
+      "categoria": "eletronicos",
+      "preco": 186.2,
+      "preco_antigo": 369.0,
+      "desconto": 50,
+      "produto_url": "https://www.amazon.com.br/dp/B0CRTYZG5C",
+      "link": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
+      "visto_em": "2026-11-20",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
+    },
+    {
       "id": "fone-de-ouvido-sem-fio-huawei-freebuds-se-2-pr",
       "titulo": "Fone de Ouvido Sem Fio HUAWEI FreeBuds SE 2, Preto",
       "categoria": "eletronicos",
@@ -664,22 +680,6 @@
       "visto_em": "2026-11-19",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
-    },
-    {
-      "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
-      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
-      "categoria": "eletronicos",
-      "preco": 186.2,
-      "preco_antigo": 369.0,
-      "desconto": 50,
-      "produto_url": "https://www.amazon.com.br/dp/B0CRTR3PMF",
-      "link": "https://www.amazon.com.br/dp/B0CRTR3PMF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/soundcore-p30i-da-anker-anc-fone-de-ouvido-blu.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "stanley-parafusadeira-e-furadeira-13mm-20v-scd",
