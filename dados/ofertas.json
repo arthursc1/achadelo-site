@@ -428,6 +428,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
+      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
+      "categoria": "casa",
+      "preco": 56.71,
+      "preco_antigo": 129.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
+      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
       "id": "fritadeira-eletrica-sem-oleo-grand-airfryer-5l",
       "titulo": "Fritadeira Elétrica sem oleo Grand Airfryer 5L mecanica Electrolux EAF50 grafite 1800W 127v (Seminovo)",
       "categoria": "cozinha",
@@ -682,6 +698,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
+      "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
+      "titulo": "Fone Bluetooth Redmi Buds 6 Play Xiaomi, Preto (XM812PRE)",
+      "categoria": "eletronicos",
+      "preco": 84.55,
+      "preco_antigo": 159.99,
+      "desconto": 47,
+      "produto_url": "https://www.amazon.com.br/dp/B0DXS78MFF",
+      "link": "https://www.amazon.com.br/dp/B0DXS78MFF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-bluetooth-redmi-buds-6-play-xiaomi-preto-.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
       "id": "samsung-galaxy-buds-core-fone-de-ouvido-sem-fi",
       "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
       "categoria": "eletronicos",
@@ -696,22 +728,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "organizador-para-armario-grande-branco",
-      "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
-      "categoria": "casa",
-      "preco": 26.98,
-      "preco_antigo": 49.9,
-      "desconto": 46,
-      "produto_url": "https://www.amazon.com.br/dp/B07F49DR35",
-      "link": "https://www.amazon.com.br/dp/B07F49DR35?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/organizador-para-armario-grande-branco.jpg",
-      "visto_em": "2026-11-19",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
       "id": "jogo-de-soquete-kit-com-46-pecas-ferramentas-c",
@@ -759,22 +775,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag",
-      "titulo": "Fone de Ouvido Bluetooth 5.4, IPX5 à Prova D'Água, 45h de Bateria, Com Microfone Embutido. Design Esportivo Ergonômico I",
-      "categoria": "eletronicos",
-      "preco": 62.6,
-      "preco_antigo": 109.9,
-      "desconto": 43,
-      "produto_url": "https://www.amazon.com.br/dp/B0FDB9Z96L",
-      "link": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag.jpg",
-      "visto_em": "2026-11-19",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
       "id": "filamento-pla-1-75mm-preto",
