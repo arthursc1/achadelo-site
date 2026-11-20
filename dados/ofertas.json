@@ -714,6 +714,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
+      "id": "jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio",
+      "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Preto",
+      "categoria": "eletronicos",
+      "preco": 158.84,
+      "preco_antigo": 299.0,
+      "desconto": 47,
+      "produto_url": "https://www.amazon.com.br/dp/B0GM1LSHQF",
+      "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio.jpg",
+      "visto_em": "2026-11-19",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
       "id": "samsung-galaxy-buds-core-fone-de-ouvido-sem-fi",
       "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
       "categoria": "eletronicos",
@@ -759,22 +775,6 @@
       "visto_em": "2026-11-18",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
-    },
-    {
-      "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
-      "titulo": "Smartwatch, HUAWEI Band 10, Caixa de Polímeros Duráveis, Análise do Sono em Nível Profissional, Assistente de Bem-estar ",
-      "categoria": "eletronicos",
-      "preco": 198.0,
-      "preco_antigo": 359.0,
-      "desconto": 45,
-      "produto_url": "https://www.amazon.com.br/dp/B0DWFQCY3V",
-      "link": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-huawei-band-10-caixa-de-polimeros-d.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "filamento-pla-1-75mm-preto",
