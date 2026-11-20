@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-19",
+  "atualizado": "2026-11-20",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -35,6 +35,22 @@
       "visto_em": "2026-11-19",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
+    },
+    {
+      "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
+      "titulo": "Smartwatch, HUAWEI Band 10, Caixa de Polímeros Duráveis, Análise do Sono em Nível Profissional, Assistente de Bem-estar ",
+      "categoria": "eletronicos",
+      "preco": 184.0,
+      "preco_antigo": 1299.0,
+      "desconto": 86,
+      "produto_url": "https://www.amazon.com.br/dp/B0DWFQCY3V",
+      "link": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-huawei-band-10-caixa-de-polimeros-d.jpg",
+      "visto_em": "2026-11-20",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
@@ -113,22 +129,6 @@
       "visto_em": "2026-11-18",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
-    },
-    {
-      "id": "wap-parafusadeira-e-furadeira-a-bateria-12v-bp",
-      "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
-      "categoria": "ferramentas",
-      "preco": 105.89,
-      "preco_antigo": 359.9,
-      "desconto": 71,
-      "produto_url": "https://www.amazon.com.br/dp/B09V1SM8QB",
-      "link": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/wap-parafusadeira-e-furadeira-a-bateria-12v-bp.jpg",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "cascata-natal-com-8-funcoes-colorida-400-l",
@@ -314,22 +314,6 @@
       "visto_em": "2026-11-19",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
-    },
-    {
-      "id": "jogo-de-cama-casal-percal-400-fios-ponto-palit",
-      "titulo": "Jogo de Cama Casal Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Anti-pilling com Toque Macio - Cinza",
-      "categoria": "casa",
-      "preco": 71.19,
-      "preco_antigo": 194.9,
-      "desconto": 63,
-      "produto_url": "https://www.amazon.com.br/dp/B08JJ8VSNQ",
-      "link": "https://www.amazon.com.br/dp/B08JJ8VSNQ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-de-cama-casal-percal-400-fios-ponto-palit.jpg",
-      "visto_em": "2026-11-12",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
     },
     {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
@@ -538,20 +522,20 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 14/11/2026."
     },
     {
-      "id": "philips-walita-preta-fritadeira-airfryer-essen",
-      "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
       "categoria": "cozinha",
-      "preco": 398.99,
-      "preco_antigo": 899.9,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0BRL93TYM",
-      "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=achadelo-20",
+      "preco": 180.47,
+      "preco_antigo": 399.99,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
       "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
-      "visto_em": "2026-11-12",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-20",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 12/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
       "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
@@ -744,6 +728,22 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+    },
+    {
+      "id": "organizador-para-armario-grande-branco",
+      "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
+      "categoria": "casa",
+      "preco": 26.98,
+      "preco_antigo": 49.9,
+      "desconto": 46,
+      "produto_url": "https://www.amazon.com.br/dp/B07F49DR35",
+      "link": "https://www.amazon.com.br/dp/B07F49DR35?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/organizador-para-armario-grande-branco.jpg",
+      "visto_em": "2026-11-20",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
       "id": "jogo-de-soquete-kit-com-46-pecas-ferramentas-c",
