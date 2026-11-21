@@ -84,6 +84,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 18/11/2026."
     },
     {
+      "id": "wap-parafusadeira-e-furadeira-de-impacto-wf-12",
+      "titulo": "WAP Parafusadeira e Furadeira de Impacto WF 12K4.2 3/8\" 12V",
+      "categoria": "ferramentas",
+      "preco": 134.11,
+      "preco_antigo": 449.9,
+      "desconto": 70,
+      "produto_url": "https://www.amazon.com.br/dp/B0F2JMYPQ9",
+      "link": "https://www.amazon.com.br/dp/B0F2JMYPQ9?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/wap-parafusadeira-e-furadeira-de-impacto-wf-12.jpg",
+      "visto_em": "2026-11-21",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
+    },
+    {
       "id": "camera-de-seguranca-wi-fi-icsee-yoosee-a28",
       "titulo": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
       "categoria": "casa",
@@ -222,22 +238,6 @@
       "visto_em": "2026-11-14",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 14/11/2026."
-    },
-    {
-      "id": "wap-parafusadeira-e-furadeira-de-impacto-k21-i",
-      "titulo": "WAP Parafusadeira e Furadeira de Impacto K21 ID02 21V 45Nm Bivolt",
-      "categoria": "ferramentas",
-      "preco": 160.65,
-      "preco_antigo": 449.9,
-      "desconto": 64,
-      "produto_url": "https://www.amazon.com.br/dp/B0DQLSG6YK",
-      "link": "https://www.amazon.com.br/dp/B0DQLSG6YK?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/wap-parafusadeira-e-furadeira-de-impacto-k21-i.jpg",
-      "visto_em": "2026-11-21",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
       "id": "motosserra-eletrica-brushless-16-polegadas",
@@ -523,13 +523,13 @@
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
       "categoria": "cozinha",
-      "preco": 180.47,
+      "preco": 178.59,
       "preco_antigo": 399.99,
       "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
-      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
+      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
