@@ -37,21 +37,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
-      "id": "camera-de-seguranca-wi-fi-icsee-yoosee-a28",
-      "titulo": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
-      "categoria": "casa",
-      "preco": 101.15,
-      "preco_antigo": 399.0,
-      "desconto": 75,
-      "foto": "assets/camera-de-seguranca-wi-fi-icsee-yoosee-a28.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/2UrsjNw",
-      "produto_url": "https://www.mercadolivre.com.br/camera-de-seguranca-wi-fi-icseeyoosee-a28b-4k-dupla-lente-visao-noturna-colorida-full-hd-externa-prova-dagua-ip66-sensor-movimento-woosh/p/MLB60074213",
-      "visto_em": "2026-11-21",
-      "destaque": true,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
-    },
-    {
       "id": "cascata-natal-luz-fixa-400-leds-10-metros",
       "titulo": "Cascata Natal Luz Fixa 400 Leds 10 Metros 110v Branco Frio Extensível Macho Fêmea A Prova D'agua área interna e externa LARUNO",
       "categoria": "casa",
@@ -81,6 +66,21 @@
       "destaque": true,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026.",
       "preco_cupom": 63.64
+    },
+    {
+      "id": "camera-de-seguranca-wi-fi-icsee-yoosee-a28",
+      "titulo": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
+      "categoria": "casa",
+      "preco": 111.34,
+      "preco_antigo": 399.0,
+      "desconto": 72,
+      "foto": "assets/camera-de-seguranca-wi-fi-icsee-yoosee-a28.jpg",
+      "loja": "Mercado Livre",
+      "link": "https://meli.la/2UrsjNw",
+      "produto_url": "https://www.mercadolivre.com.br/camera-de-seguranca-wi-fi-icseeyoosee-a28b-4k-dupla-lente-visao-noturna-colorida-full-hd-externa-prova-dagua-ip66-sensor-movimento-woosh/p/MLB60074213",
+      "visto_em": "2026-11-21",
+      "destaque": true,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
       "id": "camiseta-tech-light-insider-masculino",
