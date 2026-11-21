@@ -285,6 +285,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
+      "categoria": "ferramentas",
+      "preco": 205.0,
+      "preco_antigo": 543.78,
+      "desconto": 62,
+      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
+      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-21",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
+    },
+    {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
       "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
       "categoria": "cozinha",
@@ -408,22 +424,6 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
-      "visto_em": "2026-11-20",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
-    },
-    {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
-      "categoria": "ferramentas",
-      "preco": 142.5,
-      "preco_antigo": 325.06,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
-      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
       "visto_em": "2026-11-20",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
@@ -592,14 +592,14 @@
       "preco": 122.55,
       "preco_antigo": 249.0,
       "desconto": 51,
-      "produto_url": "https://www.amazon.com.br/dp/B0BTYDLTM3",
-      "link": "https://www.amazon.com.br/dp/B0BTYDLTM3?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0BTYCJXBK",
+      "link": "https://www.amazon.com.br/dp/B0BTYCJXBK?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: fone de ouvido bluetooth",
       "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
-      "visto_em": "2026-11-19",
+      "visto_em": "2026-11-21",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
       "id": "jogo-de-ferramentas-com-163-pecas-vonder",
