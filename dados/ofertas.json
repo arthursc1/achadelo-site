@@ -320,22 +320,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
-      "categoria": "ferramentas",
-      "preco": 205.0,
-      "preco_antigo": 543.78,
-      "desconto": 62,
-      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
-      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-21",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
-    },
-    {
       "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
       "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
       "categoria": "cozinha",
@@ -464,6 +448,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
+      "categoria": "ferramentas",
+      "preco": 142.5,
+      "preco_antigo": 325.06,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
+      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-22",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
+    },
+    {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
       "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
       "categoria": "cozinha",
@@ -475,6 +475,22 @@
       "loja": "Amazon",
       "origem": "busca: air fryer",
       "foto": "assets/britania-fritadeira-air-fryer-bfr37-revestimen.jpg",
+      "visto_em": "2026-11-22",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
+    },
+    {
+      "id": "fritadeira-eletrica-sem-oleo-grand-airfryer-5l",
+      "titulo": "Fritadeira Elétrica sem oleo Grand Airfryer 5L mecanica Electrolux EAF50 grafite 1800W 127v (Seminovo)",
+      "categoria": "cozinha",
+      "preco": 285.0,
+      "preco_antigo": 649.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0HKK64D62",
+      "link": "https://www.amazon.com.br/dp/B0HKK64D62?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/fritadeira-eletrica-sem-oleo-grand-airfryer-5l.jpg",
       "visto_em": "2026-11-22",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
@@ -494,22 +510,6 @@
       "visto_em": "2026-11-21",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
-    },
-    {
-      "id": "philips-walita-preta-fritadeira-airfryer-essen",
-      "titulo": "Philips Walita Preta Fritadeira Airfryer Essential XL Digital, 6.2L de capacidade, Garantia internacional de dois anos, ",
-      "categoria": "cozinha",
-      "preco": 398.99,
-      "preco_antigo": 899.9,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0BRL93TYM",
-      "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-preta-fritadeira-airfryer-essen.jpg",
-      "visto_em": "2026-11-20",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
       "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
