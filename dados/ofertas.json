@@ -21,6 +21,22 @@
   ],
   "ofertas": [
     {
+      "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
+      "titulo": "Smartwatch, HUAWEI Band 10, Caixa de Polímeros Duráveis, Análise do Sono em Nível Profissional, Assistente de Bem-estar ",
+      "categoria": "eletronicos",
+      "preco": 189.0,
+      "preco_antigo": 799.0,
+      "desconto": 76,
+      "produto_url": "https://www.amazon.com.br/dp/B0DWFQCY3V",
+      "link": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-huawei-band-10-caixa-de-polimeros-d.jpg",
+      "visto_em": "2026-11-22",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
+    },
+    {
       "id": "mochila-reforcada-jiesipote-para-viagem-co",
       "titulo": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
       "categoria": "cozinha",
@@ -176,22 +192,6 @@
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 22/11/2026.",
       "preco_cupom": 1941.0
-    },
-    {
-      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-gra",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
-      "categoria": "eletronicos",
-      "preco": 189.05,
-      "preco_antigo": 549.0,
-      "desconto": 66,
-      "produto_url": "https://www.amazon.com.br/dp/B0CVCLGV1W",
-      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-gra.jpg",
-      "visto_em": "2026-11-22",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 22/11/2026."
     },
     {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
@@ -478,6 +478,22 @@
       "visto_em": "2026-11-17",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 17/11/2026."
+    },
+    {
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
+      "categoria": "cozinha",
+      "preco": 180.47,
+      "preco_antigo": 399.99,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-22",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
     },
     {
       "id": "camiseta-tech-light-insider-masculino",
@@ -780,19 +796,20 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
     },
     {
-      "id": "lixeira-automatica-inteligente-16-l-com-se",
-      "titulo": "Lixeira Automatica Inteligente 16 L Com Sensor Touch Cozinha Cor Branco",
+      "id": "organizador-para-armario-medio-elegance-preto",
+      "titulo": "ORGANIZADOR PARA ARMARIO MEDIO ELEGANCE PRETO",
       "categoria": "casa",
-      "preco": 69.9,
-      "preco_antigo": 89.9,
-      "desconto": 22,
-      "foto": "assets/lixeira-automatica-inteligente-16-l-com-se.jpg",
-      "loja": "Mercado Livre",
-      "link": "https://meli.la/1XBDoGP",
-      "produto_url": "https://www.mercadolivre.com.br/lixeira-automatica-inteligente-16-l-com-sensor-touch-cozinha-cor-branco/p/MLB51866698",
+      "preco": 21.6,
+      "preco_antigo": 29.9,
+      "desconto": 28,
+      "produto_url": "https://www.amazon.com.br/dp/B0864ZCTMJ",
+      "link": "https://www.amazon.com.br/dp/B0864ZCTMJ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/organizador-para-armario-medio-elegance-preto.jpg",
       "visto_em": "2026-11-22",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 22/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
     }
   ]
 }
