@@ -177,6 +177,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
+      "id": "jogo-de-panelas-tramontina-linz-em-aluminio-co",
+      "titulo": "Jogo de Panelas Tramontina Linz em Aluminio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 04 Peç",
+      "categoria": "cozinha",
+      "preco": 101.65,
+      "preco_antigo": 320.51,
+      "desconto": 68,
+      "produto_url": "https://www.amazon.com.br/dp/B0DF3R4R73",
+      "link": "https://www.amazon.com.br/dp/B0DF3R4R73?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-tramontina-linz-em-aluminio-co.jpg",
+      "visto_em": "2026-11-21",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
+    },
+    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
       "categoria": "eletronicos",
@@ -521,22 +537,6 @@
       "visto_em": "2026-11-14",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 14/11/2026."
-    },
-    {
-      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
-      "categoria": "cozinha",
-      "preco": 178.59,
-      "preco_antigo": 399.99,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-21",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
       "id": "lixeira-automatica-inteligente-16-l-com-se",
