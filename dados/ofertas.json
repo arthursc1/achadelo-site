@@ -240,22 +240,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
-      "categoria": "ferramentas",
-      "preco": 205.0,
-      "preco_antigo": 543.78,
-      "desconto": 62,
-      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
-      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-23",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
-    },
-    {
       "id": "wap-parafusadeira-e-furadeira-de-impacto-k21-i",
       "titulo": "Parafusadeira e Furadeira de Impacto WAP K21 ID02, 21V, 45 Nm",
       "categoria": "ferramentas",
@@ -399,6 +383,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
+      "categoria": "ferramentas",
+      "preco": 142.5,
+      "preco_antigo": 325.06,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
+      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-23",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
+    },
+    {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
       "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
       "categoria": "cozinha",
@@ -508,6 +508,22 @@
       "visto_em": "2026-11-23",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 23/11/2026."
+    },
+    {
+      "id": "fone-de-ouvido-sem-fio-huawei-freebuds-se-2-pr",
+      "titulo": "Fone de Ouvido Sem Fio HUAWEI FreeBuds SE 2, Preto",
+      "categoria": "eletronicos",
+      "preco": 113.05,
+      "preco_antigo": 239.0,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B0D45QCBF7",
+      "link": "https://www.amazon.com.br/dp/B0D45QCBF7?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-de-ouvido-sem-fio-huawei-freebuds-se-2-pr.jpg",
+      "visto_em": "2026-11-23",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
       "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
