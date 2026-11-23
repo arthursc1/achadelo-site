@@ -242,6 +242,22 @@
       "preco_cupom": 1941.0
     },
     {
+      "id": "philco-fritadeira-air-fryer-12l-pt-pfr2200p-22",
+      "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "categoria": "cozinha",
+      "preco": 408.0,
+      "preco_antigo": 1199.9,
+      "desconto": 66,
+      "produto_url": "https://www.amazon.com.br/dp/B08R91NTHY",
+      "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/philco-fritadeira-air-fryer-12l-pt-pfr2200p-22.jpg",
+      "visto_em": "2026-11-23",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
+    },
+    {
       "id": "smartwatch-samsung-galaxy-fit3-display-1-6-pra",
       "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
       "categoria": "eletronicos",
@@ -366,22 +382,6 @@
       "visto_em": "2026-11-16",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
-    },
-    {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
-      "categoria": "casa",
-      "preco": 34.18,
-      "preco_antigo": 82.62,
-      "desconto": 59,
-      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
-      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-23",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
       "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
@@ -526,22 +526,6 @@
       "visto_em": "2026-11-19",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
-    },
-    {
-      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
-      "categoria": "cozinha",
-      "preco": 180.47,
-      "preco_antigo": 399.99,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
-      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-23",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
       "id": "camiseta-tech-light-insider-masculino",
@@ -764,6 +748,22 @@
       "visto_em": "2026-11-22",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
+    },
+    {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 7 Potes",
+      "categoria": "casa",
+      "preco": 28.01,
+      "preco_antigo": 44.99,
+      "desconto": 38,
+      "produto_url": "https://www.amazon.com.br/dp/B07FTKKBM3",
+      "link": "https://www.amazon.com.br/dp/B07FTKKBM3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-23",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
       "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
