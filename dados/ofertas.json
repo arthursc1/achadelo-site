@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-23",
+  "atualizado": "2026-11-24",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -240,6 +240,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
+      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 238I, 20V, Bivolt, 2 Velocidades, 42 N.m, com Maleta e Acessór",
+      "categoria": "ferramentas",
+      "preco": 205.0,
+      "preco_antigo": 543.78,
+      "desconto": 62,
+      "produto_url": "https://www.amazon.com.br/dp/B0DLXVM1SZ",
+      "link": "https://www.amazon.com.br/dp/B0DLXVM1SZ?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
+      "visto_em": "2026-11-24",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
+    },
+    {
       "id": "wap-parafusadeira-e-furadeira-de-impacto-k21-i",
       "titulo": "Parafusadeira e Furadeira de Impacto WAP K21 ID02, 21V, 45 Nm",
       "categoria": "ferramentas",
@@ -272,20 +288,20 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
-      "id": "fone-de-ouvido-sem-fio-jbl-bluetooth-wave-buds",
-      "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-      "categoria": "eletronicos",
-      "preco": 188.1,
-      "preco_antigo": 466.66,
-      "desconto": 60,
-      "produto_url": "https://www.amazon.com.br/dp/B0DHL63KWK",
-      "link": "https://www.amazon.com.br/dp/B0DHL63KWK?tag=achadelo-20",
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
+      "categoria": "casa",
+      "preco": 34.18,
+      "preco_antigo": 82.62,
+      "desconto": 59,
+      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
+      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
       "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/fone-de-ouvido-sem-fio-jbl-bluetooth-wave-buds.jpg",
-      "visto_em": "2026-11-16",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-24",
       "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
       "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
@@ -383,22 +399,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 17/11/2026."
     },
     {
-      "id": "vonder-parafusadeira-furadeira-com-impacto-a-b",
-      "titulo": "Vonder, Parafusadeira/Furadeira com Impacto a Bateria PFV 120I, 12V, Bivolt, 2 Velocidades, com Maleta e Acessórios",
-      "categoria": "ferramentas",
-      "preco": 142.5,
-      "preco_antigo": 325.06,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B09VJPP4R4",
-      "link": "https://www.amazon.com.br/dp/B09VJPP4R4?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-com-impacto-a-b.jpg",
-      "visto_em": "2026-11-23",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
-    },
-    {
       "id": "britania-fritadeira-air-fryer-bfr37-revestimen",
       "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 220V 4 litros",
       "categoria": "cozinha",
@@ -464,19 +464,19 @@
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Vanilla)",
       "categoria": "cozinha",
-      "preco": 178.59,
+      "preco": 180.47,
       "preco_antigo": 399.99,
       "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0FP8VT6G7",
+      "link": "https://www.amazon.com.br/dp/B0FP8VT6G7?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-23",
+      "visto_em": "2026-11-24",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
       "id": "camiseta-tech-light-insider-masculino",
@@ -572,22 +572,6 @@
       "visto_em": "2026-11-23",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
-    },
-    {
-      "id": "jogo-de-ferramentas-com-163-pecas-vonder",
-      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
-      "categoria": "ferramentas",
-      "preco": 299.99,
-      "preco_antigo": 617.38,
-      "desconto": 51,
-      "produto_url": "https://www.amazon.com.br/dp/B0C9TZPX5J",
-      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/jogo-de-ferramentas-com-163-pecas-vonder.jpg",
-      "visto_em": "2026-11-16",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 16/11/2026."
     },
     {
       "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
@@ -702,6 +686,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
     },
     {
+      "id": "fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag",
+      "titulo": "Fone de Ouvido Bluetooth 5.4, IPX5 à Prova D'Água, 45h de Bateria, Com Microfone Embutido. Design Esportivo Ergonômico I",
+      "categoria": "eletronicos",
+      "preco": 62.6,
+      "preco_antigo": 109.9,
+      "desconto": 43,
+      "produto_url": "https://www.amazon.com.br/dp/B0FDB9Z96L",
+      "link": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/fone-de-ouvido-bluetooth-5-4-ipx5-a-prova-d-ag.jpg",
+      "visto_em": "2026-11-24",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
+    },
+    {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
       "titulo": "Fone Bluetooth Redmi Buds 6 Play Xiaomi, Preto (XM812PRE)",
       "categoria": "eletronicos",
@@ -732,22 +732,6 @@
       "visto_em": "2026-11-22",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
-    },
-    {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 7 Potes",
-      "categoria": "casa",
-      "preco": 28.01,
-      "preco_antigo": 44.99,
-      "desconto": 38,
-      "produto_url": "https://www.amazon.com.br/dp/B07FTKKBM3",
-      "link": "https://www.amazon.com.br/dp/B07FTKKBM3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-23",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
       "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
