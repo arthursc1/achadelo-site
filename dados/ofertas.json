@@ -149,7 +149,7 @@
       "id": "camera-de-seguranca-wi-fi-icsee-yoosee-a28",
       "titulo": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
       "categoria": "casa",
-      "preco": 128.99,
+      "preco": 126.99,
       "preco_antigo": 399.0,
       "desconto": 68,
       "foto": "assets/camera-de-seguranca-wi-fi-icsee-yoosee-a28.jpg",
@@ -463,22 +463,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
-      "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
-      "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
-      "categoria": "cozinha",
-      "preco": 288.0,
-      "preco_antigo": 629.99,
-      "desconto": 54,
-      "produto_url": "https://www.amazon.com.br/dp/B0DKG6MCGF",
-      "link": "https://www.amazon.com.br/dp/B0DKG6MCGF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
-      "visto_em": "2026-11-24",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
-    },
-    {
       "id": "camiseta-tech-light-insider-masculino",
       "titulo": "Camiseta Tech Light  Insider Masculino",
       "categoria": "casa",
@@ -524,22 +508,6 @@
       "visto_em": "2026-11-23",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 23/11/2026."
-    },
-    {
-      "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
-      "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
-      "categoria": "cozinha",
-      "preco": 303.08,
-      "preco_antigo": 634.03,
-      "desconto": 52,
-      "produto_url": "https://www.amazon.com.br/dp/B0D8MSBKNR",
-      "link": "https://www.amazon.com.br/dp/B0D8MSBKNR?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/mimo-style-conjunto-de-panelas-10-pecas-pratic.jpg",
-      "visto_em": "2026-11-24",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
       "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
@@ -670,6 +638,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
+      "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
+      "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
+      "categoria": "cozinha",
+      "preco": 349.0,
+      "preco_antigo": 629.99,
+      "desconto": 45,
+      "produto_url": "https://www.amazon.com.br/dp/B0DKG6MCGF",
+      "link": "https://www.amazon.com.br/dp/B0DKG6MCGF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
+      "visto_em": "2026-11-24",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
+    },
+    {
       "id": "jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio",
       "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Preto",
       "categoria": "eletronicos",
@@ -732,6 +716,22 @@
       "visto_em": "2026-11-22",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
+    },
+    {
+      "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
+      "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
+      "categoria": "cozinha",
+      "preco": 409.56,
+      "preco_antigo": 634.03,
+      "desconto": 35,
+      "produto_url": "https://www.amazon.com.br/dp/B0D8MSBKNR",
+      "link": "https://www.amazon.com.br/dp/B0D8MSBKNR?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/mimo-style-conjunto-de-panelas-10-pecas-pratic.jpg",
+      "visto_em": "2026-11-24",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
       "id": "filamento-pla-1-75mm-preto",
