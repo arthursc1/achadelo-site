@@ -654,6 +654,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 21/11/2026."
     },
     {
+      "id": "smartwatch-huawei-band-10-caixa-de-polimeros-d",
+      "titulo": "Smartwatch, HUAWEI Band 10, Caixa de Polímeros Duráveis, Análise do Sono em Nível Profissional, Assistente de Bem-estar ",
+      "categoria": "eletronicos",
+      "preco": 189.0,
+      "preco_antigo": 359.0,
+      "desconto": 47,
+      "produto_url": "https://www.amazon.com.br/dp/B0DWFQCY3V",
+      "link": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-huawei-band-10-caixa-de-polimeros-d.jpg",
+      "visto_em": "2026-11-23",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
+    },
+    {
       "id": "organizador-para-armario-grande-branco",
       "titulo": "ORGANIZADOR PARA ARMARIO GRANDE BRANCO",
       "categoria": "casa",
