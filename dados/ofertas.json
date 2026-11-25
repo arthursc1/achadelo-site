@@ -21,22 +21,6 @@
   ],
   "ofertas": [
     {
-      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-ros",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
-      "categoria": "eletronicos",
-      "preco": 19.79,
-      "preco_antigo": 549.0,
-      "desconto": 96,
-      "produto_url": "https://www.amazon.com.br/dp/B0CVCF2J9Q",
-      "link": "https://www.amazon.com.br/dp/B0CVCF2J9Q?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-ros.jpg",
-      "visto_em": "2026-11-25",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
       "id": "parafusadeira-e-furadeira-de-impacto-48v-sem-f",
       "titulo": "Parafusadeira E Furadeira De Impacto 48V Sem Fio, Mandril 10mm, Torque 32Nm, 2 Baterias Recarregáveis, Velocidade Variáv",
       "categoria": "ferramentas",
@@ -193,22 +177,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
-      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-gra",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
-      "categoria": "eletronicos",
-      "preco": 179.11,
-      "preco_antigo": 549.0,
-      "desconto": 67,
-      "produto_url": "https://www.amazon.com.br/dp/B0CVCLGV1W",
-      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: smartwatch",
-      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-gra.jpg",
-      "visto_em": "2026-11-25",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
       "id": "colchao-casal-luuna-original-espuma-24cm-c",
       "titulo": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de Garantia",
       "categoria": "casa",
@@ -251,6 +219,22 @@
       "loja": "Mercado Livre",
       "link": "https://meli.la/2ntFC5a",
       "produto_url": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
+      "visto_em": "2026-11-25",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
+    },
+    {
+      "id": "smartwatch-samsung-galaxy-fit3-display-1-6-gra",
+      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+      "categoria": "eletronicos",
+      "preco": 195.0,
+      "preco_antigo": 549.0,
+      "desconto": 64,
+      "produto_url": "https://www.amazon.com.br/dp/B0CVCLGV1W",
+      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: smartwatch",
+      "foto": "assets/smartwatch-samsung-galaxy-fit3-display-1-6-gra.jpg",
       "visto_em": "2026-11-25",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
@@ -654,22 +638,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
-      "id": "jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio",
-      "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Preto",
-      "categoria": "eletronicos",
-      "preco": 163.3,
-      "preco_antigo": 299.0,
-      "desconto": 45,
-      "produto_url": "https://www.amazon.com.br/dp/B0GM1LSHQF",
-      "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: fone de ouvido bluetooth",
-      "foto": "assets/jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio.jpg",
-      "visto_em": "2026-11-24",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
-    },
-    {
       "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
       "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
       "categoria": "cozinha",
@@ -681,6 +649,22 @@
       "loja": "Amazon",
       "origem": "busca: jogo de panelas antiaderente",
       "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
+      "visto_em": "2026-11-24",
+      "destaque": false,
+      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
+    },
+    {
+      "id": "jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio",
+      "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Preto",
+      "categoria": "eletronicos",
+      "preco": 163.3,
+      "preco_antigo": 299.0,
+      "desconto": 45,
+      "produto_url": "https://www.amazon.com.br/dp/B0GM1LSHQF",
+      "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/jbl-tune-530bt-fone-bluetooth-over-ear-sem-fio.jpg",
       "visto_em": "2026-11-24",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
