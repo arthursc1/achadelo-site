@@ -304,6 +304,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 23/11/2026."
     },
     {
+      "id": "air-fryer-oven-philco-11l-8-funcoes-visor-1800",
+      "titulo": "Air Fryer Oven Philco 11L 8 Funções Visor 1800W PAF11B 127V",
+      "categoria": "cozinha",
+      "preco": 288.67,
+      "preco_antigo": 699.0,
+      "desconto": 59,
+      "produto_url": "https://www.amazon.com.br/dp/B0GHZ827S2",
+      "link": "https://www.amazon.com.br/dp/B0GHZ827S2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: air fryer",
+      "foto": "assets/air-fryer-oven-philco-11l-8-funcoes-visor-1800.jpg",
+      "visto_em": "2026-11-25",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
+    },
+    {
       "id": "electrolux-air-fryer-forno-5-x-1-12l-1700w-dig",
       "titulo": "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso",
       "categoria": "cozinha",
@@ -779,22 +795,6 @@
       "visto_em": "2026-11-19",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
-    },
-    {
-      "id": "jogo-de-panelas-tramontina-linz-em-aluminio-co",
-      "titulo": "Jogo de Panelas Tramontina Linz em Aluminio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 04 Peç",
-      "categoria": "cozinha",
-      "preco": 223.28,
-      "preco_antigo": 320.51,
-      "desconto": 30,
-      "produto_url": "https://www.amazon.com.br/dp/B0DF3R4R73",
-      "link": "https://www.amazon.com.br/dp/B0DF3R4R73?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-tramontina-linz-em-aluminio-co.jpg",
-      "visto_em": "2026-11-24",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
       "id": "filamento-impressora-masterprint-petg-3d-preto",
