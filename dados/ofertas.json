@@ -526,6 +526,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
+      "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
+      "titulo": "Jogo de Panelas Ceramic Life Smart Plus 6 Peças Vanilla Brinox",
+      "categoria": "cozinha",
+      "preco": 328.99,
+      "preco_antigo": 699.9,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
+      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-ceramic-life-smart-plus-6-peca.jpg",
+      "visto_em": "2026-11-25",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
+    },
+    {
       "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
       "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
       "categoria": "eletronicos",
@@ -654,22 +670,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
-      "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
-      "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
-      "categoria": "cozinha",
-      "preco": 349.0,
-      "preco_antigo": 629.99,
-      "desconto": 45,
-      "produto_url": "https://www.amazon.com.br/dp/B0DKG6MCGF",
-      "link": "https://www.amazon.com.br/dp/B0DKG6MCGF?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
-      "visto_em": "2026-11-24",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
-    },
-    {
       "id": "fone-bluetooth-redmi-buds-6-play-xiaomi-preto-",
       "titulo": "Fone Bluetooth Redmi Buds 6 Play Xiaomi, Preto (XM812PRE)",
       "categoria": "eletronicos",
@@ -734,6 +734,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-e-furadeira-12-v",
+      "titulo": "Vonder, Parafusadeira e Furadeira 12 V",
+      "categoria": "ferramentas",
+      "preco": 158.99,
+      "preco_antigo": 242.08,
+      "desconto": 34,
+      "produto_url": "https://www.amazon.com.br/dp/B07B2XB9D4",
+      "link": "https://www.amazon.com.br/dp/B07B2XB9D4?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-e-furadeira-12-v.jpg",
+      "visto_em": "2026-11-25",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
+    },
+    {
       "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
       "titulo": "Stels Jogo de Ferramentas 57 Peças 1/4\" - Aço Cromo Vanádio - Catraca 72 Dentes + Acessórios - Caixa Plástica Resistente",
       "categoria": "ferramentas",
@@ -791,22 +807,6 @@
       "loja": "Amazon",
       "link": "https://www.amazon.com.br/dp/B09WY3MSXN?th=1&tag=achadelo-20",
       "produto_url": "https://www.amazon.com.br/dp/B09WY3MSXN",
-      "visto_em": "2026-11-25",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
-      "id": "mimo-style-conjunto-de-panelas-10-pecas-pratic",
-      "titulo": "Mimo Style, Conjunto de Panelas 10 Peças Pratic Cook Marmol",
-      "categoria": "cozinha",
-      "preco": 479.9,
-      "preco_antigo": 634.03,
-      "desconto": 24,
-      "produto_url": "https://www.amazon.com.br/dp/B0D8MSBKNR",
-      "link": "https://www.amazon.com.br/dp/B0D8MSBKNR?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/mimo-style-conjunto-de-panelas-10-pecas-pratic.jpg",
       "visto_em": "2026-11-25",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
