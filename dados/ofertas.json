@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-25",
+  "atualizado": "2026-11-26",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -256,6 +256,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
+      "id": "parafusadeira-e-furadeira-de-impacto-wap-k21-i",
+      "titulo": "Parafusadeira e Furadeira de Impacto WAP K21 ID02, 21V, 45 Nm",
+      "categoria": "ferramentas",
+      "preco": 179.55,
+      "preco_antigo": 449.9,
+      "desconto": 60,
+      "produto_url": "https://www.amazon.com.br/dp/B0DQLSG6YK",
+      "link": "https://www.amazon.com.br/dp/B0DQLSG6YK?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/parafusadeira-e-furadeira-de-impacto-wap-k21-i.jpg",
+      "visto_em": "2026-11-26",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
+    },
+    {
       "id": "fone-de-ouvido-soundcore-by-anker-p20i-gra",
       "titulo": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Cham",
       "categoria": "eletronicos",
@@ -462,22 +478,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 25/11/2026."
     },
     {
-      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
-      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
-      "categoria": "cozinha",
-      "preco": 178.59,
-      "preco_antigo": 399.99,
-      "desconto": 55,
-      "produto_url": "https://www.amazon.com.br/dp/B0FQRMD19D",
-      "link": "https://www.amazon.com.br/dp/B0FQRMD19D?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de panelas antiaderente",
-      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
-      "visto_em": "2026-11-25",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
       "id": "philips-walita-fritadeira-airfryer-forno-serie",
       "titulo": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
       "categoria": "cozinha",
@@ -524,6 +524,22 @@
       "visto_em": "2026-11-24",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
+    },
+    {
+      "id": "house-organizer-jogo-de-panelas-antiaderente-c",
+      "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Ivory)",
+      "categoria": "cozinha",
+      "preco": 188.09,
+      "preco_antigo": 399.99,
+      "desconto": 53,
+      "produto_url": "https://www.amazon.com.br/dp/B0FZ13M2R2",
+      "link": "https://www.amazon.com.br/dp/B0FZ13M2R2?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/house-organizer-jogo-de-panelas-antiaderente-c.jpg",
+      "visto_em": "2026-11-26",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
     },
     {
       "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
@@ -574,22 +590,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 20/11/2026."
     },
     {
-      "id": "stanley-parafusadeira-e-furadeira-13mm-20v-scd",
-      "titulo": "STANLEY Parafusadeira e Furadeira 13mm 20V SCD701D2K 2 Baterias 1 Carregador e Maleta",
-      "categoria": "ferramentas",
-      "preco": 406.0,
-      "preco_antigo": 799.0,
-      "desconto": 49,
-      "produto_url": "https://www.amazon.com.br/dp/B0G1ZYG57R",
-      "link": "https://www.amazon.com.br/dp/B0G1ZYG57R?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/stanley-parafusadeira-e-furadeira-13mm-20v-scd.jpg",
-      "visto_em": "2026-11-18",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 18/11/2026."
-    },
-    {
       "id": "samsung-galaxy-buds-core-fone-de-ouvido-sem-fi",
       "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
       "categoria": "eletronicos",
@@ -620,6 +620,22 @@
       "visto_em": "2026-11-23",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
+    },
+    {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
+      "categoria": "casa",
+      "preco": 44.9,
+      "preco_antigo": 82.62,
+      "desconto": 46,
+      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
+      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-26",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
     },
     {
       "id": "jogo-de-soquete-kit-com-46-pecas-ferramentas-c",
@@ -697,22 +713,6 @@
       "loja": "Amazon",
       "origem": "busca: furadeira sem fio",
       "foto": "assets/bosch-parafusadeira-furadeira-gsr-1000-smart-1.jpg",
-      "visto_em": "2026-11-25",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 4 Potes",
-      "categoria": "casa",
-      "preco": 26.15,
-      "preco_antigo": 44.99,
-      "desconto": 42,
-      "produto_url": "https://www.amazon.com.br/dp/B0947B49P7",
-      "link": "https://www.amazon.com.br/dp/B0947B49P7?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
       "visto_em": "2026-11-25",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
