@@ -3,6 +3,42 @@
 
 const brl = (valor) => valor.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
 
+const DOMINIO = "https://achadelo.com.br";
+
+// O Search Console acusou "cópia sem página canônica selecionada pelo usuário": as
+// páginas de oferta saem todas do mesmo HTML, então quem diz qual URL é a boa é esta
+// função, chamada com a URL da oferta que está sendo montada.
+function declararCanonica(url) {
+  const alvo = `${DOMINIO}${url}`;
+  let link = document.querySelector('link[rel="canonical"]');
+  if (!link) {
+    link = document.createElement("link");
+    link.rel = "canonical";
+    document.head.appendChild(link);
+  }
+  link.href = alvo;
+  return alvo;
+}
+
+function declararMeta(nome, conteudo, atributo = "name") {
+  if (!conteudo) return;
+  let meta = document.querySelector(`meta[${atributo}="${nome}"]`);
+  if (!meta) {
+    meta = document.createElement("meta");
+    meta.setAttribute(atributo, nome);
+    document.head.appendChild(meta);
+  }
+  meta.setAttribute("content", conteudo);
+}
+
+// Casca sem oferta (id ausente ou desconhecido) não tem conteúdo próprio: além de
+// não competir com a vitrine no índice, ela não deve aparecer na busca.
+function marcarSemIndice() {
+  declararCanonica("/");
+  declararMeta("robots", "noindex, follow");
+}
+
+
 async function carregarOfertas() {
   const resposta = await fetch("dados/ofertas.json", { cache: "no-store" });
   if (!resposta.ok) throw new Error("não consegui ler dados/ofertas.json");
@@ -120,10 +156,22 @@ function montarOferta(dados, mascotes) {
       <h1>Oferta não encontrada</h1>
       <p class="nota">O endereço pode ter sido copiado errado, ou a oferta saiu do ar.</p>
       <p><a class="botao" href="./">ver todas as ofertas</a></p>`;
+    marcarSemIndice();
     return;
   }
 
   document.title = `${oferta.titulo} — Achadelo`;
+  // cada oferta é uma página: ela mesma é a versão boa do endereço (antes todas as 50
+  // apontavam para o mesmo HTML sem canônica, e o Google tratava o conjunto como cópia)
+  declararCanonica(`/oferta.html?id=${encodeURIComponent(oferta.id)}`);
+  declararMeta("description",
+    `${oferta.titulo} — ${brl(oferta.preco)} em ${oferta.loja}` +
+    (oferta.preco_antigo ? ` (de ${brl(oferta.preco_antigo)})` : "") +
+    `. Oferta conferida em ${oferta.visto_em.split("-").reverse().join("/")}.`);
+  declararMeta("og:title", `${oferta.titulo} — Achadelo`, "property");
+  declararMeta("og:description", `${brl(oferta.preco)} em ${oferta.loja} · link de afiliado`, "property");
+  declararMeta("og:url", `${DOMINIO}/oferta.html?id=${encodeURIComponent(oferta.id)}`, "property");
+  declararMeta("og:image", oferta.foto.startsWith("http") ? oferta.foto : `${DOMINIO}/${oferta.foto.replace(/^\.?\//, "")}`, "property");
   const semLink = !oferta.link;
   const info = mascoteDaCategoria(mascotes, oferta.categoria);
   const garimpado = info
