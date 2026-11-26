@@ -67,12 +67,15 @@ function imagemMascote(info, classe) {
   return `<img class="${classe}" src="${info.arquivo}" alt="" loading="lazy" width="512" height="512">`;
 }
 
+// O cartão leva direto para a página estática da oferta (/oferta/<id>/): existe de
+// verdade no repositório, com o conteúdo no HTML — antes apontava para o endereço de
+// JavaScript (oferta.html?id=…), que era uma casca só.
 function cardOferta(oferta) {
   const artigo = document.createElement("a");
   // oferta com cupom ganha brilho na borda e o aviso: o preço cheio continua sendo
   // o principal, porque o cupom é condicional (pode não estar mais disponível)
   artigo.className = oferta.preco_cupom ? "card com-cupom" : "card";
-  artigo.href = `oferta.html?id=${encodeURIComponent(oferta.id)}`;
+  artigo.href = `oferta/${encodeURIComponent(oferta.id)}/`;
   artigo.innerHTML = `
     <div class="foto">
       <img src="${oferta.foto}" alt="${oferta.titulo}" loading="lazy">
@@ -160,48 +163,14 @@ function montarOferta(dados, mascotes) {
     return;
   }
 
+  // Cada oferta agora tem página estática própria (/oferta/<id>/), com título, preço,
+  // foto e dados estruturados já no HTML — o Google não precisa mais executar
+  // JavaScript para ver a oferta. Este endereço antigo só leva o visitante até lá.
+  const estatica = `oferta/${encodeURIComponent(oferta.id)}/`;
+  declararCanonica(`/oferta/${encodeURIComponent(oferta.id)}/`);
   document.title = `${oferta.titulo} — Achadelo`;
-  // cada oferta é uma página: ela mesma é a versão boa do endereço (antes todas as 50
-  // apontavam para o mesmo HTML sem canônica, e o Google tratava o conjunto como cópia)
-  declararCanonica(`/oferta.html?id=${encodeURIComponent(oferta.id)}`);
-  declararMeta("description",
-    `${oferta.titulo} — ${brl(oferta.preco)} em ${oferta.loja}` +
-    (oferta.preco_antigo ? ` (de ${brl(oferta.preco_antigo)})` : "") +
-    `. Oferta conferida em ${oferta.visto_em.split("-").reverse().join("/")}.`);
-  declararMeta("og:title", `${oferta.titulo} — Achadelo`, "property");
-  declararMeta("og:description", `${brl(oferta.preco)} em ${oferta.loja} · link de afiliado`, "property");
-  declararMeta("og:url", `${DOMINIO}/oferta.html?id=${encodeURIComponent(oferta.id)}`, "property");
-  declararMeta("og:image", oferta.foto.startsWith("http") ? oferta.foto : `${DOMINIO}/${oferta.foto.replace(/^\.?\//, "")}`, "property");
-  const semLink = !oferta.link;
-  const info = mascoteDaCategoria(mascotes, oferta.categoria);
-  const garimpado = info
-    ? `<p class="garimpado">${imagemMascote(info, "")}<span>${info.frase}</span></p>`
-    : "";
-  alvo.innerHTML = `
-    <div class="foto${oferta.preco_cupom ? " com-cupom" : ""}">
-      <img src="${oferta.foto}" alt="${oferta.titulo}">
-      <span class="selo">-${oferta.desconto}%</span>
-      ${oferta.preco_cupom ? '<span class="selo-cupom">possível cupom</span>' : ""}
-    </div>
-    <div>
-      <span class="tag" style="color:var(--acento);font-size:.72rem;letter-spacing:.06em;text-transform:uppercase">${oferta.loja}</span>
-      <h1>${oferta.titulo}</h1>
-      <p class="de">${brl(oferta.preco_antigo)}</p>
-      <p class="preco">${brl(oferta.preco)}</p>
-      ${oferta.preco_cupom
-        ? `<p class="aviso-cupom">Possível cupom disponível: sai por ${brl(oferta.preco_cupom)} se o cupom ainda estiver ativo na loja. Confira na página do anúncio antes de fechar.</p>`
-        : ""}
-      ${oferta.observacao ? `<p class="nota">${oferta.observacao}</p>` : ""}
-      ${garimpado}
-      <p style="margin:18px 0 10px">
-        ${semLink
-          ? `<button class="botao" type="button" disabled>link de afiliado ainda não cadastrado</button>`
-          : `<a class="botao" href="${oferta.link}" rel="nofollow sponsored noopener" target="_blank">ver no ${oferta.loja}</a>`}
-      </p>
-      <p class="aviso-publicidade">link de afiliado · #publi</p>
-      <p class="nota">Preço conferido em ${oferta.visto_em.split("-").reverse().join("/")}. Oferta de terceiro: pode acabar ou mudar de preço a qualquer momento.</p>
-      ${oferta.exemplo ? `<p class="tarja-exemplo">Dados de exemplo, para avaliação do site. Preço não conferido em anúncio.</p>` : ""}
-    </div>`;
+  alvo.innerHTML = `<p class="carregando">abrindo <a href="${estatica}">${oferta.titulo}</a>…</p>`;
+  location.replace(estatica);
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
