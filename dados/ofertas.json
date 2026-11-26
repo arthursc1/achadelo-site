@@ -526,6 +526,22 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
+      "id": "soundcore-p20i-da-anker-fone-de-ouvido-bluetoo",
+      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
+      "categoria": "eletronicos",
+      "preco": 114.0,
+      "preco_antigo": 249.0,
+      "desconto": 54,
+      "produto_url": "https://www.amazon.com.br/dp/B0BTYCRJSS",
+      "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: fone de ouvido bluetooth",
+      "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
+      "visto_em": "2026-11-26",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
+    },
+    {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
       "titulo": "House Organizer Jogo de Panelas Antiaderente com Tampas de Vidro e Utensílios – 10 Peças (Marrom)",
       "categoria": "cozinha",
@@ -748,22 +764,6 @@
       "visto_em": "2026-11-25",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
-      "id": "stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro",
-      "titulo": "Stels Jogo de Ferramentas 57 Peças 1/4\" - Aço Cromo Vanádio - Catraca 72 Dentes + Acessórios - Caixa Plástica Resistente",
-      "categoria": "ferramentas",
-      "preco": 199.9,
-      "preco_antigo": 292.05,
-      "desconto": 32,
-      "produto_url": "https://www.amazon.com.br/dp/B07V9WV6M2",
-      "link": "https://www.amazon.com.br/dp/B07V9WV6M2?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/stels-jogo-de-ferramentas-57-pecas-1-4-aco-cro.jpg",
-      "visto_em": "2026-11-24",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 24/11/2026."
     },
     {
       "id": "filamento-pla-1-75mm-preto",
