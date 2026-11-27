@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-26",
+  "atualizado": "2026-11-27",
   "aviso": "Cada oferta precisa de: título, categoria, preço, preço antigo, desconto, foto, loja, link de afiliado real e a data em que o preço foi conferido. A categoria precisa estar na lista permitida pelo programa do Mercado Livre (ver docs/programas/mercadolivre.md).",
   "categorias": [
     {
@@ -350,22 +350,6 @@
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 26/11/2026."
     },
     {
-      "id": "vonder-parafusadeira-furadeira-a-bateria-pfv-1",
-      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 120, 12V, Bivolt, 650 RPM, Amarelo, com Maleta e Acessórios",
-      "categoria": "ferramentas",
-      "preco": 112.99,
-      "preco_antigo": 268.34,
-      "desconto": 58,
-      "produto_url": "https://www.amazon.com.br/dp/B09TB998J3",
-      "link": "https://www.amazon.com.br/dp/B09TB998J3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: furadeira sem fio",
-      "foto": "assets/vonder-parafusadeira-furadeira-a-bateria-pfv-1.jpg",
-      "visto_em": "2026-11-19",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
-    },
-    {
       "id": "kit-com-5-potes-de-vidro-gato-panda-640-ml-ret",
       "titulo": "Kit com 5 Potes de Vidro Gato Panda, 640 ml, Retangular, com Tampa Hermética, Azul",
       "categoria": "cozinha",
@@ -444,22 +428,6 @@
       "visto_em": "2026-11-22",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
-    },
-    {
-      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
-      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
-      "categoria": "casa",
-      "preco": 56.71,
-      "preco_antigo": 129.0,
-      "desconto": 56,
-      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
-      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: jogo de lençol casal",
-      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
-      "visto_em": "2026-11-19",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
@@ -548,14 +516,30 @@
       "preco": 114.0,
       "preco_antigo": 249.0,
       "desconto": 54,
-      "produto_url": "https://www.amazon.com.br/dp/B0BTYCRJSS",
-      "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=achadelo-20",
+      "produto_url": "https://www.amazon.com.br/dp/B0D5HSP346",
+      "link": "https://www.amazon.com.br/dp/B0D5HSP346?tag=achadelo-20",
       "loja": "Amazon",
       "origem": "busca: fone de ouvido bluetooth",
       "foto": "assets/soundcore-p20i-da-anker-fone-de-ouvido-bluetoo.jpg",
-      "visto_em": "2026-11-26",
+      "visto_em": "2026-11-27",
       "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
+      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
+    },
+    {
+      "id": "jogo-de-panelas-ceramic-life-smart-plus-6-peca",
+      "titulo": "Jogo de Panelas Ceramic Life Smart Plus 6 Peças Vanilla Brinox",
+      "categoria": "cozinha",
+      "preco": 321.9,
+      "preco_antigo": 699.9,
+      "desconto": 54,
+      "produto_url": "https://www.amazon.com.br/dp/B07BMZS1BN",
+      "link": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-ceramic-life-smart-plus-6-peca.jpg",
+      "visto_em": "2026-11-27",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
     },
     {
       "id": "soundcore-p30i-da-anker-anc-fone-de-ouvido-blu",
@@ -620,6 +604,22 @@
       "visto_em": "2026-11-23",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 23/11/2026."
+    },
+    {
+      "id": "acrimet-organizador-modular-de-gavetas-transpa",
+      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes",
+      "categoria": "casa",
+      "preco": 44.9,
+      "preco_antigo": 82.62,
+      "desconto": 46,
+      "produto_url": "https://www.amazon.com.br/dp/B0CPTD7WH3",
+      "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: organizador de armario",
+      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
+      "visto_em": "2026-11-27",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
     },
     {
       "id": "jogo-de-soquete-kit-com-46-pecas-ferramentas-c",
@@ -702,22 +702,6 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
     },
     {
-      "id": "acrimet-organizador-modular-de-gavetas-transpa",
-      "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 7 Potes",
-      "categoria": "casa",
-      "preco": 28.01,
-      "preco_antigo": 44.99,
-      "desconto": 38,
-      "produto_url": "https://www.amazon.com.br/dp/B07FTKKBM3",
-      "link": "https://www.amazon.com.br/dp/B07FTKKBM3?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: organizador de armario",
-      "foto": "assets/acrimet-organizador-modular-de-gavetas-transpa.jpg",
-      "visto_em": "2026-11-26",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
-    },
-    {
       "id": "jogo-de-cama-casal-padrao-percal-400-fios-pont",
       "titulo": "Jogo de Cama Casal Padrão Percal 400 Fios Ponto Palito 04 Peças, Antiácaro, Não faz bolinha Toque Extra Macio – Branco -",
       "categoria": "casa",
@@ -748,21 +732,6 @@
       "visto_em": "2026-11-25",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
-    },
-    {
-      "id": "filamento-pla-1-75mm-preto",
-      "titulo": "Filamento PLA 1,75mm, Preto",
-      "categoria": "insumos-3d",
-      "preco": 93.35,
-      "preco_antigo": 137.28,
-      "desconto": 32,
-      "foto": "assets/filamento-pla-1-75mm-preto.jpg",
-      "loja": "Amazon",
-      "link": "https://www.amazon.com.br/dp/B08MQQD45L?th=1&tag=achadelo-20",
-      "produto_url": "https://www.amazon.com.br/dp/B08MQQD45L",
-      "visto_em": "2026-11-19",
-      "destaque": false,
-      "observacao": "Link de afiliado do Achadelo. Preço conferido em 19/11/2026."
     },
     {
       "id": "bosch-parafusadeira-furadeira-impacto-gsb-18v-",
