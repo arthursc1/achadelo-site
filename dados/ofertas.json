@@ -366,6 +366,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
     },
     {
+      "id": "jogo-lencol-casal-3-pecas-400-fios-100-algodao",
+      "titulo": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
+      "categoria": "casa",
+      "preco": 56.71,
+      "preco_antigo": 129.0,
+      "desconto": 56,
+      "produto_url": "https://www.amazon.com.br/dp/B0C1LLWBVS",
+      "link": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de lençol casal",
+      "foto": "assets/jogo-lencol-casal-3-pecas-400-fios-100-algodao.jpg",
+      "visto_em": "2026-11-27",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
+    },
+    {
       "id": "wap-parafusadeira-e-furadeira-com-impacto-a-ba",
       "titulo": "WAP Parafusadeira e Furadeira com Impacto à Bateria 3/8\" 21V K21-ID01, com Maleta Organizadora, Torque 21 Níveis, Bivolt",
       "categoria": "ferramentas",
@@ -428,6 +444,22 @@
       "visto_em": "2026-11-22",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
+    },
+    {
+      "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
+      "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
+      "categoria": "cozinha",
+      "preco": 282.0,
+      "preco_antigo": 629.99,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0DKG6MCGF",
+      "link": "https://www.amazon.com.br/dp/B0DKG6MCGF?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/jogo-de-panelas-rochedo-expert-chocolate-5-pec.jpg",
+      "visto_em": "2026-11-27",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
     },
     {
       "id": "house-organizer-jogo-de-panelas-antiaderente-c",
