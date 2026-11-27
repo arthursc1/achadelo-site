@@ -318,6 +318,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 25/11/2026."
     },
     {
+      "id": "vonder-parafusadeira-furadeira-a-bateria-pfv-1",
+      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 120, 12V, Bivolt, 650 RPM, Amarelo, com Maleta e Acessórios",
+      "categoria": "ferramentas",
+      "preco": 112.99,
+      "preco_antigo": 268.34,
+      "desconto": 58,
+      "produto_url": "https://www.amazon.com.br/dp/B09TB998J3",
+      "link": "https://www.amazon.com.br/dp/B09TB998J3?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: furadeira sem fio",
+      "foto": "assets/vonder-parafusadeira-furadeira-a-bateria-pfv-1.jpg",
+      "visto_em": "2026-11-27",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
+    },
+    {
       "id": "sparta-maleta-de-ferramentas-kit-com-165-pecas",
       "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
       "categoria": "ferramentas",
@@ -764,22 +780,6 @@
       "visto_em": "2026-11-26",
       "destaque": false,
       "observacao": "Link de associado do Achadelo. Preço conferido em 26/11/2026."
-    },
-    {
-      "id": "mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p",
-      "titulo": "MTX Jogo de Chave Allen Longa 1,5–10 mm com 9 Peças – Aço Cromo-Vanádio e Acabamento Fosfatizado",
-      "categoria": "ferramentas",
-      "preco": 13.89,
-      "preco_antigo": 19.81,
-      "desconto": 30,
-      "produto_url": "https://www.amazon.com.br/dp/B07791B3XM",
-      "link": "https://www.amazon.com.br/dp/B07791B3XM?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: kit de chaves e ferramentas",
-      "foto": "assets/mtx-jogo-de-chave-allen-longa-1-510-mm-com-9-p.jpg",
-      "visto_em": "2026-11-27",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 27/11/2026."
     },
     {
       "id": "filamento-impressora-masterprint-petg-3d-preto",
