@@ -462,6 +462,22 @@
       "observacao": "Link de associado do Achadelo. Preço conferido em 22/11/2026."
     },
     {
+      "id": "conjunto-de-panelas-10-pecas-pratic-cook-marmo",
+      "titulo": "Conjunto de Panelas 10 Peças - Pratic Cook - Mármol",
+      "categoria": "cozinha",
+      "preco": 283.07,
+      "preco_antigo": 634.03,
+      "desconto": 55,
+      "produto_url": "https://www.amazon.com.br/dp/B0D8MSBKNR",
+      "link": "https://www.amazon.com.br/dp/B0D8MSBKNR?tag=achadelo-20",
+      "loja": "Amazon",
+      "origem": "busca: jogo de panelas antiaderente",
+      "foto": "assets/conjunto-de-panelas-10-pecas-pratic-cook-marmo.jpg",
+      "visto_em": "2026-11-28",
+      "destaque": false,
+      "observacao": "Link de associado do Achadelo. Preço conferido em 28/11/2026."
+    },
+    {
       "id": "jogo-de-panelas-rochedo-expert-chocolate-5-pec",
       "titulo": "Jogo de Panelas Rochedo Expert Chocolate 5 peças",
       "categoria": "cozinha",
@@ -604,22 +620,6 @@
       "visto_em": "2026-11-27",
       "destaque": false,
       "observacao": "Link de afiliado do Achadelo. Preço conferido em 27/11/2026."
-    },
-    {
-      "id": "philips-walita-fritadeira-airfryer-serie-1000-",
-      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V",
-      "categoria": "cozinha",
-      "preco": 279.0,
-      "preco_antigo": 549.9,
-      "desconto": 49,
-      "produto_url": "https://www.amazon.com.br/dp/B0D98VK8PP",
-      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=achadelo-20",
-      "loja": "Amazon",
-      "origem": "busca: air fryer",
-      "foto": "assets/philips-walita-fritadeira-airfryer-serie-1000-.jpg",
-      "visto_em": "2026-11-28",
-      "destaque": false,
-      "observacao": "Link de associado do Achadelo. Preço conferido em 28/11/2026."
     },
     {
       "id": "organizador-para-armario-grande-branco",
